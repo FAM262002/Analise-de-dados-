@@ -1,0 +1,1628 @@
+CLIENTNUM,Categoria,Idade,Sexo,Dependentes,Educação,Estado Civil,Faixa Salarial Anual,Categoria Cartão,Meses como Cliente,Produtos Contratados,Inatividade 12m,Contatos 12m,Limite,Limite Consumido,Limite Disponível,Mudanças Transacoes_Q4_Q1,Valor Transacoes 12m,Qtde Transacoes 12m,Mudança Qtde Transações_Q4_Q1,Taxa de Utilização Cartão
+708508758,Cancelado,62,F,0,Ensino Superior,Casado,Less than $40K,Blue,49,2,3,3,1438.3,0,1438.3,1047.0,692,16,0.6,0.0
+708300483,Cancelado,66,F,0,Doutorado,Casado,Não informado,Blue,56,5,4,3,7882.0,605,7277.0,1052.0,704,16,0.143,0.077
+779471883,Cancelado,54,F,1,Ensino Superior,Casado,Less than $40K,Blue,40,2,3,1,1438.3,808,630.3,0.997,705,19,0.9,0.562
+714374133,Cancelado,56,M,2,Ensino Superior,Casado,$120K +,Blue,36,1,3,3,15769.0,0,15769.0,1041.0,602,15,0.364,0.0
+712030833,Cancelado,48,M,2,Ensino Superior,Casado,$60K - $80K,Silver,35,2,4,4,34516.0,0,34516.0,0.763,691,15,0.5,0.0
+711013983,Cancelado,55,F,4,Não informado,Casado,$40K - $60K,Blue,45,2,4,3,2158.0,0,2158.0,0.585,615,12,0.714,0.0
+711887583,Cancelado,47,M,2,Não informado,Casado,$80K - $120K,Blue,37,2,3,3,5449.0,1628,3821.0,0.696,836,18,0.385,0.299
+720201033,Cancelado,53,M,2,Ensino Superior,Casado,$80K - $120K,Blue,41,3,3,2,11669.0,2227,9442.0,0.622,720,23,0.353,0.191
+789322833,Cancelado,48,F,5,Ensino Médio,Casado,Less than $40K,Blue,38,1,3,3,8025.0,0,8025.0,0.654,673,18,0.8,0.0
+767712558,Cancelado,59,M,1,Ensino Superior Incompleto,Solteiro,$60K - $80K,Blue,53,2,3,3,14979.0,0,14979.0,0.71,530,10,1.0,0.0
+712950783,Cancelado,48,F,4,Sem ensino formal,Casado,Less than $40K,Blue,38,3,2,3,2732.0,0,2732.0,0.76,739,16,0.455,0.0
+713741358,Cancelado,46,M,5,Ensino Superior,Solteiro,$80K - $120K,Blue,33,6,3,3,32975.0,2517,30458.0,0.658,597,17,0.7,0.076
+708953883,Cancelado,53,M,2,Não informado,Casado,$80K - $120K,Blue,36,2,2,1,3212.0,0,3212.0,0.713,757,20,0.25,0.0
+708868233,Cancelado,68,M,0,Ensino Médio,Casado,Less than $40K,Blue,52,1,3,2,1438.3,900,538.3,0.743,760,21,0.615,0.626
+719808558,Cancelado,55,F,2,Ensino Superior,Casado,Less than $40K,Blue,43,2,4,3,1438.3,0,1438.3,0.707,886,27,0.421,0.0
+711551958,Cancelado,59,M,2,Post-Ensino Superior,Casado,$60K - $80K,Blue,46,3,3,3,1438.3,0,1438.3,0.688,844,24,0.5,0.0
+772336458,Cancelado,60,F,1,Sem ensino formal,Casado,$40K - $60K,Blue,50,4,4,3,1438.3,1025,413.3,0.838,702,12,0.714,0.713
+720997383,Cancelado,52,M,1,Sem ensino formal,Casado,$80K - $120K,Blue,36,2,3,3,1857.0,1833,24.0,0.723,829,17,0.7,0.987
+710299608,Cancelado,53,F,2,Não informado,Casado,Less than $40K,Blue,33,2,3,3,2859.0,2517,342.0,0.993,817,30,0.667,0.88
+821797008,Cancelado,49,M,5,Ensino Superior Incompleto,Casado,$40K - $60K,Blue,45,2,2,3,1438.3,0,1438.3,0.734,815,21,0.615,0.0
+708874533,Cancelado,45,F,2,Ensino Superior Incompleto,Casado,Less than $40K,Blue,36,1,3,2,3387.0,0,3387.0,0.789,510,24,0.6,0.0
+712125258,Cancelado,46,M,4,Ensino Médio,Casado,$120K +,Blue,30,3,3,3,2442.0,0,2442.0,0.98,701,19,0.727,0.0
+772390908,Cancelado,59,M,0,Ensino Médio,Solteiro,$40K - $60K,Blue,48,2,4,3,3616.0,1054,2562.0,0.616,687,17,0.545,0.291
+778867533,Cancelado,59,F,0,Post-Ensino Superior,Casado,$40K - $60K,Blue,40,1,4,1,1438.3,0,1438.3,1038.0,689,23,0.353,0.0
+771809733,Cancelado,64,F,0,Ensino Médio,Casado,$40K - $60K,Blue,53,1,3,3,3353.0,0,3353.0,1021.0,960,18,0.385,0.0
+719211558,Cancelado,45,M,2,Ensino Superior,Solteiro,$60K - $80K,Blue,36,1,1,2,3401.0,0,3401.0,0.898,744,18,1.0,0.0
+718621608,Cancelado,54,F,2,Ensino Médio,Casado,Não informado,Blue,44,3,3,1,6094.0,0,6094.0,1129.0,909,14,0.273,0.0
+720272958,Cancelado,48,M,2,Ensino Médio,Casado,$120K +,Blue,36,3,3,3,27126.0,0,27126.0,0.953,1000,25,0.786,0.0
+709173108,Cancelado,54,F,4,Ensino Superior,Casado,Não informado,Blue,40,6,2,2,2532.0,2221,311.0,0.491,799,21,0.235,0.877
+708330858,Cancelado,57,M,3,Ensino Superior,Casado,$120K +,Blue,38,2,3,3,8249.0,1381,6868.0,0.798,678,11,0.833,0.167
+709278258,Cancelado,54,M,2,Não informado,Casado,$40K - $60K,Blue,44,4,3,2,2902.0,2517,385.0,0.821,996,26,0.444,0.867
+714871683,Cancelado,58,M,1,Sem ensino formal,Casado,$40K - $60K,Blue,36,2,4,3,1438.3,537,901.3,0.819,715,13,0.182,0.373
+708288108,Cancelado,43,M,4,Post-Ensino Superior,Não informado,$80K - $120K,Blue,30,2,5,3,5639.0,1547,4092.0,1087.0,647,15,0.364,0.274
+717354558,Cancelado,57,M,2,Sem ensino formal,Casado,$120K +,Blue,40,3,3,3,3106.0,1120,1986.0,1045.0,683,17,0.7,0.361
+714639783,Cancelado,42,M,3,Ensino Superior Incompleto,Casado,$60K - $80K,Blue,34,3,3,3,13450.0,0,13450.0,0.742,1000,18,0.059,0.0
+778868958,Cancelado,42,F,2,Ensino Superior,Casado,Less than $40K,Blue,23,3,3,3,1929.0,1673,256.0,0.835,857,36,1118.0,0.867
+710940183,Cancelado,49,F,3,Ensino Superior,Casado,Less than $40K,Blue,38,6,3,2,2185.0,0,2185.0,0.727,715,20,0.818,0.0
+709547658,Cancelado,39,M,2,Sem ensino formal,Solteiro,$60K - $80K,Blue,36,5,3,3,13961.0,1299,12662.0,0.842,783,20,0.667,0.093
+712159083,Cancelado,58,F,4,Não informado,Casado,Less than $40K,Blue,46,2,3,3,2536.0,0,2536.0,0.917,901,35,0.522,0.0
+711791583,Cancelado,52,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,40,1,2,2,2317.0,0,2317.0,1005.0,884,19,0.727,0.0
+712315683,Cancelado,53,F,2,Sem ensino formal,Solteiro,Less than $40K,Blue,45,1,1,1,1981.0,1518,463.0,1019.0,973,25,0.923,0.766
+789842283,Cancelado,54,M,2,Ensino Superior,Casado,$60K - $80K,Blue,42,3,3,2,4320.0,0,4320.0,0.967,706,21,0.5,0.0
+719418933,Cancelado,53,M,2,Sem ensino formal,Casado,$80K - $120K,Blue,36,1,3,3,4503.0,0,4503.0,0.659,748,20,0.429,0.0
+781794708,Cancelado,35,M,3,Post-Ensino Superior,Não informado,$80K - $120K,Blue,29,2,1,3,17030.0,1911,15119.0,0.528,715,25,0.562,0.112
+714272658,Cancelado,43,F,2,Sem ensino formal,Solteiro,Less than $40K,Blue,24,2,3,2,2962.0,2517,445.0,1046.0,929,31,0.409,0.85
+767294658,Cancelado,56,M,2,Ensino Superior Incompleto,Solteiro,$120K +,Blue,50,2,2,3,16867.0,0,16867.0,0.885,654,14,0.4,0.0
+708241233,Cancelado,52,F,3,Post-Ensino Superior,Solteiro,Less than $40K,Blue,47,3,3,2,2972.0,0,2972.0,1035.0,922,25,0.562,0.0
+716223708,Cancelado,45,F,3,Sem ensino formal,Solteiro,Não informado,Blue,36,3,3,3,4028.0,710,3318.0,0.731,791,22,0.833,0.176
+719443683,Cancelado,50,M,1,Não informado,Solteiro,$120K +,Blue,39,3,2,3,27512.0,2137,25375.0,1048.0,1149,25,0.562,0.078
+779610033,Cancelado,58,M,1,Ensino Superior Incompleto,Casado,$80K - $120K,Blue,47,3,3,3,12151.0,1799,10352.0,1022.0,918,14,0.556,0.148
+709345008,Cancelado,53,F,2,Doutorado,Casado,Não informado,Blue,39,1,2,3,1438.3,0,1438.3,0.644,807,22,0.692,0.0
+721417233,Cancelado,45,M,2,Ensino Superior,Casado,$60K - $80K,Blue,25,3,5,3,1438.3,0,1438.3,0.676,709,27,0.421,0.0
+769137108,Cancelado,43,F,2,Post-Ensino Superior,Casado,Less than $40K,Blue,37,3,3,1,1438.3,0,1438.3,1004.0,974,28,0.273,0.0
+717640083,Cancelado,59,M,1,Ensino Médio,Casado,$60K - $80K,Blue,36,3,2,3,6705.0,0,6705.0,0.749,731,18,0.5,0.0
+794977533,Cancelado,62,M,0,Ensino Médio,Casado,$60K - $80K,Blue,56,3,3,2,8077.0,0,8077.0,0.749,906,16,0.333,0.0
+752604633,Cancelado,57,M,2,Ensino Superior Incompleto,Casado,$40K - $60K,Blue,50,2,5,3,6462.0,0,6462.0,0.856,761,17,0.214,0.0
+711242058,Cancelado,48,M,4,Não informado,Solteiro,$80K - $120K,Blue,36,1,3,1,11862.0,2517,9345.0,0.766,643,16,0.231,0.212
+718121658,Cancelado,56,M,1,Ensino Superior Incompleto,Casado,$60K - $80K,Blue,44,5,3,3,1704.0,0,1704.0,0.701,660,17,0.308,0.0
+711593808,Cancelado,55,M,1,Ensino Médio,Casado,$60K - $80K,Blue,46,2,2,3,1438.3,0,1438.3,1037.0,888,18,1.25,0.0
+718731183,Cancelado,61,M,1,Não informado,Casado,$40K - $60K,Blue,49,1,2,2,5472.0,788,4684.0,0.526,705,14,0.273,0.144
+713865333,Cancelado,45,F,4,Sem ensino formal,Casado,Less than $40K,Blue,38,3,4,3,4908.0,0,4908.0,0.993,827,21,0.75,0.0
+797707008,Cancelado,44,F,3,Doutorado,Casado,Less than $40K,Blue,38,6,1,3,7222.0,0,7222.0,0.685,920,18,0.5,0.0
+720370533,Cancelado,55,M,3,Sem ensino formal,Casado,$60K - $80K,Blue,44,3,2,2,2323.0,0,2323.0,0.737,804,15,0.5,0.0
+718675158,Cancelado,55,F,1,Não informado,Casado,Less than $40K,Blue,36,4,1,3,1438.3,361,1077.3,0.963,850,22,0.692,0.251
+720605808,Cancelado,53,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,36,2,2,3,1438.3,0,1438.3,0.672,799,17,0.214,0.0
+770724558,Cancelado,42,M,2,Ensino Superior Incompleto,Casado,$60K - $80K,Blue,28,6,1,3,7340.0,0,7340.0,0.65,838,24,0.412,0.0
+719309958,Cancelado,55,M,3,Doutorado,Solteiro,$80K - $120K,Blue,35,4,1,3,20865.0,0,20865.0,0.881,837,25,0.667,0.0
+808897683,Cancelado,53,M,1,Ensino Superior,Solteiro,$80K - $120K,Blue,48,3,3,3,30271.0,1406,28865.0,1336.0,3231,47,0.306,0.046
+718939083,Cancelado,54,F,2,Ensino Superior,Casado,Less than $40K,Blue,45,3,1,3,1438.3,306,1132.3,1035.0,694,15,0.364,0.213
+712979133,Cancelado,55,M,4,Ensino Médio,Casado,$80K - $120K,Blue,41,2,2,2,27560.0,900,26660.0,1031.0,646,10,0.25,0.033
+720071583,Cancelado,48,F,2,Não informado,Casado,Less than $40K,Blue,36,5,1,3,7151.0,800,6351.0,0.986,854,22,0.375,0.112
+812420358,Cancelado,61,F,0,Ensino Superior,Casado,Less than $40K,Blue,56,3,3,3,2122.0,554,1568.0,0.857,949,17,0.133,0.261
+798792408,Cancelado,48,M,3,Ensino Médio,Casado,$80K - $120K,Blue,42,1,1,3,9959.0,0,9959.0,0.688,805,24,0.143,0.0
+711204483,Cancelado,56,M,4,Ensino Médio,Casado,$60K - $80K,Blue,46,3,3,3,2340.0,1930,410.0,0.987,781,15,0.364,0.825
+713945883,Cancelado,62,F,2,Ensino Superior,Casado,Less than $40K,Blue,52,4,2,2,2490.0,513,1977.0,0.678,864,20,0.333,0.206
+789513858,Cancelado,43,M,3,Não informado,Casado,$40K - $60K,Blue,35,2,2,3,1438.3,0,1438.3,0.694,891,28,0.4,0.0
+771963708,Cancelado,56,M,3,Não informado,Casado,$60K - $80K,Blue,45,5,3,2,12248.0,0,12248.0,0.894,767,25,0.562,0.0
+712433508,Cancelado,59,F,1,Não informado,Casado,Não informado,Blue,50,3,2,3,1438.3,0,1438.3,0.57,724,16,0.231,0.0
+778506633,Cancelado,43,F,4,Ensino Superior Incompleto,Casado,Less than $40K,Blue,23,6,2,3,7706.0,392,7314.0,0.764,965,27,0.421,0.051
+713530833,Cancelado,58,M,2,Ensino Superior,Casado,$40K - $60K,Blue,48,2,3,3,4085.0,2238,1847.0,0.568,596,15,0.5,0.548
+778699908,Cancelado,43,M,2,Sem ensino formal,Casado,$60K - $80K,Blue,24,2,3,3,14447.0,0,14447.0,0.856,915,29,2222.0,0.0
+716991933,Cancelado,53,F,3,Sem ensino formal,Solteiro,Less than $40K,Blue,35,6,3,1,9786.0,0,9786.0,0.701,820,25,0.562,0.0
+802002858,Cancelado,62,F,1,Ensino Médio,Casado,Não informado,Blue,56,2,1,2,8990.0,0,8990.0,0.935,747,19,0.583,0.0
+712373208,Cancelado,43,M,3,Doutorado,Solteiro,$60K - $80K,Blue,35,3,3,2,3312.0,0,3312.0,0.698,647,19,0.462,0.0
+708455883,Cancelado,57,M,1,Ensino Superior,Solteiro,$80K - $120K,Blue,36,2,3,2,10244.0,861,9383.0,0.78,1127,29,0.381,0.084
+763895958,Cancelado,53,M,2,Ensino Médio,Casado,$120K +,Blue,46,4,3,1,7474.0,0,7474.0,0.858,732,21,0.615,0.0
+711927108,Cancelado,54,M,3,Ensino Médio,Casado,$80K - $120K,Blue,36,2,3,4,9457.0,350,9107.0,1024.0,1196,28,0.333,0.037
+711147483,Cancelado,46,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,28,2,2,3,8551.0,1067,7484.0,0.931,1097,32,0.778,0.125
+720990183,Cancelado,54,M,5,Ensino Médio,Casado,$60K - $80K,Blue,36,5,2,3,14539.0,0,14539.0,0.907,965,26,0.529,0.0
+716608608,Cancelado,41,M,2,Sem ensino formal,Casado,$80K - $120K,Blue,33,5,3,3,8004.0,1452,6552.0,0.929,1084,32,0.524,0.181
+788673708,Cancelado,57,F,2,Ensino Médio,Casado,$40K - $60K,Blue,45,2,1,3,1438.3,0,1438.3,1036.0,1254,35,0.842,0.0
+816600933,Cancelado,56,M,0,Ensino Superior Incompleto,Casado,$80K - $120K,Blue,51,3,2,3,14501.0,0,14501.0,0.854,1031,25,0.389,0.0
+714208533,Cancelado,43,M,3,Ensino Médio,Casado,$60K - $80K,Blue,36,1,3,3,8663.0,288,8375.0,0.639,916,33,0.32,0.033
+720426708,Cancelado,56,M,3,Ensino Médio,Solteiro,$60K - $80K,Blue,45,2,1,3,8512.0,0,8512.0,1038.0,811,27,1.25,0.0
+708983658,Cancelado,51,M,2,Sem ensino formal,Solteiro,$120K +,Blue,39,3,3,1,16868.0,0,16868.0,0.938,940,25,0.471,0.0
+778663458,Cancelado,65,M,1,Ensino Médio,Casado,Less than $40K,Blue,47,3,2,1,1759.0,0,1759.0,1058.0,821,18,0.5,0.0
+716024808,Cancelado,57,M,1,Ensino Superior,Casado,$80K - $120K,Blue,36,3,3,3,4829.0,2418,2411.0,0.601,938,21,0.4,0.501
+721249158,Cancelado,42,M,2,Sem ensino formal,Solteiro,$60K - $80K,Blue,30,2,2,3,6414.0,0,6414.0,0.718,708,14,0.4,0.0
+713845083,Cancelado,41,F,4,Ensino Médio,Solteiro,Less than $40K,Blue,36,6,2,3,4203.0,2517,1686.0,0.771,1489,43,0.536,0.599
+813499458,Cancelado,45,M,5,Ensino Médio,Não informado,$60K - $80K,Blue,40,3,3,1,1438.3,0,1438.3,1.23,2132,31,0.107,0.0
+712240083,Cancelado,38,F,3,Não informado,Solteiro,Less than $40K,Blue,30,6,2,2,3730.0,2517,1213.0,0.853,858,22,0.467,0.675
+772532208,Cancelado,51,F,2,Doutorado,Casado,Less than $40K,Blue,41,2,2,3,6630.0,916,5714.0,0.927,842,24,0.5,0.138
+778929783,Cancelado,40,M,3,Ensino Superior,Divorciado,$80K - $120K,Blue,22,2,2,3,1925.0,0,1925.0,0.672,781,28,0.75,0.0
+713053383,Cancelado,42,M,3,Ensino Superior,Casado,$80K - $120K,Blue,36,1,1,3,34516.0,781,33735.0,0.803,853,12,0.091,0.023
+803595858,Cancelado,56,F,3,Ensino Médio,Casado,$40K - $60K,Blue,51,5,2,1,1438.3,0,1438.3,0.597,594,14,0.556,0.0
+710754933,Cancelado,61,F,0,Ensino Superior,Casado,Less than $40K,Blue,49,6,2,3,1438.3,0,1438.3,0.94,840,20,0.818,0.0
+720007383,Cancelado,41,F,2,Não informado,Solteiro,Não informado,Blue,28,2,1,3,4411.0,2517,1894.0,0.988,803,15,0.875,0.571
+718362783,Cancelado,35,M,2,Ensino Superior,Casado,$80K - $120K,Blue,27,3,2,3,12643.0,0,12643.0,0.393,787,21,0.167,0.0
+708856983,Cancelado,36,M,3,Post-Ensino Superior,Casado,$120K +,Blue,27,2,1,2,13873.0,0,13873.0,0.233,694,18,0.286,0.0
+709961958,Cancelado,58,F,4,Ensino Médio,Divorciado,Não informado,Blue,45,4,1,1,21065.0,2517,18548.0,0.84,1060,32,0.333,0.119
+717412608,Cancelado,38,F,2,Ensino Médio,Casado,$40K - $60K,Blue,28,3,2,2,7225.0,0,7225.0,0.419,738,16,0.231,0.0
+712120608,Cancelado,35,M,3,Ensino Superior Incompleto,Casado,$80K - $120K,Blue,27,3,2,3,3575.0,1884,1691.0,0.384,861,15,1.5,0.527
+710899833,Cancelado,36,M,2,Ensino Superior,Casado,$40K - $60K,Blue,18,3,1,3,7758.0,1408,6350.0,0.365,569,23,0.643,0.181
+739594758,Cancelado,51,F,2,Ensino Superior,Solteiro,Less than $40K,Blue,44,6,3,2,3181.0,2517,664.0,0.595,818,16,0.455,0.791
+714078558,Cancelado,62,F,1,Ensino Médio,Casado,$40K - $60K,Blue,53,2,1,1,5249.0,0,5249.0,0.758,1315,31,0.722,0.0
+779216358,Cancelado,48,M,2,Ensino Superior Incompleto,Casado,$80K - $120K,Blue,38,2,2,3,2111.0,0,2111.0,0.531,773,17,0.133,0.0
+712924383,Cancelado,55,M,3,Não informado,Solteiro,$60K - $80K,Blue,36,3,2,2,8411.0,979,7432.0,1029.0,990,22,0.375,0.116
+714983283,Cancelado,39,F,3,Ensino Médio,Solteiro,Less than $40K,Blue,36,6,1,3,3651.0,0,3651.0,0.977,862,19,1111.0,0.0
+710406633,Cancelado,51,F,3,Sem ensino formal,Casado,Não informado,Blue,36,3,3,2,3664.0,0,3664.0,0.839,1168,31,0.409,0.0
+709991883,Cancelado,53,M,1,Ensino Superior,Casado,$80K - $120K,Blue,42,2,1,2,6214.0,1147,5067.0,0.861,938,35,0.75,0.185
+809951133,Cancelado,54,M,3,Ensino Superior Incompleto,Solteiro,$120K +,Blue,49,3,2,3,34516.0,0,34516.0,1203.0,2115,24,0.263,0.0
+720141408,Cancelado,49,F,2,Ensino Superior,Solteiro,Less than $40K,Blue,31,5,1,2,5456.0,951,4505.0,0.737,1096,27,0.588,0.174
+768490458,Cancelado,49,M,2,Sem ensino formal,Casado,$80K - $120K,Blue,43,1,3,3,5701.0,2517,3184.0,0.716,961,32,0.524,0.442
+712196508,Cancelado,46,F,3,Ensino Médio,Solteiro,Não informado,Blue,34,4,3,3,29543.0,1164,28379.0,0.717,1015,27,0.35,0.039
+711159108,Cancelado,58,F,0,Ensino Médio,Casado,Less than $40K,Blue,36,3,2,2,7418.0,396,7022.0,0.826,911,26,1.0,0.053
+713206683,Cancelado,40,M,4,Ensino Superior,Solteiro,$80K - $120K,Silver,22,3,1,3,34516.0,0,34516.0,0.64,1028,26,0.3,0.0
+778388358,Cancelado,56,M,3,Ensino Superior,Solteiro,$60K - $80K,Blue,36,2,2,3,4742.0,855,3887.0,0.635,870,24,0.5,0.18
+779722308,Cancelado,45,F,3,Ensino Médio,Casado,$40K - $60K,Blue,30,5,2,2,12355.0,0,12355.0,0.912,1044,28,0.273,0.0
+713823033,Cancelado,31,F,2,Não informado,Casado,Não informado,Blue,20,3,1,2,8149.0,0,8149.0,0.331,808,30,0.111,0.0
+787515333,Cancelado,40,M,3,Sem ensino formal,Casado,$80K - $120K,Blue,29,3,2,3,3616.0,1151,2465.0,0.687,820,21,0.75,0.318
+710819733,Cancelado,56,M,3,Ensino Superior,Casado,$120K +,Blue,36,5,1,1,12211.0,0,12211.0,0.642,903,29,0.526,0.0
+818375733,Cancelado,51,F,2,Ensino Superior Incompleto,Casado,$40K - $60K,Blue,46,3,1,3,4882.0,695,4187.0,0.508,1544,44,0.517,0.142
+709707033,Cancelado,45,M,3,Ensino Superior,Solteiro,$60K - $80K,Blue,32,2,3,2,13162.0,0,13162.0,0.512,1424,38,0.583,0.0
+721178583,Cancelado,37,F,3,Ensino Superior,Não informado,Não informado,Blue,22,2,3,2,5674.0,0,5674.0,0.906,1096,29,0.526,0.0
+771544533,Cancelado,42,F,5,Ensino Médio,Casado,Não informado,Blue,30,3,1,4,3578.0,0,3578.0,0.759,1015,36,0.44,0.0
+708927108,Cancelado,53,M,2,Ensino Superior,Casado,$120K +,Blue,36,1,3,2,12778.0,507,12271.0,0.967,1133,28,0.4,0.04
+711772008,Cancelado,35,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,22,1,2,1,1890.0,666,1224.0,0.691,1483,36,0.5,0.352
+708799983,Cancelado,40,M,1,Post-Ensino Superior,Casado,$60K - $80K,Blue,36,6,3,4,18386.0,890,17496.0,0.361,1698,43,0.483,0.048
+718418958,Cancelado,30,M,1,Post-Ensino Superior,Divorciado,Less than $40K,Blue,36,6,2,4,5061.0,0,5061.0,0.911,1309,38,0.462,0.0
+821179233,Cancelado,50,F,1,Post-Ensino Superior,Solteiro,$40K - $60K,Blue,46,1,3,3,1493.0,932,561.0,0.466,1554,43,0.344,0.624
+813752433,Cancelado,43,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,38,5,2,4,4075.0,1986,2089.0,1214.0,2449,27,0.038,0.487
+708083283,Cancelado,58,M,0,Não informado,Solteiro,$40K - $60K,Blue,45,3,1,3,3421.0,2517,904.0,0.992,992,21,0.4,0.736
+806407308,Cancelado,54,F,3,Ensino Superior Incompleto,Solteiro,Não informado,Blue,49,6,2,3,13184.0,0,13184.0,1166.0,2047,33,0.179,0.0
+758583708,Cancelado,37,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,24,2,1,4,2802.0,2460,342.0,1029.0,1406,28,0.077,0.878
+721003008,Cancelado,36,F,4,Ensino Superior,Casado,Less than $40K,Blue,24,3,2,2,3261.0,2517,744.0,0.378,856,18,0.059,0.772
+778708533,Cancelado,26,F,0,Ensino Médio,Solteiro,$40K - $60K,Blue,13,2,2,4,1730.0,1616,114.0,0.331,869,27,0.286,0.934
+720122808,Cancelado,52,M,2,Ensino Médio,Casado,$60K - $80K,Silver,35,4,4,3,33180.0,511,32669.0,0.681,797,14,0.273,0.015
+713259858,Cancelado,26,M,0,Ensino Médio,Solteiro,$40K - $60K,Blue,15,3,1,3,3324.0,0,3324.0,0.537,982,22,0.692,0.0
+716053083,Cancelado,33,M,2,Ensino Superior,Casado,$120K +,Blue,21,2,2,4,27992.0,0,27992.0,0.433,837,18,1.0,0.0
+709537683,Cancelado,37,M,3,Ensino Superior Incompleto,Casado,$80K - $120K,Blue,30,3,4,3,11638.0,926,10712.0,0.262,563,15,0.364,0.08
+790145733,Cancelado,40,M,3,Ensino Superior Incompleto,Solteiro,$80K - $120K,Silver,33,1,3,4,34516.0,0,34516.0,0.927,1112,26,0.368,0.0
+711509658,Cancelado,61,M,2,Ensino Superior,Casado,$120K +,Blue,49,3,0,4,11374.0,2517,8857.0,1015.0,1088,26,1167.0,0.221
+719818983,Cancelado,39,M,1,Ensino Superior Incompleto,Divorciado,$80K - $120K,Blue,28,1,3,4,12464.0,0,12464.0,0.864,1195,35,0.522,0.0
+804668658,Cancelado,26,F,0,Sem ensino formal,Solteiro,Less than $40K,Blue,20,3,2,4,1438.3,0,1438.3,0.506,947,20,0.053,0.0
+720610008,Cancelado,59,M,1,Ensino Superior Incompleto,Casado,$120K +,Blue,50,1,5,4,15796.0,812,14984.0,0.719,1339,23,0.15,0.051
+771028533,Cancelado,48,F,3,Post-Ensino Superior,Casado,Less than $40K,Silver,35,5,1,3,10357.0,0,10357.0,0.506,911,25,0.19,0.0
+819610908,Cancelado,38,M,2,Sem ensino formal,Solteiro,$80K - $120K,Blue,33,1,4,4,32938.0,2089,30849.0,0.72,1137,26,0.238,0.063
+816013383,Cancelado,65,F,0,Ensino Superior,Divorciado,Less than $40K,Blue,56,3,6,3,6184.0,0,6184.0,1016.0,1712,27,0.286,0.0
+808273533,Cancelado,39,M,2,Ensino Médio,Solteiro,$60K - $80K,Blue,34,3,4,3,1818.0,0,1818.0,0.651,2054,55,0.774,0.0
+785011383,Cancelado,36,F,0,Sem ensino formal,Divorciado,$40K - $60K,Blue,30,1,3,4,2190.0,0,2190.0,0.908,1412,38,0.583,0.0
+716382708,Cancelado,46,F,2,Ensino Superior,Solteiro,Less than $40K,Blue,36,3,4,3,8309.0,858,7451.0,0.888,1165,35,0.4,0.103
+711224733,Cancelado,32,M,0,Ensino Médio,Casado,$120K +,Blue,27,3,3,4,22382.0,0,22382.0,0.418,695,10,0.25,0.0
+791856033,Cancelado,45,M,2,Ensino Superior Incompleto,Divorciado,$80K - $120K,Blue,39,3,4,4,34516.0,0,34516.0,1014.0,1041,27,0.35,0.0
+716448783,Cancelado,48,F,3,Ensino Superior,Casado,$40K - $60K,Blue,39,2,4,3,6235.0,0,6235.0,0.848,1225,34,0.478,0.0
+708892833,Cancelado,37,M,2,Ensino Superior,Casado,$120K +,Blue,30,2,4,4,13662.0,0,13662.0,0.153,725,22,0.0,0.0
+719318583,Cancelado,37,M,3,Ensino Médio,Casado,Less than $40K,Blue,26,3,3,4,6866.0,2389,4477.0,0.395,862,13,0.182,0.348
+720504633,Cancelado,46,M,2,Sem ensino formal,Não informado,$60K - $80K,Blue,32,6,2,3,3254.0,0,3254.0,0.733,967,24,1182.0,0.0
+711357858,Cancelado,47,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,36,5,3,4,7246.0,0,7246.0,0.612,777,13,0.625,0.0
+711816108,Cancelado,40,M,3,Ensino Médio,Solteiro,$80K - $120K,Blue,29,2,2,4,18563.0,0,18563.0,0.729,2395,45,0.552,0.0
+713663508,Cancelado,58,M,0,Ensino Médio,Não informado,$40K - $60K,Blue,42,3,2,3,1438.3,0,1438.3,0.835,1088,22,1444.0,0.0
+789777408,Cancelado,26,F,0,Post-Ensino Superior,Solteiro,Less than $40K,Blue,15,3,2,3,1442.0,1428,14.0,0.496,1134,26,0.238,0.99
+718577958,Cancelado,39,M,2,Sem ensino formal,Casado,$120K +,Blue,26,2,3,4,8906.0,0,8906.0,0.315,809,15,0.25,0.0
+717664008,Cancelado,37,M,3,Ensino Superior Incompleto,Casado,$60K - $80K,Blue,19,2,3,4,3100.0,2517,583.0,0.35,694,12,0.2,0.812
+711562833,Cancelado,35,M,4,Ensino Superior,Casado,$80K - $120K,Blue,24,6,3,4,12634.0,0,12634.0,0.323,717,18,0.286,0.0
+720181758,Cancelado,37,M,0,Doutorado,Casado,$120K +,Blue,22,3,3,4,8654.0,0,8654.0,0.446,850,18,0.385,0.0
+720427683,Cancelado,58,M,2,Sem ensino formal,Solteiro,$120K +,Blue,46,2,3,4,16163.0,0,16163.0,0.542,2171,48,0.778,0.0
+711692508,Cancelado,54,F,2,Post-Ensino Superior,Casado,Less than $40K,Blue,47,3,4,3,1438.3,0,1438.3,1053.0,1154,22,0.375,0.0
+717930483,Cancelado,37,M,2,Ensino Superior,Solteiro,$120K +,Blue,25,3,3,0,5616.0,0,5616.0,0.995,1564,31,0.476,0.0
+715651833,Cancelado,65,M,1,Não informado,Solteiro,Less than $40K,Blue,36,3,4,4,2351.0,0,2351.0,0.881,1593,35,0.591,0.0
+715517733,Cancelado,46,F,3,Ensino Médio,Solteiro,Less than $40K,Silver,39,1,0,4,13092.0,1962,11130.0,0.686,936,25,0.25,0.15
+778693458,Cancelado,32,M,1,Ensino Médio,Divorciado,$60K - $80K,Blue,13,3,3,3,12616.0,0,12616.0,1054.0,1376,29,0.611,0.0
+712551258,Cancelado,39,M,1,Sem ensino formal,Casado,Less than $40K,Blue,36,3,3,3,4247.0,0,4247.0,0.405,847,17,0.133,0.0
+709564683,Cancelado,32,M,2,Ensino Superior,Casado,$40K - $60K,Blue,22,3,3,5,4739.0,0,4739.0,0.363,886,21,0.4,0.0
+772292358,Cancelado,30,M,1,Ensino Superior Incompleto,Divorciado,Less than $40K,Blue,19,4,3,3,7970.0,0,7970.0,0.776,1284,30,0.429,0.0
+713021208,Cancelado,55,F,2,Ensino Superior Incompleto,Solteiro,Não informado,Silver,36,2,3,3,34516.0,0,34516.0,0.399,1353,40,0.212,0.0
+713104458,Cancelado,46,M,2,Ensino Superior,Solteiro,$40K - $60K,Blue,31,3,3,5,7869.0,0,7869.0,0.692,998,25,0.562,0.0
+715366083,Cancelado,52,F,0,Doutorado,Solteiro,Less than $40K,Blue,36,2,2,3,1438.3,978,460.3,0.773,947,33,0.571,0.68
+716244033,Cancelado,44,M,3,Ensino Superior,Casado,$40K - $60K,Blue,33,2,3,3,7266.0,906,6360.0,0.676,1741,27,0.421,0.125
+787463508,Cancelado,26,M,0,Ensino Superior,Solteiro,Less than $40K,Blue,13,5,2,4,2469.0,2410,59.0,0.544,1027,20,0.176,0.976
+778381608,Cancelado,48,M,4,Doutorado,Solteiro,$80K - $120K,Blue,28,3,3,4,6572.0,417,6155.0,0.584,1766,46,0.533,0.063
+710586483,Cancelado,26,F,0,Ensino Médio,Solteiro,Não informado,Blue,13,1,2,4,6152.0,0,6152.0,0.391,968,23,0.533,0.0
+709164408,Cancelado,32,M,1,Sem ensino formal,Casado,Less than $40K,Blue,23,1,3,3,2218.0,1696,522.0,0.367,730,20,0.429,0.765
+709785783,Cancelado,35,F,0,Ensino Superior,Solteiro,Less than $40K,Blue,25,5,3,4,2300.0,0,2300.0,0.877,1485,34,0.478,0.0
+720185058,Cancelado,46,M,3,Ensino Superior,Casado,$60K - $80K,Blue,36,2,3,4,4267.0,0,4267.0,0.862,1067,23,0.769,0.0
+717813558,Cancelado,57,F,3,Ensino Médio,Solteiro,Não informado,Blue,36,1,4,2,8389.0,1960,6429.0,0.384,1334,38,0.407,0.234
+719470458,Cancelado,46,M,3,Ensino Superior Incompleto,Solteiro,$80K - $120K,Blue,39,1,4,3,4026.0,243,3783.0,0.738,1102,27,0.8,0.06
+715319958,Cancelado,48,M,3,Sem ensino formal,Casado,$120K +,Blue,36,5,2,4,34516.0,787,33729.0,0.763,1312,32,0.6,0.023
+714412308,Cancelado,33,M,3,Ensino Superior,Casado,$80K - $120K,Blue,36,6,3,5,7140.0,0,7140.0,0.401,916,18,0.2,0.0
+721243083,Cancelado,55,M,3,Sem ensino formal,Divorciado,$80K - $120K,Blue,41,1,3,4,34516.0,2408,32108.0,0.796,1187,40,0.6,0.07
+798022683,Cancelado,43,M,1,Ensino Superior,Casado,$80K - $120K,Blue,37,4,2,3,25517.0,321,25196.0,0.769,2508,44,0.294,0.013
+716112933,Cancelado,39,F,3,Ensino Superior,Casado,Não informado,Blue,36,3,2,3,1575.0,592,983.0,0.236,644,15,0.154,0.376
+789853533,Cancelado,54,M,3,Ensino Médio,Casado,$40K - $60K,Blue,44,2,1,5,3032.0,0,3032.0,0.949,1037,14,2.5,0.0
+806256333,Cancelado,41,M,4,Ensino Superior,Não informado,$60K - $80K,Blue,36,2,3,5,1438.3,312,1126.3,0.657,1786,26,0.733,0.217
+719146008,Cancelado,48,M,3,Ensino Superior,Casado,$80K - $120K,Blue,39,4,4,3,18672.0,2517,16155.0,0.799,1126,35,0.591,0.135
+720693033,Cancelado,33,M,1,Não informado,Casado,$60K - $80K,Blue,36,1,3,4,8925.0,168,8757.0,0.447,741,10,0.429,0.019
+712784058,Cancelado,45,F,2,Ensino Médio,Divorciado,Não informado,Blue,36,6,4,3,17156.0,2517,14639.0,0.717,1142,33,0.32,0.147
+789963033,Cancelado,54,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,45,3,5,5,1438.3,0,1438.3,0.647,1603,39,0.444,0.0
+827984658,Cancelado,49,M,3,Post-Ensino Superior,Casado,$80K - $120K,Blue,45,3,0,4,23870.0,0,23870.0,0.604,1885,39,0.345,0.0
+716331408,Cancelado,52,F,4,Não informado,Casado,Less than $40K,Blue,36,1,4,5,2143.0,0,2143.0,0.853,1353,36,0.333,0.0
+710524533,Cancelado,38,F,4,Ensino Superior Incompleto,Casado,$40K - $60K,Blue,36,4,4,4,4913.0,2517,2396.0,0.348,899,28,0.273,0.512
+709413933,Cancelado,56,M,2,Ensino Médio,Solteiro,$40K - $60K,Blue,40,2,6,4,2381.0,651,1730.0,0.592,1920,46,0.586,0.273
+714967233,Cancelado,52,M,2,Doutorado,Casado,$120K +,Blue,34,3,2,3,11188.0,0,11188.0,0.658,2109,47,0.621,0.0
+787460883,Cancelado,41,M,3,Sem ensino formal,Casado,$40K - $60K,Blue,28,3,3,4,11091.0,0,11091.0,0.522,1234,34,0.308,0.0
+709206333,Cancelado,44,F,4,Ensino Superior,Solteiro,$40K - $60K,Blue,30,3,4,4,4333.0,0,4333.0,0.463,1558,40,0.538,0.0
+821149008,Cancelado,52,M,2,Ensino Superior,Solteiro,$80K - $120K,Blue,48,6,2,4,34516.0,0,34516.0,0.539,1661,40,0.6,0.0
+772273983,Cancelado,48,M,4,Sem ensino formal,Solteiro,$40K - $60K,Blue,37,1,3,4,5268.0,2191,3077.0,0.622,2138,40,0.429,0.416
+719902908,Cancelado,51,M,3,Não informado,Casado,$80K - $120K,Blue,36,3,3,3,5130.0,0,5130.0,0.407,1434,31,0.292,0.0
+709163358,Cancelado,41,M,5,Não informado,Solteiro,$60K - $80K,Gold,32,2,3,4,34516.0,2517,31999.0,0.465,1727,35,0.458,0.073
+708139833,Cancelado,40,M,3,Ensino Superior,Não informado,$60K - $80K,Blue,30,4,2,3,6391.0,0,6391.0,0.632,2323,44,0.419,0.0
+827476983,Cancelado,56,F,2,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,52,3,5,1,3639.0,2178,1461.0,0.451,1865,42,0.5,0.599
+708563433,Cancelado,65,F,0,Ensino Médio,Solteiro,Não informado,Blue,56,3,6,3,5894.0,477,5417.0,1015.0,1616,32,0.455,0.081
+738627708,Cancelado,49,F,2,Não informado,Solteiro,Não informado,Blue,41,5,3,4,5984.0,0,5984.0,0.551,1838,42,0.556,0.0
+771833433,Cancelado,49,M,2,Ensino Médio,Casado,$80K - $120K,Blue,38,3,2,4,29893.0,0,29893.0,0.519,2063,48,0.846,0.0
+828291858,Cancelado,38,M,3,Ensino Superior Incompleto,Solteiro,$60K - $80K,Blue,34,6,3,4,12050.0,1821,10229.0,0.63,2381,40,0.481,0.151
+720725058,Cancelado,51,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,37,1,3,4,7176.0,0,7176.0,0.45,1375,33,0.65,0.0
+711935283,Cancelado,55,M,5,Post-Ensino Superior,Solteiro,$80K - $120K,Blue,47,3,1,4,1438.3,0,1438.3,0.414,1427,36,0.333,0.0
+716950758,Cancelado,46,M,4,Ensino Médio,Casado,$60K - $80K,Blue,36,1,3,2,8017.0,0,8017.0,0.559,1657,43,0.654,0.0
+715570533,Cancelado,48,M,3,Post-Ensino Superior,Não informado,$120K +,Blue,35,2,2,6,34516.0,0,34516.0,0.464,1632,44,0.333,0.0
+721532583,Cancelado,45,M,4,Ensino Superior,Casado,$80K - $120K,Blue,36,5,3,4,12250.0,2165,10085.0,0.641,1995,39,0.696,0.177
+712623258,Cancelado,42,F,3,Ensino Superior,Casado,Less than $40K,Blue,36,2,3,3,5505.0,2517,2988.0,0.729,2272,42,0.448,0.457
+720508233,Cancelado,62,M,0,Não informado,Solteiro,$40K - $60K,Silver,42,3,4,4,17161.0,0,17161.0,0.552,1898,42,0.556,0.0
+716387733,Cancelado,49,M,4,Ensino Superior,Solteiro,$60K - $80K,Blue,36,1,4,5,5662.0,1484,4178.0,0.434,1693,25,0.25,0.262
+788739633,Cancelado,38,M,1,Não informado,Casado,$120K +,Blue,16,3,1,4,2106.0,238,1868.0,0.61,2136,40,0.905,0.113
+720758808,Cancelado,38,M,3,Ensino Superior Incompleto,Solteiro,$60K - $80K,Blue,18,5,1,5,16317.0,0,16317.0,0.566,1995,54,0.929,0.0
+715858008,Cancelado,49,F,1,Sem ensino formal,Casado,$40K - $60K,Blue,39,2,3,3,8061.0,2517,5544.0,0.352,1224,31,0.409,0.312
+813053733,Cancelado,53,M,4,Não informado,Solteiro,$120K +,Blue,48,3,3,4,34516.0,278,34238.0,0.817,3029,49,0.4,0.008
+720529308,Cancelado,63,M,0,Ensino Médio,Solteiro,$60K - $80K,Blue,48,5,3,1,1856.0,0,1856.0,0.5,1805,46,0.769,0.0
+710658483,Cancelado,47,M,4,Ensino Superior,Não informado,$40K - $60K,Blue,34,2,3,6,9080.0,2174,6906.0,0.653,2098,46,0.586,0.239
+710278458,Cancelado,52,M,2,Ensino Médio,Solteiro,$80K - $120K,Blue,43,4,3,3,11617.0,2517,9100.0,0.457,1643,43,0.483,0.217
+811035483,Cancelado,47,M,3,Sem ensino formal,Divorciado,$120K +,Silver,42,2,4,5,34516.0,0,34516.0,0.521,1641,35,0.591,0.0
+807593058,Cancelado,41,F,3,Não informado,Solteiro,$40K - $60K,Blue,36,3,2,4,5317.0,0,5317.0,0.699,2003,29,0.318,0.0
+788030208,Cancelado,42,F,2,Sem ensino formal,Solteiro,Less than $40K,Silver,33,1,2,3,13453.0,2517,10936.0,0.619,1904,42,0.448,0.187
+720379533,Cancelado,47,M,3,Não informado,Não informado,$120K +,Blue,36,1,3,4,3952.0,0,3952.0,0.809,2066,37,0.233,0.0
+720983733,Cancelado,44,M,3,Não informado,Solteiro,$60K - $80K,Blue,36,2,3,3,15422.0,864,14558.0,0.578,2136,54,0.8,0.056
+719099583,Cancelado,42,M,3,Ensino Superior,Casado,$40K - $60K,Blue,34,3,2,3,1640.0,1444,196.0,0.423,1360,33,0.222,0.88
+710654808,Cancelado,46,M,4,Ensino Superior,Solteiro,$80K - $120K,Blue,36,3,1,4,1818.0,0,1818.0,0.672,2308,44,0.467,0.0
+711196458,Cancelado,38,F,1,Não informado,Casado,Less than $40K,Blue,20,2,2,3,1621.0,580,1041.0,0.421,1893,41,0.171,0.358
+709224033,Cancelado,53,M,4,Sem ensino formal,Solteiro,$60K - $80K,Blue,43,1,3,2,13720.0,0,13720.0,0.671,1830,36,0.241,0.0
+804673308,Cancelado,49,M,5,Sem ensino formal,Casado,$40K - $60K,Blue,44,2,3,4,3893.0,0,3893.0,0.662,1866,37,0.947,0.0
+767784708,Cancelado,48,M,0,Doutorado,Casado,$60K - $80K,Blue,41,2,3,4,7277.0,504,6773.0,0.582,2356,40,0.29,0.069
+716573058,Cancelado,54,F,3,Doutorado,Não informado,Less than $40K,Blue,36,3,3,4,1438.3,0,1438.3,0.499,1598,40,0.29,0.0
+716977758,Cancelado,44,F,3,Sem ensino formal,Casado,Less than $40K,Blue,36,2,3,1,3675.0,2517,1158.0,0.766,1913,35,0.667,0.685
+817889583,Cancelado,61,F,0,Ensino Superior,Solteiro,$40K - $60K,Blue,56,3,3,4,9721.0,0,9721.0,0.826,2260,46,1.0,0.0
+717242058,Cancelado,43,F,5,Ensino Superior,Casado,Less than $40K,Blue,39,2,3,4,3981.0,0,3981.0,0.764,2134,42,0.355,0.0
+716306583,Cancelado,64,M,0,Ensino Superior,Solteiro,Less than $40K,Blue,36,3,3,5,3812.0,2517,1295.0,0.586,2325,45,0.731,0.66
+721233033,Cancelado,50,M,2,Ensino Médio,Solteiro,$80K - $120K,Blue,38,1,2,3,4915.0,464,4451.0,0.242,1474,36,0.091,0.094
+779502333,Cancelado,50,M,4,Ensino Superior,Solteiro,$120K +,Silver,32,5,3,2,34516.0,0,34516.0,0.321,1480,37,0.276,0.0
+803124408,Cancelado,41,F,3,Não informado,Casado,Não informado,Blue,35,2,3,5,11538.0,0,11538.0,0.507,1926,53,0.432,0.0
+789964983,Cancelado,45,M,2,Ensino Superior,Divorciado,$40K - $60K,Blue,36,2,2,4,9569.0,0,9569.0,0.598,1724,35,0.25,0.0
+709297608,Cancelado,38,M,3,Ensino Superior Incompleto,Solteiro,$80K - $120K,Blue,26,3,3,2,1438.3,0,1438.3,0.399,1585,32,0.455,0.0
+817977933,Cancelado,63,F,0,Ensino Superior,Solteiro,Less than $40K,Blue,56,5,6,3,1931.0,1531,400.0,0.778,2288,48,0.714,0.793
+714629358,Cancelado,54,F,3,Ensino Superior,Divorciado,$40K - $60K,Blue,34,2,3,4,4948.0,0,4948.0,0.392,1796,41,0.519,0.0
+711538758,Cancelado,39,M,5,Ensino Superior,Solteiro,$60K - $80K,Blue,36,1,3,3,24657.0,633,24024.0,0.358,1954,46,0.394,0.026
+719987733,Cancelado,51,F,3,Não informado,Solteiro,$40K - $60K,Blue,38,3,3,3,5026.0,0,5026.0,0.564,1844,37,0.609,0.0
+719657583,Cancelado,44,M,3,Ensino Superior,Casado,$40K - $60K,Blue,40,2,2,6,9502.0,2457,7045.0,0.915,2310,57,0.676,0.259
+789713208,Cancelado,62,F,0,Doutorado,Solteiro,Less than $40K,Blue,50,6,3,5,2936.0,326,2610.0,0.935,2692,29,0.526,0.111
+715371108,Cancelado,45,M,3,Ensino Superior,Casado,$80K - $120K,Blue,40,3,3,2,3728.0,0,3728.0,0.358,1632,42,0.448,0.0
+796903083,Cancelado,47,F,1,Doutorado,Casado,$40K - $60K,Blue,36,2,3,2,1438.3,0,1438.3,0.838,2584,42,0.448,0.0
+772137183,Cancelado,52,M,2,Ensino Superior,Solteiro,$120K +,Blue,41,1,3,1,31668.0,810,30858.0,0.643,1822,36,0.5,0.026
+821768658,Cancelado,52,M,0,Não informado,Solteiro,$120K +,Blue,48,4,5,5,13114.0,2247,10867.0,1003.0,2474,51,0.417,0.171
+812449758,Cancelado,43,M,3,Ensino Médio,Solteiro,$60K - $80K,Blue,38,2,3,2,12254.0,0,12254.0,0.705,2129,42,0.355,0.0
+815085708,Cancelado,60,F,0,Ensino Médio,Solteiro,$40K - $60K,Blue,55,1,5,5,10882.0,2517,8365.0,0.266,1861,46,0.278,0.231
+715485483,Cancelado,39,F,5,Ensino Superior,Casado,Less than $40K,Blue,36,3,3,3,3664.0,0,3664.0,0.419,1479,44,0.913,0.0
+794560833,Cancelado,47,F,3,Ensino Superior,Casado,$40K - $60K,Blue,31,6,3,6,5496.0,0,5496.0,0.548,1913,34,0.308,0.0
+718197108,Cancelado,54,M,2,Ensino Superior,Solteiro,$80K - $120K,Blue,36,5,3,3,12342.0,0,12342.0,0.431,1430,37,0.423,0.0
+710333883,Cancelado,48,M,3,Ensino Superior,Casado,$60K - $80K,Blue,37,5,2,2,8808.0,390,8418.0,0.628,1905,42,0.448,0.044
+789177333,Cancelado,47,F,2,Ensino Superior,Casado,Less than $40K,Blue,36,6,3,2,1693.0,1088,605.0,0.532,2104,40,0.739,0.643
+711079308,Cancelado,40,M,3,Ensino Superior,Casado,$60K - $80K,Blue,27,4,2,3,15186.0,0,15186.0,0.483,1884,33,0.435,0.0
+708733983,Cancelado,50,F,1,Doutorado,Solteiro,$40K - $60K,Blue,36,6,3,2,5349.0,2391,2958.0,0.671,2122,46,0.394,0.447
+711205758,Cancelado,45,M,3,Ensino Superior Incompleto,Solteiro,$80K - $120K,Silver,33,1,3,3,34516.0,0,34516.0,1492.0,2534,43,0.433,0.0
+714659133,Cancelado,47,M,5,Ensino Médio,Casado,$80K - $120K,Blue,37,2,2,2,9410.0,0,9410.0,0.586,2178,41,0.864,0.0
+716425833,Cancelado,38,M,2,Ensino Superior,Solteiro,$120K +,Blue,36,5,2,1,34516.0,1229,33287.0,0.427,1797,35,0.296,0.036
+712164333,Cancelado,40,M,4,Ensino Médio,Casado,$60K - $80K,Blue,29,3,3,2,12544.0,1636,10908.0,0.503,1758,51,0.457,0.13
+826471458,Cancelado,42,M,3,Ensino Superior,Casado,Less than $40K,Blue,38,2,3,3,6967.0,1767,5200.0,0.54,1919,38,0.52,0.254
+815851233,Cancelado,52,M,3,Ensino Médio,Solteiro,$120K +,Blue,47,6,1,3,19032.0,0,19032.0,0.417,1726,42,0.312,0.0
+771776808,Cancelado,44,M,4,Sem ensino formal,Casado,$40K - $60K,Blue,33,5,4,3,1527.0,0,1527.0,0.531,1877,38,0.462,0.0
+789365508,Cancelado,49,M,2,Ensino Médio,Divorciado,$40K - $60K,Blue,39,2,3,4,14839.0,512,14327.0,0.176,1453,26,0.13,0.035
+716404383,Cancelado,47,F,2,Ensino Superior,Casado,Não informado,Blue,36,1,3,2,18799.0,2517,16282.0,0.813,2315,52,0.625,0.134
+711843708,Cancelado,61,F,0,Ensino Superior,Divorciado,Less than $40K,Blue,36,2,3,3,2125.0,0,2125.0,0.654,2860,38,0.727,0.0
+718877883,Cancelado,44,F,3,Não informado,Solteiro,Less than $40K,Blue,36,3,1,1,5644.0,2517,3127.0,0.86,2440,44,0.76,0.446
+719604858,Cancelado,45,F,3,Não informado,Casado,Less than $40K,Blue,31,4,3,3,5941.0,0,5941.0,0.522,2196,37,0.233,0.0
+714549558,Cancelado,41,F,2,Ensino Superior,Casado,$40K - $60K,Blue,32,3,2,2,9576.0,0,9576.0,0.817,2362,49,0.4,0.0
+822955008,Cancelado,63,M,1,Ensino Superior,Solteiro,$60K - $80K,Blue,56,3,3,2,9569.0,0,9569.0,0.94,2287,49,0.581,0.0
+711275433,Cancelado,47,M,4,Sem ensino formal,Não informado,Não informado,Blue,36,3,3,3,18873.0,0,18873.0,0.636,2021,38,0.52,0.0
+827117808,Cancelado,45,M,1,Ensino Superior,Solteiro,$60K - $80K,Blue,41,2,3,2,9904.0,2513,7391.0,0.0,1152,28,0.0,0.254
+804462633,Cancelado,43,F,3,Ensino Médio,Divorciado,Less than $40K,Blue,38,3,3,3,7084.0,0,7084.0,0.523,2287,44,0.294,0.0
+709321908,Cancelado,47,M,3,Ensino Médio,Solteiro,$80K - $120K,Blue,29,2,2,3,7498.0,2319,5179.0,0.484,1676,51,0.759,0.309
+712597233,Cancelado,37,M,2,Sem ensino formal,Não informado,$40K - $60K,Blue,36,2,3,2,3250.0,1721,1529.0,0.446,1714,32,0.391,0.53
+719816583,Cancelado,46,M,3,Doutorado,Casado,$120K +,Blue,38,3,2,2,8989.0,552,8437.0,0.699,2309,49,0.633,0.061
+713004933,Cancelado,40,M,3,Ensino Médio,Casado,$60K - $80K,Blue,27,3,2,1,6813.0,2332,4481.0,0.58,2634,51,0.378,0.342
+772466508,Cancelado,45,M,3,Não informado,Solteiro,$60K - $80K,Blue,35,6,2,1,18004.0,2517,15487.0,0.569,2030,45,0.452,0.14
+737921733,Cancelado,62,F,1,Não informado,Solteiro,Less than $40K,Blue,55,3,3,3,1892.0,1604,288.0,0.476,1581,34,0.417,0.848
+716575758,Cancelado,50,F,2,Ensino Superior Incompleto,Não informado,Não informado,Blue,39,2,3,2,1438.3,0,1438.3,0.588,1859,41,0.464,0.0
+714097683,Cancelado,55,F,2,Ensino Superior,Casado,$40K - $60K,Blue,49,3,3,4,1809.0,0,1809.0,0.569,2123,44,0.571,0.0
+708121908,Cancelado,48,M,4,Não informado,Casado,$80K - $120K,Blue,36,2,3,2,22917.0,0,22917.0,0.574,2045,45,0.5,0.0
+709435533,Cancelado,53,F,1,Não informado,Solteiro,Less than $40K,Blue,41,2,3,2,3099.0,0,3099.0,0.279,1401,44,0.419,0.0
+719874633,Cancelado,44,M,1,Ensino Médio,Não informado,$80K - $120K,Gold,36,2,2,3,34516.0,0,34516.0,0.596,1891,34,0.214,0.0
+719168883,Cancelado,45,F,5,Não informado,Solteiro,Less than $40K,Blue,34,1,4,1,5155.0,0,5155.0,1014.0,2753,45,0.607,0.0
+714212358,Cancelado,38,F,3,Ensino Médio,Solteiro,Não informado,Blue,36,1,3,2,5260.0,1706,3554.0,0.359,2142,57,0.676,0.324
+721104708,Cancelado,41,F,3,Post-Ensino Superior,Solteiro,Less than $40K,Blue,36,1,3,1,2067.0,1966,101.0,0.91,3033,41,0.708,0.951
+717461283,Cancelado,38,F,2,Ensino Superior,Solteiro,Não informado,Blue,24,3,2,3,2214.0,570,1644.0,0.688,2066,45,0.25,0.257
+803028858,Cancelado,38,F,2,Ensino Superior,Solteiro,Less than $40K,Blue,32,2,3,3,3775.0,0,3775.0,0.581,2031,36,0.385,0.0
+712751133,Cancelado,42,M,3,Doutorado,Solteiro,$60K - $80K,Blue,35,3,3,3,11328.0,1369,9959.0,0.585,1829,42,0.312,0.121
+708170508,Cancelado,38,M,2,Ensino Superior,Casado,$60K - $80K,Blue,36,2,3,2,1438.3,0,1438.3,0.461,1651,42,0.5,0.0
+719770158,Cancelado,54,F,3,Post-Ensino Superior,Solteiro,Less than $40K,Blue,49,1,4,3,8516.0,0,8516.0,0.549,2189,37,0.276,0.0
+716271183,Cancelado,45,F,2,Sem ensino formal,Solteiro,Less than $40K,Blue,37,3,2,2,8924.0,0,8924.0,0.547,1720,42,0.4,0.0
+816261858,Cancelado,61,M,0,Ensino Superior,Solteiro,$40K - $60K,Blue,56,2,5,4,3984.0,2245,1739.0,0.612,1821,39,0.696,0.564
+721308033,Cancelado,45,F,2,Post-Ensino Superior,Solteiro,Less than $40K,Blue,37,3,3,1,3036.0,2517,519.0,0.882,2609,42,0.615,0.829
+774760458,Cancelado,62,F,1,Ensino Médio,Não informado,$40K - $60K,Blue,56,3,5,1,3807.0,2517,1290.0,0.506,1739,36,0.5,0.661
+804415083,Cancelado,45,M,3,Não informado,Casado,$60K - $80K,Blue,40,3,5,3,4097.0,655,3442.0,1084.0,2611,51,0.545,0.16
+771424908,Cancelado,38,M,2,Não informado,Não informado,$60K - $80K,Blue,26,2,2,3,11252.0,1129,10123.0,0.462,1766,31,0.476,0.1
+711012783,Cancelado,43,M,4,Ensino Superior,Solteiro,$120K +,Blue,36,1,3,4,33384.0,0,33384.0,0.631,2066,46,0.769,0.0
+708788583,Cancelado,64,F,1,Ensino Superior Incompleto,Não informado,Less than $40K,Blue,56,3,1,2,6167.0,0,6167.0,0.422,1648,43,0.536,0.0
+819714408,Cancelado,44,F,2,Ensino Superior,Casado,Não informado,Blue,39,6,3,3,5666.0,2386,3280.0,0.564,1981,42,1.0,0.421
+713730933,Cancelado,53,F,4,Ensino Superior,Casado,Less than $40K,Blue,36,2,3,5,1438.3,0,1438.3,0.314,1739,44,0.467,0.0
+712235433,Cancelado,43,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,36,2,3,2,2886.0,0,2886.0,0.587,2326,50,0.429,0.0
+714377058,Cancelado,63,F,1,Não informado,Solteiro,Less than $40K,Blue,36,3,3,4,1896.0,0,1896.0,0.747,2186,50,0.562,0.0
+708654933,Cancelado,51,F,2,Doutorado,Casado,Less than $40K,Platinum,42,3,2,3,15987.0,193,15794.0,0.435,2021,46,0.394,0.012
+720283758,Cancelado,44,F,2,Sem ensino formal,Casado,Não informado,Blue,36,1,3,3,13735.0,1733,12002.0,0.614,1783,43,0.654,0.126
+718735908,Cancelado,47,M,4,Ensino Superior,Solteiro,$120K +,Blue,35,3,4,3,7015.0,0,7015.0,0.456,1799,51,0.645,0.0
+804833058,Cancelado,49,M,3,Não informado,Solteiro,$80K - $120K,Blue,44,1,3,4,4384.0,0,4384.0,0.684,1832,49,0.581,0.0
+713639058,Cancelado,49,M,3,Ensino Médio,Casado,$60K - $80K,Blue,34,6,3,3,1511.0,0,1511.0,0.432,1329,35,0.591,0.0
+709560258,Cancelado,49,F,3,Ensino Superior,Solteiro,Não informado,Blue,31,2,3,4,4946.0,0,4946.0,0.54,2239,38,0.407,0.0
+720362058,Cancelado,57,M,2,Sem ensino formal,Solteiro,$60K - $80K,Silver,49,4,3,3,32182.0,0,32182.0,0.52,1937,46,0.704,0.0
+719602908,Cancelado,42,F,2,Post-Ensino Superior,Solteiro,$40K - $60K,Blue,34,3,3,3,5667.0,812,4855.0,0.62,2064,42,0.4,0.143
+709713033,Cancelado,55,M,1,Ensino Superior Incompleto,Solteiro,$80K - $120K,Blue,48,3,3,3,6846.0,0,6846.0,0.62,1735,35,0.522,0.0
+708633783,Cancelado,43,M,3,Sem ensino formal,Solteiro,$80K - $120K,Blue,30,3,2,4,11336.0,0,11336.0,0.691,1809,39,0.345,0.0
+720950283,Cancelado,47,M,3,Ensino Médio,Casado,$80K - $120K,Blue,34,3,3,3,21359.0,0,21359.0,0.551,2064,63,0.853,0.0
+717840108,Cancelado,48,M,4,Não informado,Casado,$80K - $120K,Blue,41,2,3,6,4806.0,1357,3449.0,0.573,1771,35,0.346,0.282
+715016508,Cancelado,42,F,3,Ensino Médio,Casado,$40K - $60K,Blue,36,1,3,4,4527.0,0,4527.0,0.801,2441,37,0.37,0.0
+781306758,Cancelado,58,M,2,Sem ensino formal,Solteiro,$80K - $120K,Blue,52,1,2,4,3091.0,2517,574.0,0.602,1844,49,0.633,0.814
+712294083,Cancelado,54,F,2,Ensino Médio,Solteiro,Não informado,Blue,44,4,3,4,3778.0,0,3778.0,0.739,2367,45,0.452,0.0
+711334983,Cancelado,41,F,3,Ensino Médio,Casado,Não informado,Blue,32,1,2,4,26229.0,0,26229.0,0.504,2077,46,0.643,0.0
+716434533,Cancelado,40,M,3,Ensino Médio,Casado,$80K - $120K,Blue,36,2,3,4,29149.0,0,29149.0,0.615,2106,56,0.697,0.0
+828215508,Cancelado,55,F,2,Ensino Superior,Não informado,Less than $40K,Blue,50,4,4,3,1438.3,0,1438.3,0.639,1785,33,0.32,0.0
+712812408,Cancelado,40,F,3,Não informado,Casado,Less than $40K,Blue,28,2,3,3,1535.0,0,1535.0,0.544,1921,41,0.464,0.0
+713585958,Cancelado,48,F,4,Ensino Superior Incompleto,Casado,Less than $40K,Blue,36,2,3,2,5997.0,0,5997.0,0.406,1457,42,0.5,0.0
+710493558,Cancelado,46,F,1,Post-Ensino Superior,Casado,$40K - $60K,Blue,38,3,2,2,1803.0,0,1803.0,0.415,1979,37,0.321,0.0
+827964858,Cancelado,58,F,1,Sem ensino formal,Divorciado,Não informado,Blue,54,3,5,3,3266.0,859,2407.0,0.74,2151,46,0.438,0.263
+773667708,Cancelado,50,M,1,Ensino Superior,Divorciado,$60K - $80K,Blue,44,3,4,3,7050.0,1008,6042.0,0.639,2176,39,0.56,0.143
+812979408,Cancelado,39,F,0,Não informado,Casado,$40K - $60K,Silver,34,3,0,3,15142.0,0,15142.0,0.761,2458,41,0.577,0.0
+806947308,Cancelado,40,M,4,Post-Ensino Superior,Casado,$60K - $80K,Blue,35,3,4,3,20178.0,1553,18625.0,0.324,1735,44,0.375,0.077
+708386958,Cancelado,47,F,3,Não informado,Casado,Less than $40K,Blue,34,3,3,2,1561.0,0,1561.0,0.502,1947,28,0.556,0.0
+718220358,Cancelado,58,M,1,Ensino Superior,Solteiro,$120K +,Blue,36,2,3,4,28618.0,0,28618.0,0.685,1712,41,0.414,0.0
+712656783,Cancelado,49,M,1,Ensino Superior,Solteiro,$120K +,Blue,36,3,4,3,8136.0,2517,5619.0,0.674,2179,40,0.429,0.309
+738899658,Cancelado,45,F,2,Ensino Superior,Solteiro,Não informado,Blue,38,6,2,3,3120.0,2517,603.0,0.736,2468,43,0.536,0.807
+714727833,Cancelado,41,F,2,Sem ensino formal,Solteiro,Less than $40K,Blue,36,2,2,3,2892.0,2517,375.0,0.777,2257,48,0.714,0.87
+708834483,Cancelado,46,M,2,Doutorado,Casado,$80K - $120K,Blue,29,1,2,5,17667.0,0,17667.0,0.569,1775,42,0.556,0.0
+720598308,Cancelado,47,M,4,Sem ensino formal,Solteiro,$120K +,Blue,37,3,2,6,34516.0,1126,33390.0,0.575,1736,35,0.4,0.033
+815353083,Cancelado,44,M,1,Ensino Superior Incompleto,Divorciado,$80K - $120K,Silver,39,2,3,2,34516.0,2361,32155.0,0.529,1853,36,0.385,0.068
+712050933,Cancelado,48,M,4,Ensino Superior Incompleto,Casado,$80K - $120K,Blue,32,5,2,3,25190.0,0,25190.0,0.467,1533,41,0.323,0.0
+717592758,Cancelado,44,F,3,Não informado,Solteiro,Less than $40K,Blue,36,3,2,2,1606.0,1578,28.0,0.85,2418,44,0.467,0.983
+708687483,Cancelado,54,F,4,Ensino Superior,Solteiro,Less than $40K,Silver,36,3,2,3,13626.0,0,13626.0,0.411,1711,30,0.25,0.0
+768256908,Cancelado,45,M,3,Sem ensino formal,Casado,Less than $40K,Blue,39,3,3,4,8580.0,1636,6944.0,0.393,1880,37,0.233,0.191
+721451208,Cancelado,54,M,2,Ensino Superior,Solteiro,$60K - $80K,Silver,45,2,3,2,30540.0,0,30540.0,0.602,1980,36,0.8,0.0
+714751158,Cancelado,49,M,2,Ensino Médio,Divorciado,$80K - $120K,Blue,36,4,2,4,34516.0,2517,31999.0,0.376,1789,48,0.455,0.073
+718342158,Cancelado,38,F,4,Ensino Superior,Solteiro,Less than $40K,Blue,26,2,2,2,4391.0,1933,2458.0,0.579,1849,36,0.385,0.44
+716654808,Cancelado,48,M,4,Ensino Médio,Solteiro,$120K +,Blue,39,3,4,4,24593.0,0,24593.0,0.777,2084,31,0.55,0.0
+716390958,Cancelado,45,M,4,Não informado,Casado,$120K +,Blue,31,1,4,3,26107.0,0,26107.0,0.55,1697,47,0.424,0.0
+716564433,Cancelado,53,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,36,3,2,4,4287.0,0,4287.0,0.294,1635,41,0.242,0.0
+716022258,Cancelado,51,F,3,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,36,3,3,3,8960.0,2222,6738.0,0.382,1853,40,0.333,0.248
+778433283,Cancelado,51,M,3,Ensino Médio,Casado,$60K - $80K,Blue,31,3,3,3,8989.0,0,8989.0,0.47,2031,53,1038.0,0.0
+811527933,Cancelado,65,F,0,Ensino Superior Incompleto,Solteiro,Less than $40K,Silver,56,3,4,3,10885.0,1758,9127.0,0.8,2291,39,0.773,0.162
+778617708,Cancelado,46,M,3,Ensino Superior Incompleto,Casado,$80K - $120K,Blue,26,6,2,3,1438.3,864,574.3,0.766,2299,40,0.481,0.601
+772574283,Cancelado,50,F,2,Ensino Superior,Casado,$40K - $60K,Blue,40,3,1,4,7191.0,0,7191.0,0.565,1654,30,0.579,0.0
+714972558,Cancelado,37,F,2,Ensino Superior,Solteiro,Less than $40K,Blue,36,2,3,0,1610.0,0,1610.0,0.889,2729,45,0.406,0.0
+709709283,Cancelado,38,M,3,Ensino Superior Incompleto,Solteiro,$40K - $60K,Blue,19,1,2,4,3458.0,321,3137.0,0.586,2256,40,0.29,0.093
+780105483,Cancelado,65,F,0,Sem ensino formal,Solteiro,Less than $40K,Blue,50,3,4,4,1697.0,377,1320.0,1048.0,2799,49,0.485,0.222
+715294083,Cancelado,46,M,2,Ensino Superior Incompleto,Solteiro,$80K - $120K,Blue,38,2,3,2,10309.0,0,10309.0,0.451,1760,40,0.6,0.0
+716711433,Cancelado,48,M,5,Ensino Médio,Casado,$40K - $60K,Blue,39,3,3,1,7897.0,157,7740.0,0.699,2270,46,0.394,0.02
+711588708,Cancelado,50,F,2,Sem ensino formal,Casado,$40K - $60K,Blue,36,1,3,1,1438.3,458,980.3,0.613,1863,42,0.312,0.318
+714492783,Cancelado,46,F,4,Sem ensino formal,Casado,Less than $40K,Blue,36,3,3,3,1438.3,0,1438.3,0.346,1517,38,0.407,0.0
+709192233,Cancelado,50,F,2,Não informado,Casado,Não informado,Blue,39,3,2,1,1773.0,0,1773.0,0.228,1764,30,0.111,0.0
+718791708,Cancelado,48,M,2,Ensino Médio,Casado,$80K - $120K,Blue,32,1,2,4,16362.0,2268,14094.0,0.841,2228,37,0.85,0.139
+772695033,Cancelado,47,M,5,Ensino Médio,Solteiro,$80K - $120K,Blue,37,3,4,4,18800.0,2517,16283.0,0.482,1575,23,0.211,0.134
+708831858,Cancelado,43,F,3,Sem ensino formal,Casado,Less than $40K,Blue,30,1,3,4,4579.0,1506,3073.0,0.443,1915,44,0.375,0.329
+780006783,Cancelado,59,M,1,Sem ensino formal,Solteiro,$40K - $60K,Silver,49,3,2,2,15809.0,0,15809.0,0.992,3109,48,0.412,0.0
+771342183,Cancelado,53,F,3,Ensino Superior,Solteiro,$40K - $60K,Blue,40,6,3,2,1625.0,0,1625.0,0.689,2314,43,0.433,0.0
+712901283,Cancelado,53,F,2,Ensino Superior,Solteiro,$40K - $60K,Blue,36,2,3,2,2121.0,0,2121.0,0.618,1464,32,0.778,0.0
+718473558,Cancelado,42,F,3,Doutorado,Solteiro,Less than $40K,Blue,18,5,3,4,8668.0,0,8668.0,0.275,1402,38,0.31,0.0
+709708233,Cancelado,49,F,3,Doutorado,Casado,Less than $40K,Blue,29,3,4,2,7066.0,0,7066.0,0.479,1695,38,0.31,0.0
+709178733,Cancelado,50,F,2,Post-Ensino Superior,Casado,$40K - $60K,Blue,36,3,2,3,5527.0,1120,4407.0,0.442,2281,37,0.48,0.203
+713253858,Cancelado,50,F,1,Ensino Superior Incompleto,Casado,Não informado,Blue,37,2,2,3,1461.0,0,1461.0,0.563,2176,40,0.379,0.0
+803796708,Cancelado,52,M,3,Sem ensino formal,Não informado,$120K +,Blue,46,2,4,4,13354.0,0,13354.0,0.018,1097,28,0.077,0.0
+717368208,Cancelado,49,M,1,Ensino Superior,Solteiro,$120K +,Blue,36,6,2,4,26723.0,0,26723.0,0.716,2138,43,0.593,0.0
+772341783,Cancelado,45,F,3,Ensino Médio,Solteiro,Não informado,Blue,35,3,2,6,3512.0,2517,995.0,0.597,1801,48,0.548,0.717
+715409733,Cancelado,47,F,4,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,36,2,2,3,2263.0,0,2263.0,0.752,2385,33,0.375,0.0
+715732533,Cancelado,52,M,4,Ensino Superior,Casado,$60K - $80K,Blue,36,4,1,3,9375.0,1625,7750.0,0.532,2108,51,0.5,0.173
+713722608,Cancelado,48,F,2,Não informado,Divorciado,Less than $40K,Blue,35,3,1,4,2806.0,2514,292.0,0.341,1757,35,0.4,0.896
+709101258,Cancelado,41,F,2,Ensino Médio,Divorciado,Less than $40K,Blue,28,4,2,2,1478.0,524,954.0,0.751,2180,46,0.643,0.355
+721427358,Cancelado,47,M,4,Não informado,Divorciado,$80K - $120K,Blue,28,6,1,3,8757.0,0,8757.0,0.507,2108,47,0.516,0.0
+709338633,Cancelado,56,F,1,Ensino Superior,Solteiro,$40K - $60K,Blue,37,2,4,3,2339.0,0,2339.0,0.493,1542,45,0.607,0.0
+711245433,Cancelado,50,F,4,Ensino Superior,Solteiro,Não informado,Blue,41,5,3,3,2509.0,0,2509.0,0.702,2281,41,0.367,0.0
+717195933,Cancelado,42,M,3,Ensino Superior,Casado,$60K - $80K,Blue,30,2,2,3,5298.0,0,5298.0,0.857,2431,37,0.542,0.0
+708801108,Cancelado,57,F,3,Sem ensino formal,Solteiro,Less than $40K,Blue,51,3,0,3,1438.3,0,1438.3,0.429,2113,38,0.267,0.0
+789382758,Cancelado,54,M,3,Ensino Superior,Solteiro,$40K - $60K,Blue,44,6,3,3,5501.0,0,5501.0,0.519,2050,51,0.821,0.0
+721437333,Cancelado,46,M,2,Ensino Superior,Solteiro,$80K - $120K,Blue,36,2,2,2,5054.0,2517,2537.0,0.605,2027,39,0.393,0.498
+711626658,Cancelado,62,F,1,Ensino Médio,Solteiro,Less than $40K,Blue,36,2,3,4,1930.0,0,1930.0,0.331,1971,45,0.25,0.0
+717793983,Cancelado,55,M,3,Ensino Superior,Solteiro,$40K - $60K,Silver,45,2,3,1,18128.0,0,18128.0,0.71,2503,49,0.885,0.0
+714119283,Cancelado,42,F,2,Não informado,Solteiro,$40K - $60K,Blue,34,3,3,3,2516.0,0,2516.0,0.53,2257,51,0.545,0.0
+799239033,Cancelado,53,F,3,Ensino Médio,Solteiro,$40K - $60K,Blue,47,1,3,4,1714.0,0,1714.0,0.661,2279,46,0.533,0.0
+814483608,Cancelado,47,F,4,Ensino Superior,Divorciado,Less than $40K,Blue,42,1,3,3,5798.0,2517,3281.0,0.58,1860,43,0.433,0.434
+715514133,Cancelado,44,F,4,Ensino Superior,Casado,Less than $40K,Blue,31,3,3,4,2184.0,0,2184.0,0.671,1973,42,0.556,0.0
+794707083,Cancelado,50,M,2,Ensino Superior Incompleto,Solteiro,$80K - $120K,Blue,44,5,2,4,3495.0,0,3495.0,0.639,2131,41,0.464,0.0
+805313808,Cancelado,52,F,3,Ensino Médio,Casado,$40K - $60K,Blue,47,2,2,3,8018.0,134,7884.0,0.717,2409,38,0.31,0.017
+772922883,Cancelado,41,M,3,Não informado,Casado,$80K - $120K,Blue,22,3,3,4,20543.0,0,20543.0,0.547,1874,42,0.615,0.0
+713333433,Cancelado,49,M,3,Sem ensino formal,Não informado,$60K - $80K,Blue,41,3,4,4,18075.0,0,18075.0,0.531,1477,30,0.5,0.0
+787921383,Cancelado,53,M,0,Ensino Médio,Solteiro,$120K +,Silver,44,2,4,4,34516.0,2297,32219.0,0.416,1461,43,0.536,0.067
+807584958,Cancelado,50,M,3,Sem ensino formal,Casado,$60K - $80K,Blue,45,2,2,5,21096.0,0,21096.0,0.637,1882,39,0.345,0.0
+715405758,Cancelado,50,F,1,Ensino Médio,Solteiro,Não informado,Blue,42,5,0,4,10057.0,0,10057.0,0.792,2383,42,0.448,0.0
+718515483,Cancelado,64,M,0,Ensino Superior,Solteiro,Less than $40K,Blue,52,2,3,5,3570.0,2517,1053.0,0.69,3289,47,0.958,0.705
+715664808,Cancelado,43,M,2,Ensino Superior,Solteiro,$80K - $120K,Blue,30,3,3,3,34516.0,0,34516.0,0.688,2427,51,0.645,0.0
+720551733,Cancelado,46,F,4,Doutorado,Casado,Não informado,Blue,26,3,3,6,15195.0,0,15195.0,0.726,2631,41,0.64,0.0
+710533233,Cancelado,38,F,1,Ensino Superior,Casado,Less than $40K,Blue,29,3,3,4,1438.3,0,1438.3,0.508,2139,47,0.567,0.0
+720197058,Cancelado,47,F,3,Ensino Superior,Não informado,Não informado,Blue,33,1,3,4,3443.0,0,3443.0,0.832,2505,45,0.452,0.0
+716317458,Cancelado,51,F,2,Post-Ensino Superior,Solteiro,Less than $40K,Blue,36,3,3,3,4281.0,0,4281.0,0.447,1723,44,0.375,0.0
+717035283,Cancelado,46,M,1,Ensino Superior,Solteiro,$60K - $80K,Blue,37,2,3,4,2445.0,848,1597.0,0.771,2216,39,0.56,0.347
+718110858,Cancelado,42,M,4,Não informado,Casado,$40K - $60K,Blue,36,2,3,5,1606.0,0,1606.0,0.87,2628,41,0.64,0.0
+803113383,Cancelado,55,F,1,Sem ensino formal,Solteiro,Less than $40K,Blue,49,3,4,3,3292.0,0,3292.0,0.482,2222,54,0.636,0.0
+721273008,Cancelado,54,F,1,Ensino Superior Incompleto,Não informado,Less than $40K,Silver,43,6,3,4,10797.0,1252,9545.0,0.489,1739,38,0.226,0.116
+820282383,Cancelado,45,F,2,Ensino Superior,Casado,Less than $40K,Blue,40,6,3,3,5848.0,2517,3331.0,0.561,2000,32,0.28,0.43
+712693908,Cancelado,43,M,3,Ensino Superior,Casado,$120K +,Blue,31,2,4,1,13883.0,783,13100.0,0.749,1871,32,0.684,0.056
+708642708,Cancelado,40,F,2,Sem ensino formal,Casado,Não informado,Blue,36,3,2,3,13019.0,0,13019.0,0.487,1484,33,0.435,0.0
+811475733,Cancelado,53,F,1,Ensino Superior Incompleto,Casado,$40K - $60K,Blue,48,2,2,3,3339.0,0,3339.0,0.694,2432,48,0.6,0.0
+713788083,Cancelado,28,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,36,4,2,5,1624.0,0,1624.0,0.299,1897,35,0.25,0.0
+780067158,Cancelado,51,F,2,Sem ensino formal,Solteiro,Less than $40K,Blue,36,2,3,3,1746.0,1107,639.0,0.539,1907,47,0.621,0.634
+809599158,Cancelado,48,M,4,Sem ensino formal,Solteiro,$80K - $120K,Silver,43,2,3,4,34516.0,0,34516.0,0.671,1626,28,0.4,0.0
+709798908,Cancelado,45,F,4,Não informado,Solteiro,Less than $40K,Blue,32,3,3,4,2858.0,0,2858.0,1058.0,2611,43,0.483,0.0
+708084558,Cancelado,46,M,3,Doutorado,Divorciado,$80K - $120K,Blue,38,6,3,3,8258.0,1771,6487.0,0.0,1447,23,0.0,0.214
+718711158,Cancelado,52,M,3,Ensino Superior,Casado,$120K +,Blue,36,1,2,3,3841.0,2517,1324.0,0.841,2680,51,0.545,0.655
+709143183,Cancelado,52,F,2,Doutorado,Casado,$40K - $60K,Blue,43,3,2,4,1822.0,1605,217.0,0.756,2538,39,0.696,0.881
+821759658,Cancelado,41,F,4,Ensino Médio,Divorciado,$40K - $60K,Blue,37,3,2,3,4650.0,204,4446.0,0.685,2014,54,0.8,0.044
+712783083,Cancelado,48,F,4,Ensino Médio,Casado,Less than $40K,Blue,37,1,2,3,3607.0,0,3607.0,0.504,2013,35,0.458,0.0
+821749608,Cancelado,41,M,3,Ensino Superior,Solteiro,$80K - $120K,Blue,37,3,3,3,19402.0,0,19402.0,0.58,1937,51,0.594,0.0
+826261008,Cancelado,48,F,3,Ensino Superior,Não informado,Less than $40K,Blue,44,3,3,2,1438.3,0,1438.3,0.736,2054,46,0.586,0.0
+709444983,Cancelado,38,F,3,Sem ensino formal,Solteiro,$40K - $60K,Blue,30,3,2,3,2435.0,2432,3.0,0.12,1460,32,0.103,0.999
+769575783,Cancelado,49,F,3,Ensino Superior Incompleto,Casado,Less than $40K,Blue,41,3,3,3,1603.0,749,854.0,0.733,2644,43,0.483,0.467
+709563258,Cancelado,50,F,2,Sem ensino formal,Solteiro,Não informado,Blue,41,2,3,2,2751.0,2253,498.0,0.497,2108,40,0.481,0.819
+712257258,Cancelado,50,F,1,Ensino Médio,Solteiro,Less than $40K,Blue,36,4,2,5,1457.0,0,1457.0,0.493,1441,39,0.393,0.0
+708916083,Cancelado,49,F,0,Doutorado,Não informado,Less than $40K,Blue,37,5,2,3,1749.0,0,1749.0,1006.0,2510,38,0.407,0.0
+778364583,Cancelado,45,F,2,Ensino Superior,Casado,Less than $40K,Blue,25,3,2,3,5911.0,916,4995.0,0.471,1656,31,0.722,0.155
+717308433,Cancelado,49,M,5,Sem ensino formal,Não informado,$60K - $80K,Blue,43,3,3,3,1960.0,0,1960.0,0.493,2253,39,0.345,0.0
+713796033,Cancelado,47,M,2,Ensino Superior,Casado,$40K - $60K,Blue,42,6,3,3,4738.0,0,4738.0,0.641,1900,36,0.5,0.0
+710812533,Cancelado,46,F,3,Ensino Médio,Solteiro,Não informado,Silver,36,4,2,3,34516.0,154,34362.0,0.602,1987,46,0.586,0.004
+714864333,Cancelado,43,M,2,Ensino Superior Incompleto,Divorciado,$120K +,Blue,37,4,1,2,34516.0,0,34516.0,0.536,1370,38,0.357,0.0
+720810783,Cancelado,54,F,2,Ensino Superior,Casado,Não informado,Blue,44,2,3,3,3781.0,1692,2089.0,0.791,2310,43,0.72,0.448
+715987758,Cancelado,49,M,3,Ensino Superior,Solteiro,$80K - $120K,Blue,36,3,2,1,3261.0,0,3261.0,1012.0,3081,50,0.667,0.0
+713388108,Cancelado,62,F,0,Ensino Médio,Não informado,Less than $40K,Blue,51,4,2,3,5210.0,0,5210.0,0.64,2162,36,0.161,0.0
+719917233,Cancelado,49,M,3,Post-Ensino Superior,Casado,$80K - $120K,Blue,36,3,3,2,13382.0,1159,12223.0,0.404,1828,45,0.5,0.087
+717103758,Cancelado,63,M,0,Ensino Superior,Solteiro,Não informado,Blue,55,5,0,2,18550.0,0,18550.0,0.908,2616,42,0.826,0.0
+721365033,Cancelado,37,M,3,Sem ensino formal,Solteiro,$40K - $60K,Blue,36,3,2,4,1696.0,0,1696.0,0.857,2095,43,0.536,0.0
+810974958,Cancelado,51,M,2,Ensino Médio,Casado,$60K - $80K,Blue,46,5,3,2,4123.0,1760,2363.0,0.869,2447,40,0.429,0.427
+712267983,Cancelado,57,F,0,Ensino Superior,Solteiro,Less than $40K,Blue,45,4,3,3,3023.0,2517,506.0,0.646,2477,42,0.615,0.833
+718250883,Cancelado,59,F,2,Ensino Médio,Casado,Não informado,Blue,51,3,3,3,3875.0,1397,2478.0,0.573,2312,49,0.581,0.361
+802243458,Cancelado,48,M,2,Doutorado,Solteiro,$40K - $60K,Blue,42,6,3,2,2760.0,0,2760.0,0.576,1759,34,0.214,0.0
+720330558,Cancelado,44,M,3,Ensino Superior,Casado,$80K - $120K,Blue,25,5,2,3,25256.0,966,24290.0,0.488,2048,40,0.333,0.038
+720784833,Cancelado,48,F,3,Ensino Superior,Solteiro,Não informado,Blue,36,3,3,1,1630.0,1243,387.0,0.4,1884,43,0.303,0.763
+721448283,Cancelado,39,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,26,3,3,1,1876.0,1536,340.0,0.712,2579,47,0.469,0.819
+710552733,Cancelado,42,M,5,Não informado,Casado,$60K - $80K,Blue,36,2,3,2,4963.0,0,4963.0,0.637,2335,40,0.429,0.0
+714384783,Cancelado,59,F,1,Ensino Superior,Casado,Less than $40K,Blue,36,2,3,3,2468.0,0,2468.0,0.5,2017,37,0.762,0.0
+713847858,Cancelado,49,F,3,Ensino Superior,Divorciado,Less than $40K,Blue,36,3,3,3,1438.3,0,1438.3,0.409,1849,43,0.536,0.0
+810875958,Cancelado,51,F,3,Ensino Superior,Casado,Less than $40K,Blue,46,1,4,3,2016.0,395,1621.0,0.711,2473,44,0.571,0.196
+718766058,Cancelado,56,M,2,Ensino Superior,Solteiro,$80K - $120K,Blue,36,1,2,2,1438.3,0,1438.3,0.65,2123,37,0.542,0.0
+709309308,Cancelado,50,M,3,Ensino Superior Incompleto,Não informado,$80K - $120K,Blue,37,1,3,2,27186.0,0,27186.0,0.504,1704,34,0.478,0.0
+711721458,Cancelado,50,F,2,Ensino Superior,Não informado,Less than $40K,Blue,36,5,2,2,1438.3,0,1438.3,0.658,2329,43,0.593,0.0
+708798483,Cancelado,37,F,3,Não informado,Solteiro,Não informado,Blue,24,2,3,2,2054.0,0,2054.0,0.87,2567,43,0.593,0.0
+708501783,Cancelado,43,M,2,Ensino Médio,Casado,$120K +,Blue,36,6,2,4,34516.0,1477,33039.0,0.324,1868,40,0.212,0.043
+719328858,Cancelado,56,M,4,Ensino Médio,Casado,$60K - $80K,Blue,43,6,2,6,4535.0,0,4535.0,0.831,2342,40,0.6,0.0
+803800533,Cancelado,39,M,1,Não informado,Solteiro,$40K - $60K,Blue,33,3,3,4,2088.0,975,1113.0,1144.0,2866,59,0.735,0.467
+718352358,Cancelado,49,F,3,Post-Ensino Superior,Casado,Less than $40K,Blue,35,3,3,2,1914.0,0,1914.0,0.677,2687,41,0.414,0.0
+719894433,Cancelado,43,F,4,Não informado,Casado,Less than $40K,Blue,24,6,2,3,1679.0,951,728.0,0.706,2492,43,0.593,0.566
+778720533,Cancelado,53,F,4,Ensino Superior,Casado,Less than $40K,Blue,37,3,2,3,1722.0,0,1722.0,0.863,2141,35,0.346,0.0
+709488108,Cancelado,42,M,4,Ensino Superior Incompleto,Solteiro,$40K - $60K,Blue,36,5,2,3,10543.0,0,10543.0,0.509,1841,39,0.5,0.0
+820276908,Cancelado,42,F,4,Ensino Superior Incompleto,Casado,$40K - $60K,Blue,37,3,3,1,4139.0,0,4139.0,0.547,2232,41,0.464,0.0
+819647358,Cancelado,38,M,2,Não informado,Solteiro,$60K - $80K,Blue,33,2,3,2,12871.0,0,12871.0,0.598,2413,53,0.606,0.0
+789502308,Cancelado,57,F,3,Não informado,Solteiro,Less than $40K,Blue,49,1,3,5,1551.0,790,761.0,0.811,2379,46,0.769,0.509
+802834158,Cancelado,42,M,4,Não informado,Casado,$60K - $80K,Blue,36,3,2,2,6743.0,1737,5006.0,0.598,1934,30,0.579,0.258
+712038258,Cancelado,48,M,4,Não informado,Solteiro,$80K - $120K,Blue,36,3,3,3,32838.0,1717,31121.0,0.995,2538,42,0.4,0.052
+712864683,Cancelado,42,F,3,Doutorado,Solteiro,Less than $40K,Blue,30,2,3,3,1438.3,0,1438.3,0.373,1693,37,0.423,0.0
+713886333,Cancelado,47,M,2,Ensino Médio,Casado,$60K - $80K,Blue,39,2,3,1,18660.0,728,17932.0,0.403,1682,43,0.303,0.039
+711741708,Cancelado,41,M,3,Post-Ensino Superior,Não informado,$80K - $120K,Blue,33,3,2,3,7591.0,0,7591.0,0.648,2302,42,0.5,0.0
+778915233,Cancelado,51,F,0,Ensino Superior,Casado,Less than $40K,Blue,32,4,2,3,1757.0,331,1426.0,0.879,2377,47,0.516,0.188
+780146658,Cancelado,40,F,2,Post-Ensino Superior,Casado,$40K - $60K,Blue,25,2,2,4,3795.0,2517,1278.0,0.563,1633,32,0.778,0.663
+755467683,Cancelado,48,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,41,6,2,4,3001.0,482,2519.0,0.814,2403,42,0.615,0.161
+708804633,Cancelado,44,F,2,Doutorado,Divorciado,Less than $40K,Blue,36,1,2,2,1916.0,0,1916.0,1041.0,2888,39,0.444,0.0
+714479358,Cancelado,51,M,3,Ensino Superior,Solteiro,$80K - $120K,Blue,36,6,3,3,3610.0,1554,2056.0,0.501,2216,34,0.308,0.43
+769438608,Cancelado,48,F,1,Ensino Superior,Casado,Less than $40K,Blue,42,3,3,2,1942.0,860,1082.0,0.708,2522,42,0.312,0.443
+713608383,Cancelado,54,F,1,Não informado,Casado,Less than $40K,Blue,40,1,1,4,1438.3,0,1438.3,0.43,1632,36,0.44,0.0
+720867708,Cancelado,45,F,4,Ensino Superior,Não informado,Less than $40K,Blue,33,1,3,2,1748.0,1103,645.0,0.739,2335,41,0.708,0.631
+721126833,Cancelado,51,M,2,Ensino Médio,Casado,$80K - $120K,Blue,41,5,2,3,14902.0,0,14902.0,0.312,2038,39,0.625,0.0
+712807758,Cancelado,47,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,39,3,3,3,1438.3,0,1438.3,0.502,2476,32,0.778,0.0
+824140908,Cancelado,52,M,3,Sem ensino formal,Solteiro,$120K +,Blue,48,5,3,4,20974.0,0,20974.0,0.0,1246,27,0.0,0.0
+720444408,Cancelado,35,F,1,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,25,2,2,4,2231.0,1791,440.0,0.82,2576,42,0.75,0.803
+789358908,Cancelado,53,F,3,Ensino Superior Incompleto,Casado,Less than $40K,Blue,43,3,2,2,3573.0,0,3573.0,0.842,2562,36,0.44,0.0
+797491683,Cancelado,45,M,5,Não informado,Casado,$80K - $120K,Silver,39,2,2,3,34516.0,1964,32552.0,0.624,2234,49,0.361,0.057
+709170108,Cancelado,60,F,1,Não informado,Solteiro,$40K - $60K,Blue,41,3,2,4,2425.0,0,2425.0,0.187,1522,36,0.2,0.0
+716056158,Cancelado,63,M,0,Ensino Superior,Solteiro,$60K - $80K,Blue,51,3,3,3,11619.0,0,11619.0,0.631,2395,49,0.361,0.0
+715406658,Cancelado,47,F,1,Não informado,Solteiro,Less than $40K,Blue,37,4,2,1,2173.0,596,1577.0,0.81,2738,45,0.406,0.274
+773228133,Cancelado,39,F,2,Ensino Superior,Casado,Less than $40K,Blue,29,3,2,2,1677.0,0,1677.0,0.869,2437,41,0.708,0.0
+716625033,Cancelado,32,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,36,3,3,6,2761.0,0,2761.0,1047.0,2753,43,0.654,0.0
+716782758,Cancelado,48,M,3,Ensino Superior,Solteiro,$60K - $80K,Blue,42,3,2,4,19075.0,0,19075.0,0.807,2013,32,0.455,0.0
+708797583,Cancelado,49,F,4,Não informado,Solteiro,Não informado,Blue,31,6,3,3,2672.0,0,2672.0,1038.0,2576,39,0.5,0.0
+708809283,Cancelado,41,F,4,Ensino Superior,Divorciado,$40K - $60K,Blue,33,1,3,1,10360.0,2517,7843.0,0.632,2414,28,0.273,0.243
+711100608,Cancelado,55,M,1,Sem ensino formal,Solteiro,$60K - $80K,Blue,48,5,2,2,1723.0,0,1723.0,1038.0,2574,43,0.72,0.0
+768624258,Cancelado,55,F,2,Ensino Superior,Solteiro,Less than $40K,Blue,49,2,1,2,1583.0,234,1349.0,0.639,2541,36,0.385,0.148
+780126033,Cancelado,50,M,4,Não informado,Casado,$40K - $60K,Blue,35,6,1,5,12914.0,1227,11687.0,0.392,2082,54,0.459,0.095
+719174433,Cancelado,36,F,1,Não informado,Solteiro,Less than $40K,Blue,24,2,1,2,1735.0,0,1735.0,0.74,2467,35,0.346,0.0
+714346608,Cancelado,51,F,2,Ensino Superior,Solteiro,$40K - $60K,Blue,36,3,1,4,1495.0,0,1495.0,0.528,2220,50,0.562,0.0
+798481383,Cancelado,40,F,3,Sem ensino formal,Casado,Less than $40K,Blue,34,5,1,2,2694.0,0,2694.0,0.872,2684,38,0.31,0.0
+823904133,Cancelado,53,F,2,Ensino Superior Incompleto,Solteiro,Não informado,Blue,49,2,2,4,10195.0,0,10195.0,0.629,2489,54,0.385,0.0
+711646908,Cancelado,39,M,3,Não informado,Solteiro,$60K - $80K,Blue,23,1,2,3,7821.0,2517,5304.0,0.408,2010,43,0.344,0.322
+718171308,Cancelado,44,F,3,Ensino Superior,Casado,Less than $40K,Blue,36,6,3,4,1984.0,0,1984.0,0.89,2506,46,0.643,0.0
+770024733,Cancelado,53,F,2,Sem ensino formal,Solteiro,$40K - $60K,Blue,47,1,2,3,1699.0,0,1699.0,0.602,2520,49,0.531,0.0
+708702258,Cancelado,40,F,3,Sem ensino formal,Solteiro,Não informado,Blue,36,3,2,2,3698.0,478,3220.0,0.611,2051,31,0.632,0.129
+720519333,Cancelado,59,F,2,Não informado,Solteiro,Não informado,Blue,45,1,3,3,2721.0,1885,836.0,0.853,2594,48,0.455,0.693
+717001908,Cancelado,41,F,5,Ensino Superior,Casado,Less than $40K,Blue,28,6,2,2,6936.0,0,6936.0,0.883,2874,44,0.63,0.0
+719564208,Cancelado,46,F,1,Sem ensino formal,Solteiro,$40K - $60K,Blue,30,3,2,1,7195.0,0,7195.0,1035.0,2751,47,1136.0,0.0
+713229633,Cancelado,45,F,0,Não informado,Casado,$40K - $60K,Blue,30,3,2,4,2759.0,0,2759.0,0.535,2061,47,0.424,0.0
+798041508,Cancelado,50,F,4,Ensino Superior,Solteiro,Less than $40K,Blue,44,2,3,2,3201.0,2517,684.0,0.445,1880,42,0.355,0.786
+715014633,Cancelado,32,F,0,Sem ensino formal,Casado,Não informado,Blue,36,6,3,2,8791.0,0,8791.0,0.894,2579,51,0.594,0.0
+714372333,Cancelado,59,F,0,Doutorado,Casado,Less than $40K,Blue,52,6,4,2,2302.0,0,2302.0,0.52,2256,40,0.667,0.0
+779320008,Cancelado,43,M,3,Ensino Superior Incompleto,Casado,$80K - $120K,Blue,25,3,3,3,2900.0,2517,383.0,0.719,2180,31,0.409,0.868
+713153733,Cancelado,49,F,2,Ensino Superior,Não informado,Less than $40K,Blue,29,6,3,3,2520.0,1473,1047.0,0.515,2061,36,0.241,0.585
+780201633,Cancelado,41,F,3,Ensino Superior,Solteiro,$40K - $60K,Blue,31,4,3,2,5655.0,1154,4501.0,0.702,2189,51,0.7,0.204
+788095158,Cancelado,52,M,3,Sem ensino formal,Casado,$80K - $120K,Blue,44,3,3,3,11606.0,0,11606.0,0.797,2623,39,0.393,0.0
+716855058,Cancelado,49,F,4,Ensino Superior,Casado,Less than $40K,Blue,38,5,2,4,1757.0,0,1757.0,0.89,2557,45,0.406,0.0
+709500183,Cancelado,46,F,3,Ensino Superior Incompleto,Casado,Less than $40K,Blue,36,2,3,4,1804.0,0,1804.0,0.537,2077,44,0.419,0.0
+715445058,Cancelado,49,F,0,Doutorado,Casado,Less than $40K,Blue,40,3,4,4,3547.0,2517,1030.0,0.805,2715,45,0.731,0.71
+718524783,Cancelado,40,M,3,Ensino Médio,Não informado,$80K - $120K,Blue,34,1,3,4,29715.0,0,29715.0,0.399,2128,39,0.345,0.0
+708117933,Cancelado,44,F,2,Ensino Superior,Divorciado,Less than $40K,Blue,36,3,2,3,1880.0,0,1880.0,0.519,2469,34,0.417,0.0
+712777233,Cancelado,65,M,0,Ensino Superior,Solteiro,Não informado,Blue,48,1,4,3,1671.0,0,1671.0,0.725,2701,51,0.889,0.0
+712706058,Cancelado,44,F,5,Ensino Superior,Solteiro,Less than $40K,Blue,37,1,2,4,1491.0,0,1491.0,0.551,1970,46,0.484,0.0
+720905133,Cancelado,43,M,3,Ensino Superior,Não informado,$80K - $120K,Blue,29,1,2,6,11422.0,1095,10327.0,0.773,2439,45,0.8,0.096
+712947333,Cancelado,54,F,4,Não informado,Casado,Less than $40K,Blue,43,3,3,0,5139.0,0,5139.0,0.33,1653,44,0.692,0.0
+711871758,Cancelado,30,F,1,Ensino Superior,Casado,Less than $40K,Blue,36,2,2,3,2905.0,2517,388.0,0.725,2487,39,0.393,0.866
+719519058,Cancelado,55,F,4,Ensino Médio,Casado,Less than $40K,Blue,36,4,2,3,1477.0,0,1477.0,0.719,2419,49,0.531,0.0
+716873733,Cancelado,43,F,4,Post-Ensino Superior,Divorciado,Less than $40K,Blue,30,4,3,3,3556.0,2517,1039.0,0.651,2639,53,0.71,0.708
+720206658,Cancelado,40,F,3,Ensino Superior,Casado,Less than $40K,Blue,29,6,2,4,1479.0,458,1021.0,0.466,1811,44,0.517,0.31
+713857758,Cancelado,53,F,1,Ensino Superior,Casado,Não informado,Blue,36,6,3,1,5842.0,198,5644.0,0.396,1828,44,0.517,0.034
+710674533,Cancelado,46,M,1,Sem ensino formal,Casado,$60K - $80K,Blue,34,3,3,4,15060.0,0,15060.0,0.545,1611,42,0.4,0.0
+717448383,Cancelado,41,M,4,Não informado,Solteiro,$80K - $120K,Blue,28,1,2,4,4428.0,0,4428.0,0.865,2331,36,0.286,0.0
+716307558,Cancelado,50,F,3,Ensino Médio,Casado,Less than $40K,Blue,40,6,2,4,2897.0,1506,1391.0,0.618,2214,46,0.484,0.52
+781320783,Cancelado,47,M,2,Ensino Superior,Divorciado,$80K - $120K,Blue,41,3,2,3,4586.0,0,4586.0,0.812,2529,43,0.433,0.0
+714100008,Cancelado,47,F,2,Ensino Superior Incompleto,Casado,Less than $40K,Blue,36,6,2,3,5667.0,2517,3150.0,0.684,2176,38,0.267,0.444
+708223383,Cancelado,47,F,3,Ensino Médio,Casado,Não informado,Blue,39,6,3,4,11410.0,979,10431.0,1049.0,2736,38,0.462,0.086
+708705783,Cancelado,47,M,3,Doutorado,Casado,$60K - $80K,Blue,36,6,3,1,1584.0,1214,370.0,0.887,2628,41,0.64,0.766
+709017258,Cancelado,51,F,2,Não informado,Casado,Less than $40K,Blue,36,1,2,2,2114.0,0,2114.0,0.875,2872,45,0.5,0.0
+709161108,Cancelado,44,M,1,Não informado,Solteiro,$60K - $80K,Blue,33,3,2,4,2540.0,0,2540.0,0.212,1531,31,0.107,0.0
+714089658,Cancelado,41,M,2,Ensino Superior,Solteiro,$60K - $80K,Blue,36,3,2,1,2238.0,0,2238.0,0.452,2063,42,0.5,0.0
+718863258,Cancelado,54,F,2,Doutorado,Casado,Less than $40K,Blue,41,2,2,3,3881.0,2517,1364.0,0.815,2463,38,0.407,0.649
+713283933,Cancelado,42,M,2,Sem ensino formal,Casado,$40K - $60K,Blue,30,1,3,3,3032.0,0,3032.0,0.429,2273,44,0.517,0.0
+714915633,Cancelado,42,M,0,Ensino Médio,Solteiro,$60K - $80K,Blue,36,4,3,6,15699.0,0,15699.0,0.569,1793,40,0.6,0.0
+712292133,Cancelado,45,F,3,Ensino Superior Incompleto,Casado,Less than $40K,Blue,36,4,2,4,2330.0,2294,36.0,0.456,2107,40,0.333,0.985
+712229283,Cancelado,48,F,4,Doutorado,Não informado,Não informado,Blue,24,4,2,3,1438.3,0,1438.3,0.738,2306,46,0.484,0.0
+794273283,Cancelado,51,M,3,Sem ensino formal,Solteiro,$80K - $120K,Blue,45,3,3,3,25670.0,0,25670.0,0.952,2709,51,0.645,0.0
+788838033,Cancelado,45,M,2,Ensino Superior Incompleto,Solteiro,$60K - $80K,Blue,29,3,2,4,3841.0,0,3841.0,0.794,2832,48,0.846,0.0
+789013833,Cancelado,50,M,2,Ensino Médio,Casado,$120K +,Silver,37,5,2,1,34516.0,399,34117.0,0.726,2118,41,0.519,0.012
+711918033,Cancelado,37,F,3,Não informado,Casado,Less than $40K,Blue,17,3,1,3,1468.0,1074,394.0,0.697,2050,32,0.524,0.732
+714084483,Cancelado,49,F,3,Sem ensino formal,Solteiro,Não informado,Blue,36,4,2,3,3855.0,211,3644.0,0.485,1724,34,0.308,0.055
+719495958,Cancelado,42,F,1,Não informado,Casado,Less than $40K,Blue,36,3,3,4,2983.0,0,2983.0,0.865,2509,46,0.586,0.0
+714726858,Cancelado,31,F,0,Post-Ensino Superior,Divorciado,Less than $40K,Blue,36,6,3,3,4871.0,0,4871.0,0.89,2773,34,0.789,0.0
+717172308,Cancelado,45,F,3,Ensino Médio,Casado,$40K - $60K,Blue,37,4,2,4,3304.0,0,3304.0,0.532,1731,32,0.28,0.0
+771795933,Cancelado,49,M,4,Não informado,Solteiro,$120K +,Blue,38,3,3,4,34516.0,2517,31999.0,0.7,2376,55,0.486,0.073
+804829533,Cancelado,59,M,0,Ensino Médio,Solteiro,$60K - $80K,Blue,54,3,6,6,24621.0,471,24150.0,0.85,2864,51,0.759,0.019
+795599883,Cancelado,57,F,2,Sem ensino formal,Casado,Não informado,Blue,51,3,6,2,2404.0,284,2120.0,0.866,2511,51,0.5,0.118
+711819708,Cancelado,33,F,3,Post-Ensino Superior,Não informado,Não informado,Blue,25,3,2,4,4734.0,2517,2217.0,0.483,2275,55,0.897,0.532
+713041683,Cancelado,55,M,2,Ensino Superior,Casado,$120K +,Blue,36,3,2,4,4697.0,0,4697.0,0.544,1867,34,0.478,0.0
+709663608,Cancelado,43,F,1,Ensino Superior,Casado,Less than $40K,Blue,36,4,2,4,1536.0,0,1536.0,0.571,1973,36,0.333,0.0
+812411058,Cancelado,49,F,0,Sem ensino formal,Solteiro,Less than $40K,Blue,44,3,3,2,2094.0,0,2094.0,0.897,2690,46,0.484,0.0
+778397358,Cancelado,42,M,5,Não informado,Casado,$60K - $80K,Blue,22,6,2,4,5096.0,0,5096.0,0.808,2574,43,0.483,0.0
+715609533,Cancelado,47,F,3,Não informado,Solteiro,Less than $40K,Blue,35,1,3,3,5398.0,0,5398.0,0.621,1887,36,0.333,0.0
+712160058,Cancelado,59,F,2,Sem ensino formal,Casado,Less than $40K,Blue,51,5,5,4,1438.3,0,1438.3,0.656,2146,44,0.63,0.0
+779130108,Cancelado,33,F,0,Sem ensino formal,Solteiro,$40K - $60K,Blue,15,3,2,6,1438.3,0,1438.3,0.835,2527,49,0.69,0.0
+716922633,Cancelado,38,M,2,Sem ensino formal,Solteiro,$120K +,Blue,30,6,3,4,4043.0,2517,1526.0,0.602,2600,47,0.621,0.623
+710211783,Cancelado,38,F,4,Não informado,Casado,Less than $40K,Blue,26,3,2,2,1438.3,0,1438.3,0.777,2264,39,0.625,0.0
+780496833,Cancelado,56,F,1,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,43,3,2,2,2846.0,0,2846.0,0.747,2122,44,0.419,0.0
+789081408,Cancelado,44,F,4,Sem ensino formal,Solteiro,Less than $40K,Blue,32,6,3,4,1438.3,170,1268.3,0.889,2527,45,0.406,0.118
+720634683,Cancelado,48,F,2,Ensino Superior Incompleto,Casado,Não informado,Blue,37,5,2,4,2220.0,0,2220.0,0.737,2456,45,0.452,0.0
+710289783,Cancelado,43,F,2,Sem ensino formal,Divorciado,Less than $40K,Blue,25,5,2,4,2086.0,2007,79.0,1051.0,2537,48,0.6,0.962
+823615983,Cancelado,54,M,2,Sem ensino formal,Solteiro,$40K - $60K,Blue,50,2,1,3,3682.0,2517,1165.0,0.379,1642,35,0.25,0.684
+807587433,Cancelado,56,F,2,Doutorado,Casado,Less than $40K,Blue,51,4,6,5,1438.3,0,1438.3,0.699,2229,40,0.6,0.0
+709987683,Cancelado,46,F,4,Ensino Superior,Casado,Não informado,Blue,36,4,3,4,2286.0,0,2286.0,1057.0,2798,40,0.481,0.0
+713370033,Cancelado,53,F,0,Ensino Superior,Solteiro,Less than $40K,Blue,40,4,1,4,1438.3,0,1438.3,0.503,2014,53,0.472,0.0
+713949858,Cancelado,39,F,2,Doutorado,Casado,Less than $40K,Blue,36,4,3,4,1438.3,886,552.3,0.24,1674,42,0.312,0.616
+719751483,Cancelado,39,F,2,Sem ensino formal,Solteiro,Less than $40K,Blue,36,4,3,1,1438.3,576,862.3,0.849,2567,48,0.6,0.4
+779681433,Cancelado,48,F,3,Ensino Superior,Casado,$40K - $60K,Blue,31,6,3,4,14899.0,0,14899.0,0.381,1519,26,0.368,0.0
+780038058,Cancelado,38,F,0,Ensino Médio,Solteiro,Less than $40K,Blue,22,3,2,5,1556.0,0,1556.0,0.69,2283,46,0.586,0.0
+709536483,Cancelado,57,M,3,Ensino Superior,Casado,$60K - $80K,Blue,49,5,0,3,8701.0,215,8486.0,0.527,1999,41,0.414,0.025
+712563408,Cancelado,33,M,2,Sem ensino formal,Solteiro,$40K - $60K,Blue,18,1,1,6,5600.0,2517,3083.0,0.628,2296,46,0.586,0.449
+778601733,Cancelado,55,F,3,Ensino Médio,Solteiro,$40K - $60K,Blue,47,5,4,3,2687.0,1689,998.0,0.714,2370,34,0.789,0.629
+713696808,Cancelado,46,F,3,Ensino Médio,Casado,Less than $40K,Blue,39,3,3,0,1801.0,316,1485.0,0.494,2252,42,0.4,0.175
+720044658,Cancelado,53,M,1,Post-Ensino Superior,Solteiro,$60K - $80K,Blue,46,6,2,4,4573.0,2076,2497.0,0.839,2720,46,0.484,0.454
+716373483,Cancelado,48,F,5,Ensino Superior,Casado,Less than $40K,Blue,40,4,3,2,2860.0,2517,343.0,0.38,1544,45,0.364,0.88
+716600733,Cancelado,47,F,4,Não informado,Casado,Less than $40K,Blue,36,3,3,3,2033.0,228,1805.0,0.904,2572,43,0.72,0.112
+710411358,Cancelado,39,F,4,Ensino Superior Incompleto,Casado,$40K - $60K,Blue,28,4,2,4,7596.0,2199,5397.0,0.633,2164,45,0.5,0.289
+715660308,Cancelado,54,F,3,Ensino Superior Incompleto,Casado,Less than $40K,Blue,44,5,3,2,2921.0,2412,509.0,0.823,2612,33,0.375,0.826
+778959258,Cancelado,51,F,1,Não informado,Casado,Less than $40K,Blue,32,5,3,3,1438.3,0,1438.3,0.905,2585,45,0.5,0.0
+714620358,Cancelado,37,F,2,Ensino Superior,Divorciado,Less than $40K,Blue,30,3,3,4,3328.0,2517,811.0,0.553,2196,47,0.621,0.756
+709145958,Cancelado,43,F,3,Não informado,Casado,Less than $40K,Blue,36,2,2,2,2440.0,1002,1438.0,0.061,1533,42,0.105,0.411
+716668308,Cancelado,39,F,4,Ensino Médio,Solteiro,Não informado,Blue,36,3,2,4,12405.0,0,12405.0,0.949,3151,39,0.444,0.0
+789212883,Cancelado,30,F,1,Sem ensino formal,Divorciado,Less than $40K,Blue,19,6,1,2,1644.0,0,1644.0,0.82,2533,44,0.517,0.0
+712450008,Cancelado,50,F,2,Post-Ensino Superior,Casado,Não informado,Blue,36,5,2,4,4045.0,0,4045.0,0.66,2438,41,0.464,0.0
+713492583,Cancelado,34,F,2,Ensino Superior,Casado,Less than $40K,Blue,29,5,2,2,5845.0,0,5845.0,0.504,2308,35,0.591,0.0
+714058308,Cancelado,43,F,5,Sem ensino formal,Solteiro,Less than $40K,Blue,36,5,3,4,2689.0,2384,305.0,0.365,1941,53,0.656,0.887
+713114133,Cancelado,42,F,2,Sem ensino formal,Solteiro,Less than $40K,Blue,23,4,2,3,1443.0,0,1443.0,0.529,2092,38,0.31,0.0
+709495833,Cancelado,44,F,2,Ensino Superior,Solteiro,Less than $40K,Blue,36,5,2,4,1438.3,0,1438.3,0.421,1944,36,0.5,0.0
+717575958,Cancelado,50,F,1,Post-Ensino Superior,Casado,$40K - $60K,Blue,41,6,3,3,1694.0,479,1215.0,0.838,2349,42,0.312,0.283
+714406158,Cancelado,53,F,3,Ensino Médio,Divorciado,Não informado,Blue,36,4,3,6,7939.0,0,7939.0,0.551,2269,42,0.312,0.0
+708681708,Cancelado,51,F,2,Não informado,Solteiro,Less than $40K,Blue,43,5,3,2,3245.0,0,3245.0,0.553,1977,29,0.261,0.0
+711468708,Cancelado,38,F,4,Ensino Médio,Solteiro,$40K - $60K,Blue,31,4,3,2,1438.3,0,1438.3,0.406,1986,52,0.486,0.0
+821724483,Cancelado,48,M,4,Não informado,Solteiro,$40K - $60K,Blue,43,2,3,2,11272.0,1744,9528.0,0.347,1455,34,0.214,0.155
+779841483,Cancelado,55,F,1,Doutorado,Casado,Não informado,Blue,39,1,3,3,12972.0,1424,11548.0,0.525,2238,36,0.2,0.11
+710138883,Cancelado,47,F,3,Ensino Superior,Não informado,Less than $40K,Blue,36,5,2,2,8109.0,0,8109.0,0.601,1835,43,0.344,0.0
+709112508,Cancelado,42,F,3,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,36,3,3,4,3802.0,1300,2502.0,0.627,2165,36,0.385,0.342
+718160358,Cancelado,51,F,1,Ensino Superior,Casado,Less than $40K,Blue,39,5,3,2,1438.3,0,1438.3,0.885,2492,35,0.296,0.0
+719325783,Cancelado,65,M,2,Não informado,Solteiro,Less than $40K,Blue,36,4,2,3,2954.0,2517,437.0,0.619,1909,28,0.474,0.852
+713980383,Cancelado,49,F,3,Ensino Superior,Solteiro,Não informado,Blue,38,1,2,4,11025.0,0,11025.0,0.501,1902,28,0.273,0.0
+826077033,Cancelado,46,F,2,Não informado,Casado,Less than $40K,Blue,42,1,0,4,2002.0,0,2002.0,0.803,2423,39,0.857,0.0
+715194183,Cancelado,53,F,2,Não informado,Solteiro,Less than $40K,Blue,36,3,3,4,2575.0,411,2164.0,0.833,2423,43,0.593,0.16
+713826183,Cancelado,41,M,3,Ensino Médio,Não informado,$40K - $60K,Blue,33,4,3,4,1639.0,0,1639.0,0.481,2242,44,0.571,0.0
+780292683,Cancelado,55,M,1,Sem ensino formal,Solteiro,$120K +,Blue,41,3,4,4,24542.0,2354,22188.0,0.314,984,24,0.263,0.096
+711116133,Cancelado,50,F,1,Sem ensino formal,Solteiro,Less than $40K,Blue,37,3,2,4,1838.0,0,1838.0,0.743,2461,47,1136.0,0.0
+708584208,Cancelado,36,F,2,Ensino Superior,Não informado,Less than $40K,Blue,36,5,2,4,3111.0,2517,594.0,0.646,2367,41,0.519,0.809
+713096583,Cancelado,40,F,1,Ensino Médio,Solteiro,Less than $40K,Blue,36,4,3,2,1438.3,544,894.3,0.543,2294,40,0.739,0.378
+756025233,Cancelado,43,F,4,Sem ensino formal,Solteiro,Less than $40K,Blue,36,5,3,2,2422.0,1014,1408.0,0.688,2437,44,0.467,0.419
+711977508,Cancelado,56,F,2,Sem ensino formal,Solteiro,Less than $40K,Blue,43,1,2,4,1440.0,1211,229.0,0.465,2141,40,0.481,0.841
+710666583,Cancelado,29,F,1,Sem ensino formal,Solteiro,Less than $40K,Blue,36,3,2,4,2516.0,2312,204.0,0.625,2321,36,0.5,0.919
+712369308,Cancelado,48,F,4,Doutorado,Divorciado,$40K - $60K,Blue,35,4,3,2,3646.0,1047,2599.0,0.633,1969,38,0.52,0.287
+712721358,Cancelado,48,F,3,Sem ensino formal,Divorciado,Less than $40K,Blue,36,5,3,2,4073.0,2517,1556.0,0.575,2059,43,0.433,0.618
+717336408,Cancelado,51,F,1,Doutorado,Solteiro,Less than $40K,Blue,45,5,3,1,1952.0,1411,541.0,0.642,2452,44,0.63,0.723
+708731658,Cancelado,53,F,0,Ensino Médio,Casado,Less than $40K,Blue,41,3,3,4,1438.3,0,1438.3,0.387,1587,42,0.448,0.0
+708706833,Cancelado,39,F,3,Sem ensino formal,Divorciado,Não informado,Blue,36,4,3,3,2809.0,0,2809.0,0.854,2466,40,0.538,0.0
+715954158,Cancelado,48,M,3,Post-Ensino Superior,Casado,$40K - $60K,Blue,36,3,2,4,2954.0,931,2023.0,0.575,2433,29,0.381,0.315
+715499058,Cancelado,36,F,2,Ensino Médio,Casado,$40K - $60K,Blue,36,4,3,2,1848.0,0,1848.0,0.906,2775,33,0.435,0.0
+709199358,Cancelado,60,M,1,Sem ensino formal,Casado,Less than $40K,Blue,36,1,3,4,3316.0,0,3316.0,0.372,1684,19,0.188,0.0
+821889858,Cancelado,50,F,1,Doutorado,Solteiro,Não informado,Blue,46,6,4,3,1970.0,1477,493.0,0.662,2493,44,0.571,0.75
+720296808,Cancelado,52,F,3,Ensino Superior,Casado,Não informado,Blue,39,3,3,2,4173.0,1771,2402.0,0.711,2554,47,0.516,0.424
+709283358,Cancelado,43,F,4,Não informado,Casado,Less than $40K,Blue,29,6,2,3,2895.0,0,2895.0,0.663,2473,42,0.273,0.0
+789481233,Cancelado,39,M,2,Ensino Médio,Casado,$40K - $60K,Blue,30,5,3,3,2220.0,0,2220.0,0.872,2859,55,0.833,0.0
+710661333,Cancelado,55,F,2,Não informado,Solteiro,Não informado,Blue,36,4,3,2,10241.0,1545,8696.0,0.581,2513,47,0.424,0.151
+710570058,Cancelado,44,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,25,3,2,4,3101.0,0,3101.0,0.66,2512,37,0.37,0.0
+771284658,Cancelado,47,F,1,Não informado,Casado,Less than $40K,Blue,35,6,2,4,1850.0,896,954.0,0.724,2613,41,0.708,0.484
+802247658,Cancelado,59,M,2,Sem ensino formal,Solteiro,$40K - $60K,Blue,53,4,5,4,2699.0,2422,277.0,0.773,2599,43,0.433,0.897
+713590158,Cancelado,41,M,4,Ensino Superior,Solteiro,$60K - $80K,Blue,34,5,2,4,5045.0,2080,2965.0,0.738,2042,40,0.481,0.412
+715547058,Cancelado,35,F,0,Ensino Superior,Casado,Less than $40K,Blue,36,4,3,4,2089.0,0,2089.0,0.871,2707,51,0.5,0.0
+720531633,Cancelado,55,F,1,Ensino Superior,Não informado,Less than $40K,Blue,36,4,2,2,3552.0,2517,1035.0,0.865,2665,36,0.333,0.709
+718508883,Cancelado,43,F,3,Não informado,Solteiro,Less than $40K,Blue,36,6,3,3,2325.0,238,2087.0,0.64,2306,47,0.621,0.102
+716107158,Cancelado,32,F,0,Ensino Superior,Solteiro,Less than $40K,Blue,20,5,1,5,3983.0,431,3552.0,0.887,3098,46,0.438,0.108
+720234708,Cancelado,45,M,2,Ensino Médio,Solteiro,$120K +,Blue,33,6,3,2,15490.0,0,15490.0,0.742,2429,50,0.471,0.0
+716136333,Cancelado,40,F,4,Sem ensino formal,Solteiro,Less than $40K,Blue,24,5,2,1,4212.0,2517,1695.0,0.718,2725,41,0.519,0.598
+718296558,Cancelado,44,F,4,Não informado,Casado,$40K - $60K,Blue,31,4,3,5,1691.0,1327,364.0,0.774,2345,33,0.435,0.785
+780086658,Cancelado,43,M,4,Doutorado,Não informado,$60K - $80K,Blue,28,3,2,4,18229.0,0,18229.0,0.544,2060,39,0.625,0.0
+715487733,Cancelado,44,F,4,Ensino Superior,Casado,$40K - $60K,Blue,36,6,3,3,1452.0,0,1452.0,0.553,2287,42,0.5,0.0
+708154833,Cancelado,39,F,2,Ensino Superior,Solteiro,Less than $40K,Blue,27,1,3,3,1438.3,811,627.3,0.571,2336,46,0.278,0.564
+788941983,Cancelado,36,F,3,Ensino Superior,Solteiro,$40K - $60K,Blue,22,1,3,1,2013.0,0,2013.0,0.602,2425,50,0.923,0.0
+714614133,Cancelado,53,F,3,Não informado,Casado,Less than $40K,Blue,36,3,3,3,2819.0,0,2819.0,0.4,2128,39,0.444,0.0
+775152708,Cancelado,49,M,3,Post-Ensino Superior,Não informado,$80K - $120K,Blue,39,2,3,4,20769.0,901,19868.0,0.371,1835,43,0.72,0.043
+714487458,Cancelado,49,F,5,Ensino Superior,Divorciado,$40K - $60K,Blue,40,6,4,2,2920.0,0,2920.0,0.516,2306,39,0.625,0.0
+711390333,Cancelado,59,M,0,Post-Ensino Superior,Casado,$80K - $120K,Blue,46,5,4,2,6526.0,489,6037.0,0.678,2331,45,0.452,0.075
+787974108,Cancelado,37,F,1,Ensino Médio,Solteiro,$40K - $60K,Blue,27,4,2,2,1793.0,792,1001.0,0.723,2374,40,0.429,0.442
+710729358,Cancelado,40,F,2,Ensino Médio,Solteiro,Não informado,Blue,30,6,3,4,6479.0,0,6479.0,0.946,2539,42,0.5,0.0
+717477783,Cancelado,49,F,4,Não informado,Solteiro,Less than $40K,Silver,37,1,2,2,10195.0,2389,7806.0,0.427,1563,36,0.44,0.234
+789942033,Cancelado,43,M,4,Ensino Superior,Solteiro,$60K - $80K,Blue,34,5,3,3,10573.0,0,10573.0,0.794,2237,43,0.387,0.0
+717949008,Cancelado,40,F,4,Ensino Médio,Solteiro,$40K - $60K,Blue,29,5,2,3,1554.0,412,1142.0,0.568,2341,43,0.483,0.265
+712734933,Cancelado,43,F,2,Ensino Superior Incompleto,Casado,Less than $40K,Blue,36,5,2,3,4020.0,0,4020.0,0.563,1952,39,0.345,0.0
+713163258,Cancelado,38,F,2,Não informado,Casado,Não informado,Blue,33,4,3,3,3388.0,0,3388.0,0.368,1959,52,0.857,0.0
+713334483,Cancelado,46,M,1,Post-Ensino Superior,Solteiro,$60K - $80K,Blue,32,5,2,3,8766.0,0,8766.0,0.702,2263,35,0.522,0.0
+713025558,Cancelado,53,F,5,Doutorado,Solteiro,Less than $40K,Blue,38,3,2,3,1438.3,0,1438.3,0.367,1935,47,0.469,0.0
+809565183,Cancelado,52,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,47,3,3,4,1842.0,625,1217.0,0.729,2650,43,0.483,0.339
+713685033,Cancelado,44,F,2,Ensino Superior,Casado,Less than $40K,Blue,33,3,2,2,2417.0,0,2417.0,0.389,1848,38,0.407,0.0
+720941433,Cancelado,53,F,3,Ensino Médio,Casado,Less than $40K,Blue,41,3,3,2,1547.0,0,1547.0,0.845,2312,43,0.303,0.0
+787493808,Cancelado,48,F,4,Ensino Superior,Não informado,Less than $40K,Blue,36,5,2,2,2700.0,2480,220.0,0.686,2396,49,0.531,0.919
+711151383,Cancelado,34,F,1,Post-Ensino Superior,Solteiro,Less than $40K,Blue,26,3,2,5,2066.0,347,1719.0,0.511,2157,37,0.321,0.168
+715297908,Cancelado,41,F,4,Ensino Superior Incompleto,Não informado,Não informado,Blue,22,4,2,3,1438.3,1125,313.3,0.611,2534,52,0.486,0.782
+718812708,Cancelado,57,M,2,Ensino Superior,Solteiro,$120K +,Blue,44,5,3,4,34516.0,219,34297.0,0.482,1882,48,0.714,0.006
+709505808,Cancelado,45,F,3,Ensino Superior Incompleto,Solteiro,Não informado,Blue,33,5,3,4,4345.0,2198,2147.0,0.465,1918,31,0.292,0.506
+711267633,Cancelado,50,F,3,Ensino Superior,Divorciado,Less than $40K,Blue,40,5,4,4,4248.0,316,3932.0,0.661,2271,36,0.333,0.074
+720963258,Cancelado,52,F,3,Ensino Superior Incompleto,Casado,Less than $40K,Blue,40,3,2,3,3474.0,0,3474.0,0.735,2675,37,0.48,0.0
+714634983,Cancelado,44,F,1,Não informado,Solteiro,Não informado,Blue,36,3,3,3,3517.0,0,3517.0,0.634,2403,48,0.548,0.0
+709005633,Cancelado,62,M,0,Ensino Médio,Solteiro,$60K - $80K,Blue,51,3,2,4,18734.0,0,18734.0,0.674,2112,52,0.857,0.0
+709460883,Cancelado,38,F,2,Doutorado,Casado,Less than $40K,Blue,28,5,2,4,1614.0,0,1614.0,0.609,2437,46,0.438,0.0
+787665258,Cancelado,47,F,3,Não informado,Casado,Less than $40K,Blue,37,1,2,2,1438.3,0,1438.3,0.749,2393,36,0.636,0.0
+816850458,Cancelado,33,M,2,Não informado,Casado,$60K - $80K,Blue,28,6,2,4,1698.0,0,1698.0,0.823,2448,40,0.379,0.0
+793712658,Cancelado,52,M,3,Ensino Superior,Casado,$80K - $120K,Blue,46,4,2,3,15011.0,2517,12494.0,0.713,1821,36,0.385,0.168
+720085233,Cancelado,51,F,2,Doutorado,Divorciado,Não informado,Blue,40,6,3,4,8930.0,2517,6413.0,0.661,2167,38,0.357,0.282
+827898033,Cancelado,54,F,1,Sem ensino formal,Casado,Não informado,Blue,50,4,0,3,2912.0,0,2912.0,0.621,2465,54,1077.0,0.0
+713952558,Cancelado,53,F,3,Doutorado,Solteiro,Não informado,Blue,43,3,3,2,1790.0,1474,316.0,0.595,2128,40,0.429,0.823
+771733608,Cancelado,47,F,1,Ensino Superior,Casado,$40K - $60K,Blue,35,3,3,5,1438.3,0,1438.3,0.809,2276,40,0.538,0.0
+712849158,Cancelado,55,M,0,Ensino Médio,Divorciado,$80K - $120K,Blue,44,4,3,3,19793.0,2488,17305.0,0.594,2186,44,0.467,0.126
+711535158,Cancelado,46,F,1,Ensino Superior Incompleto,Não informado,Não informado,Blue,35,5,3,3,2197.0,461,1736.0,0.636,1955,42,0.448,0.21
+718311933,Cancelado,53,F,4,Doutorado,Casado,Less than $40K,Blue,37,6,2,2,3719.0,2517,1202.0,0.666,2587,43,0.536,0.677
+718404783,Cancelado,59,F,0,Não informado,Casado,Não informado,Blue,49,5,2,4,6996.0,0,6996.0,0.871,2384,33,0.375,0.0
+817332483,Cancelado,63,M,0,Doutorado,Solteiro,Não informado,Blue,47,6,4,3,7306.0,0,7306.0,0.875,2445,43,0.593,0.0
+710015733,Cancelado,41,F,1,Doutorado,Divorciado,Less than $40K,Blue,30,3,3,1,2029.0,621,1408.0,1001.0,3142,37,0.85,0.306
+794965233,Cancelado,51,F,1,Ensino Superior,Casado,Less than $40K,Silver,45,6,3,3,13199.0,781,12418.0,0.411,1927,44,0.63,0.059
+720930633,Cancelado,58,F,0,Ensino Médio,Solteiro,Less than $40K,Blue,46,5,4,2,1977.0,0,1977.0,0.868,2341,37,0.37,0.0
+710136258,Cancelado,33,F,2,Ensino Superior,Solteiro,Less than $40K,Blue,24,6,2,3,1806.0,0,1806.0,0.983,2833,43,0.654,0.0
+822132858,Cancelado,41,M,4,Sem ensino formal,Casado,$80K - $120K,Blue,37,1,2,2,23250.0,0,23250.0,0.564,2205,43,0.654,0.0
+713526258,Cancelado,47,M,3,Sem ensino formal,Solteiro,$120K +,Blue,36,3,3,4,34516.0,0,34516.0,0.517,2020,33,0.375,0.0
+780584658,Cancelado,33,F,2,Sem ensino formal,Não informado,$40K - $60K,Blue,22,4,2,2,1843.0,1293,550.0,0.349,2077,61,0.694,0.702
+709612983,Cancelado,41,F,2,Ensino Superior,Casado,$40K - $60K,Blue,36,5,2,4,2990.0,1828,1162.0,0.488,2265,41,0.414,0.611
+709688883,Cancelado,45,M,3,Ensino Médio,Não informado,$80K - $120K,Blue,36,4,3,2,3845.0,0,3845.0,0.595,2174,39,0.393,0.0
+708692583,Cancelado,44,F,2,Ensino Médio,Solteiro,Less than $40K,Blue,31,3,3,3,1506.0,168,1338.0,0.671,2312,44,0.467,0.112
+713815383,Cancelado,53,M,1,Ensino Médio,Solteiro,$80K - $120K,Blue,36,3,2,2,11778.0,0,11778.0,0.603,2147,44,0.375,0.0
+717450633,Cancelado,47,M,3,Sem ensino formal,Solteiro,$60K - $80K,Blue,36,3,2,4,1659.0,1544,115.0,0.408,1920,39,0.345,0.931
+717646983,Cancelado,59,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,49,4,3,4,3214.0,424,2790.0,0.877,2720,53,0.71,0.132
+778837083,Cancelado,50,M,2,Ensino Superior,Casado,$80K - $120K,Blue,31,3,3,3,12906.0,321,12585.0,0.76,2078,62,0.55,0.025
+768632958,Cancelado,59,F,1,Ensino Superior,Solteiro,Não informado,Blue,49,3,4,6,8708.0,1091,7617.0,0.904,2508,49,0.885,0.125
+715622508,Cancelado,52,M,2,Não informado,Casado,$80K - $120K,Blue,41,6,4,3,7904.0,0,7904.0,0.712,2094,32,0.231,0.0
+708946008,Cancelado,46,F,3,Ensino Superior Incompleto,Casado,Less than $40K,Blue,36,5,2,2,1438.3,1214,224.3,0.783,2445,39,0.444,0.844
+814840833,Cancelado,44,M,4,Doutorado,Casado,$120K +,Blue,39,4,3,2,7924.0,2517,5407.0,0.663,2393,37,0.682,0.318
+712110333,Cancelado,37,F,3,Ensino Médio,Solteiro,Não informado,Blue,18,4,1,3,2179.0,0,2179.0,0.725,2568,48,0.297,0.0
+718673358,Cancelado,35,M,3,Doutorado,Casado,$80K - $120K,Blue,30,5,3,4,13590.0,1528,12062.0,0.728,2137,52,0.486,0.112
+712479633,Cancelado,31,F,1,Não informado,Solteiro,Less than $40K,Blue,20,3,1,2,1695.0,0,1695.0,0.561,2428,43,0.593,0.0
+716643033,Cancelado,41,F,2,Ensino Superior,Casado,Less than $40K,Blue,31,3,3,3,2580.0,2137,443.0,1056.0,2981,40,0.481,0.828
+713573508,Cancelado,41,M,4,Ensino Superior,Não informado,$40K - $60K,Silver,32,4,2,4,16509.0,425,16084.0,0.356,1740,43,0.387,0.026
+709430508,Cancelado,40,M,4,Ensino Médio,Não informado,$40K - $60K,Blue,32,1,2,3,7316.0,1335,5981.0,0.563,1849,50,0.471,0.182
+713314533,Cancelado,40,M,2,Não informado,Solteiro,$60K - $80K,Blue,27,6,2,3,12283.0,0,12283.0,0.413,1993,41,0.323,0.0
+713679633,Cancelado,41,F,3,Ensino Superior,Casado,Less than $40K,Blue,33,6,3,5,1438.3,0,1438.3,0.305,1813,51,0.759,0.0
+814191333,Cancelado,55,M,2,Não informado,Divorciado,$120K +,Blue,50,5,4,3,24250.0,278,23972.0,0.647,2153,41,0.577,0.011
+755996583,Cancelado,57,F,2,Sem ensino formal,Solteiro,Less than $40K,Blue,50,5,0,3,2475.0,0,2475.0,0.823,2574,43,0.654,0.0
+717074283,Cancelado,45,F,3,Ensino Superior,Divorciado,Não informado,Blue,37,5,2,6,17678.0,0,17678.0,0.788,2566,49,0.815,0.0
+715960308,Cancelado,53,F,1,Ensino Superior,Divorciado,Less than $40K,Blue,44,3,3,3,4090.0,2517,1573.0,0.562,2016,49,0.69,0.615
+789923058,Cancelado,53,F,1,Ensino Médio,Casado,$40K - $60K,Blue,44,3,3,3,1816.0,0,1816.0,0.884,2474,44,0.692,0.0
+779269158,Cancelado,43,F,2,Ensino Superior,Casado,Não informado,Blue,25,4,2,4,21961.0,0,21961.0,0.653,2237,39,0.393,0.0
+778289883,Cancelado,42,F,2,Ensino Superior,Não informado,Less than $40K,Blue,32,3,3,3,1507.0,0,1507.0,0.806,2528,41,0.64,0.0
+769053033,Cancelado,44,F,1,Ensino Superior,Solteiro,$40K - $60K,Blue,38,3,2,5,4142.0,2517,1625.0,0.809,2104,44,0.833,0.608
+768162108,Cancelado,49,M,3,Ensino Superior Incompleto,Casado,$120K +,Blue,43,5,3,3,4781.0,0,4781.0,0.788,2451,50,0.667,0.0
+714581358,Cancelado,48,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,43,3,3,4,1502.0,0,1502.0,0.529,2204,36,0.44,0.0
+772394883,Cancelado,60,F,1,Sem ensino formal,Solteiro,Não informado,Blue,50,3,6,3,7359.0,0,7359.0,0.768,2869,43,0.433,0.0
+771899433,Cancelado,48,M,3,Ensino Superior,Casado,$80K - $120K,Blue,37,5,2,4,7970.0,2434,5536.0,0.406,1263,27,0.35,0.305
+709711758,Cancelado,45,F,3,Sem ensino formal,Divorciado,Less than $40K,Blue,32,3,2,2,1942.0,0,1942.0,0.366,1853,31,0.107,0.0
+721137558,Cancelado,40,M,4,Ensino Superior,Divorciado,$40K - $60K,Blue,28,1,2,3,5821.0,894,4927.0,0.461,2011,42,0.273,0.154
+709729533,Cancelado,47,M,3,Sem ensino formal,Solteiro,$40K - $60K,Blue,39,4,3,1,1809.0,457,1352.0,0.703,2169,49,0.485,0.253
+720991833,Cancelado,48,F,2,Doutorado,Casado,Less than $40K,Blue,36,4,3,4,2514.0,2090,424.0,0.842,2603,53,0.606,0.831
+714102183,Cancelado,50,M,3,Sem ensino formal,Solteiro,$120K +,Blue,36,1,2,3,7970.0,2282,5688.0,0.28,1872,41,0.206,0.286
+715410783,Cancelado,55,F,1,Não informado,Solteiro,Less than $40K,Blue,36,5,2,3,1836.0,572,1264.0,0.758,2400,34,0.789,0.312
+767668908,Cancelado,46,F,3,Ensino Superior,Casado,Não informado,Blue,40,3,4,3,13095.0,1836,11259.0,0.432,1552,32,0.185,0.14
+714246333,Cancelado,58,F,4,Ensino Médio,Casado,Não informado,Blue,48,1,4,3,5396.0,1803,3593.0,0.493,2107,39,0.393,0.334
+755661933,Cancelado,48,F,3,Ensino Superior,Solteiro,$40K - $60K,Blue,41,5,3,3,1899.0,671,1228.0,0.736,2434,45,0.406,0.353
+716669658,Cancelado,51,F,1,Ensino Médio,Solteiro,Less than $40K,Blue,33,6,3,3,2006.0,1608,398.0,1043.0,2760,38,0.652,0.802
+802673508,Cancelado,57,M,2,Ensino Superior,Solteiro,$120K +,Blue,51,3,5,3,8760.0,0,8760.0,0.726,2460,39,0.56,0.0
+721032633,Cancelado,55,F,3,Não informado,Solteiro,$40K - $60K,Blue,32,5,3,4,2496.0,1999,497.0,0.724,2590,50,0.667,0.801
+718890933,Cancelado,45,F,4,Doutorado,Casado,Less than $40K,Blue,27,3,2,2,1438.3,0,1438.3,0.68,2429,38,0.652,0.0
+714006333,Cancelado,42,F,4,Ensino Superior,Casado,Less than $40K,Blue,36,5,2,3,2128.0,528,1600.0,0.525,2289,41,0.414,0.248
+770596458,Cancelado,45,F,2,Doutorado,Casado,Less than $40K,Blue,31,4,3,4,2704.0,2262,442.0,0.87,2362,39,0.444,0.837
+709534083,Cancelado,58,F,0,Sem ensino formal,Divorciado,Less than $40K,Blue,36,3,2,6,9909.0,0,9909.0,0.466,1844,41,0.64,0.0
+708949908,Cancelado,50,M,1,Ensino Superior,Divorciado,$120K +,Blue,42,1,3,2,1656.0,0,1656.0,0.626,2073,44,0.833,0.0
+779310033,Cancelado,42,F,4,Doutorado,Casado,Less than $40K,Blue,24,3,2,3,4304.0,0,4304.0,0.183,1788,36,0.091,0.0
+714192933,Cancelado,55,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,36,3,3,5,2060.0,0,2060.0,0.251,1976,44,0.257,0.0
+796931508,Cancelado,42,M,4,Ensino Médio,Não informado,$60K - $80K,Blue,36,4,3,4,1871.0,0,1871.0,0.73,2593,48,0.548,0.0
+714287583,Cancelado,41,F,3,Não informado,Casado,Less than $40K,Blue,32,3,2,3,1438.3,0,1438.3,0.372,1852,38,0.31,0.0
+718975083,Cancelado,47,F,4,Ensino Superior,Solteiro,Less than $40K,Blue,40,6,4,3,2473.0,0,2473.0,0.547,2133,44,0.419,0.0
+714031083,Cancelado,46,F,3,Ensino Superior,Não informado,Não informado,Blue,30,3,2,1,8869.0,0,8869.0,0.413,1935,40,0.429,0.0
+772442883,Cancelado,51,F,4,Ensino Superior,Casado,Não informado,Blue,41,2,3,5,3853.0,696,3157.0,0.882,2443,38,0.583,0.181
+716570958,Cancelado,50,M,3,Post-Ensino Superior,Divorciado,$60K - $80K,Blue,36,3,2,3,14409.0,511,13898.0,0.799,2351,39,0.3,0.035
+710116833,Cancelado,59,F,1,Ensino Médio,Solteiro,$40K - $60K,Blue,36,5,3,3,1665.0,0,1665.0,1.01,2748,40,0.333,0.0
+815908908,Cancelado,47,F,4,Sem ensino formal,Solteiro,Não informado,Blue,42,3,4,3,6263.0,2517,3746.0,0.857,2613,50,0.724,0.402
+721527858,Cancelado,52,F,3,Ensino Médio,Casado,Less than $40K,Blue,40,3,5,1,2003.0,1735,268.0,0.855,2343,42,0.355,0.866
+712927383,Cancelado,51,F,2,Sem ensino formal,Solteiro,Less than $40K,Blue,36,3,3,3,1438.3,642,796.3,0.405,1939,49,0.4,0.446
+711430908,Cancelado,45,F,4,Ensino Superior,Casado,Less than $40K,Blue,34,3,2,1,1438.3,0,1438.3,0.685,2153,35,0.346,0.0
+779530908,Cancelado,48,F,3,Não informado,Divorciado,Less than $40K,Blue,31,5,2,4,1438.3,0,1438.3,0.5,1897,58,0.706,0.0
+809849358,Cancelado,55,F,2,Ensino Superior,Divorciado,Less than $40K,Blue,50,2,6,3,1720.0,0,1720.0,0.707,2719,36,0.44,0.0
+721228308,Cancelado,47,F,2,Ensino Médio,Casado,Less than $40K,Blue,39,5,3,3,3899.0,0,3899.0,0.718,2182,40,0.429,0.0
+708708858,Cancelado,50,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,36,1,3,4,2422.0,502,1920.0,0.997,2548,46,0.484,0.207
+789328083,Cancelado,42,F,4,Ensino Médio,Casado,Less than $40K,Blue,32,6,3,3,3454.0,0,3454.0,0.862,2826,39,0.625,0.0
+716421633,Cancelado,43,F,3,Ensino Superior,Casado,Less than $40K,Blue,36,4,2,4,3523.0,0,3523.0,0.973,3174,44,0.222,0.0
+809559933,Cancelado,45,F,3,Ensino Superior,Casado,Não informado,Blue,40,3,5,3,4462.0,706,3756.0,0.886,2526,41,0.414,0.158
+789662283,Cancelado,50,F,3,Ensino Médio,Casado,Less than $40K,Blue,33,3,3,4,2140.0,0,2140.0,0.765,2915,50,0.316,0.0
+711527508,Cancelado,46,F,3,Ensino Médio,Casado,$40K - $60K,Blue,34,2,3,2,8583.0,0,8583.0,0.358,1794,31,0.292,0.0
+787505133,Cancelado,36,M,3,Ensino Superior Incompleto,Casado,$120K +,Blue,24,2,2,3,11316.0,1599,9717.0,0.713,2595,49,0.361,0.141
+719018208,Cancelado,52,F,0,Doutorado,Casado,Não informado,Blue,46,6,4,3,7210.0,0,7210.0,0.769,2516,36,0.8,0.0
+770968383,Cancelado,41,M,4,Ensino Superior,Casado,$80K - $120K,Silver,28,3,2,3,34516.0,825,33691.0,0.616,2022,52,0.733,0.024
+771723408,Cancelado,37,F,2,Não informado,Solteiro,Less than $40K,Blue,25,3,2,4,1690.0,0,1690.0,0.69,2645,60,0.622,0.0
+713569158,Cancelado,43,F,3,Ensino Médio,Solteiro,$40K - $60K,Blue,34,1,3,2,1654.0,1474,180.0,0.586,2086,47,0.621,0.891
+718626033,Cancelado,47,M,3,Ensino Médio,Casado,$60K - $80K,Blue,39,2,3,2,10061.0,0,10061.0,0.787,2802,52,0.529,0.0
+714010383,Cancelado,47,F,5,Sem ensino formal,Solteiro,Não informado,Blue,40,5,4,5,3502.0,0,3502.0,0.531,1895,42,0.4,0.0
+712578933,Cancelado,35,F,5,Ensino Médio,Casado,$40K - $60K,Blue,25,3,2,6,1438.3,0,1438.3,0.763,2500,44,0.517,0.0
+711144183,Cancelado,55,F,3,Ensino Superior,Casado,Não informado,Blue,45,1,3,1,2815.0,1848,967.0,0.563,2618,29,0.45,0.656
+785262333,Cancelado,46,M,5,Sem ensino formal,Não informado,$40K - $60K,Blue,40,5,4,3,6185.0,1960,4225.0,0.669,2225,45,0.875,0.317
+719073483,Cancelado,45,M,3,Sem ensino formal,Casado,$80K - $120K,Blue,38,3,3,3,9234.0,0,9234.0,0.629,2586,44,0.257,0.0
+719084358,Cancelado,55,F,1,Ensino Superior,Casado,Less than $40K,Blue,46,6,4,3,4232.0,0,4232.0,0.878,2312,37,0.609,0.0
+712434708,Cancelado,52,F,3,Ensino Médio,Casado,Less than $40K,Blue,39,5,3,2,3302.0,2517,785.0,0.705,2682,47,0.516,0.762
+708412758,Cancelado,33,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,36,5,2,3,1457.0,0,1457.0,0.677,2200,45,0.364,0.0
+713158083,Cancelado,56,M,2,Ensino Médio,Solteiro,$120K +,Blue,46,2,4,4,7327.0,0,7327.0,0.598,2185,41,0.864,0.0
+720010608,Cancelado,37,M,2,Não informado,Solteiro,$40K - $60K,Blue,24,6,2,4,10226.0,0,10226.0,0.614,2243,44,0.571,0.0
+711939558,Cancelado,37,F,2,Não informado,Solteiro,Less than $40K,Blue,36,3,2,3,1534.0,0,1534.0,0.642,2596,39,0.393,0.0
+716924958,Cancelado,65,F,2,Ensino Superior,Solteiro,Less than $40K,Blue,56,3,0,3,6812.0,1926,4886.0,0.735,2288,48,0.778,0.283
+711531858,Cancelado,48,F,4,Não informado,Casado,Less than $40K,Blue,41,3,3,3,2447.0,1267,1180.0,0.449,2132,37,0.37,0.518
+819943458,Cancelado,57,M,3,Ensino Superior,Solteiro,$120K +,Blue,52,6,4,3,34516.0,1000,33516.0,0.694,1777,37,0.542,0.029
+772073508,Cancelado,52,F,1,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,41,5,3,6,1764.0,0,1764.0,0.824,2740,47,0.343,0.0
+721351983,Cancelado,43,F,4,Sem ensino formal,Casado,Less than $40K,Blue,36,5,3,3,3492.0,2517,975.0,0.6,2510,47,0.621,0.721
+714477408,Cancelado,36,F,3,Ensino Médio,Casado,Less than $40K,Blue,36,3,3,3,2977.0,1340,1637.0,0.507,2201,39,0.345,0.45
+711801933,Cancelado,54,F,4,Ensino Médio,Solteiro,$40K - $60K,Blue,36,3,3,4,1438.3,0,1438.3,0.641,2092,42,0.68,0.0
+716282208,Cancelado,54,F,2,Post-Ensino Superior,Casado,Less than $40K,Blue,48,3,6,3,1638.0,0,1638.0,0.163,1702,36,0.125,0.0
+714045783,Cancelado,37,F,2,Ensino Superior,Casado,$40K - $60K,Blue,29,2,2,6,2547.0,1965,582.0,0.535,2160,46,0.353,0.771
+720243933,Cancelado,47,M,2,Sem ensino formal,Casado,$60K - $80K,Blue,32,1,3,6,1789.0,0,1789.0,0.637,2784,49,0.581,0.0
+716272158,Cancelado,41,F,3,Ensino Superior Incompleto,Casado,$40K - $60K,Blue,15,5,3,4,4312.0,2517,1795.0,0.741,2693,56,0.436,0.584
+714602658,Cancelado,39,F,1,Ensino Superior,Casado,Less than $40K,Blue,36,1,2,3,1462.0,0,1462.0,0.393,1998,36,0.161,0.0
+712446783,Cancelado,50,F,4,Ensino Superior,Casado,Less than $40K,Blue,30,5,3,4,4038.0,1530,2508.0,0.724,2400,41,0.323,0.379
+720049083,Cancelado,35,F,1,Não informado,Divorciado,Não informado,Blue,24,5,3,3,1438.3,0,1438.3,0.849,2355,47,0.567,0.0
+816378033,Cancelado,46,M,4,Sem ensino formal,Solteiro,$80K - $120K,Gold,41,6,3,2,34516.0,1104,33412.0,0.591,1989,47,0.741,0.032
+827451333,Cancelado,54,F,2,Sem ensino formal,Casado,Less than $40K,Blue,50,3,6,3,2247.0,0,2247.0,0.641,2615,37,0.423,0.0
+717202083,Cancelado,46,M,2,Não informado,Solteiro,$80K - $120K,Blue,34,2,3,3,7077.0,0,7077.0,0.838,2619,41,0.519,0.0
+789122808,Cancelado,41,F,4,Ensino Superior Incompleto,Casado,$40K - $60K,Blue,29,5,2,3,3281.0,0,3281.0,0.875,2907,45,0.406,0.0
+711507783,Cancelado,54,F,2,Doutorado,Solteiro,Less than $40K,Blue,42,3,4,3,1694.0,0,1694.0,0.354,1930,41,0.519,0.0
+716856408,Cancelado,39,F,4,Ensino Superior,Solteiro,Less than $40K,Blue,28,5,2,4,1438.3,0,1438.3,0.777,2392,44,0.375,0.0
+720124758,Cancelado,49,M,3,Sem ensino formal,Casado,$80K - $120K,Blue,40,5,4,3,2509.0,450,2059.0,0.654,2239,47,0.621,0.179
+782802033,Cancelado,45,F,4,Não informado,Casado,Less than $40K,Blue,39,3,2,2,3411.0,1472,1939.0,0.585,2108,55,0.618,0.432
+780289308,Cancelado,61,F,0,Ensino Médio,Casado,Less than $40K,Blue,47,1,3,4,4130.0,0,4130.0,0.814,2418,57,0.781,0.0
+714503433,Cancelado,57,F,2,Doutorado,Casado,Less than $40K,Blue,36,1,3,3,1615.0,950,665.0,0.507,2212,43,0.387,0.588
+715497558,Cancelado,44,F,1,Ensino Superior Incompleto,Casado,Less than $40K,Blue,36,6,3,3,3052.0,0,3052.0,0.868,2598,47,0.469,0.0
+717252483,Cancelado,57,F,2,Ensino Superior,Casado,Less than $40K,Blue,41,3,3,3,2796.0,0,2796.0,0.729,2196,35,0.75,0.0
+719742108,Cancelado,38,F,1,Ensino Médio,Solteiro,Less than $40K,Blue,26,5,2,4,3554.0,0,3554.0,0.782,2372,44,0.63,0.0
+717208833,Cancelado,34,F,3,Ensino Médio,Solteiro,Less than $40K,Blue,21,2,2,2,1576.0,0,1576.0,0.789,2703,56,1.0,0.0
+713463708,Cancelado,40,F,4,Ensino Superior,Solteiro,Less than $40K,Blue,25,4,2,3,1438.3,0,1438.3,0.628,2493,42,0.5,0.0
+711790308,Cancelado,54,F,0,Ensino Médio,Não informado,Less than $40K,Blue,34,4,3,3,2223.0,632,1591.0,0.665,2538,49,0.581,0.284
+712046808,Cancelado,49,F,3,Doutorado,Divorciado,Não informado,Blue,42,1,3,3,3802.0,1558,2244.0,0.489,2003,43,0.593,0.41
+708888633,Cancelado,52,M,3,Doutorado,Casado,$80K - $120K,Blue,36,2,3,3,3022.0,895,2127.0,0.95,2724,38,0.9,0.296
+812406183,Cancelado,45,F,4,Não informado,Solteiro,Less than $40K,Blue,40,5,4,3,1438.3,0,1438.3,0.605,2207,41,0.64,0.0
+714595983,Cancelado,49,F,1,Sem ensino formal,Casado,$40K - $60K,Blue,41,4,3,3,1438.3,522,916.3,0.383,2030,37,0.37,0.363
+720270633,Cancelado,40,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,36,5,3,1,1516.0,0,1516.0,0.737,2709,54,0.385,0.0
+718653333,Cancelado,45,F,2,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,33,1,3,3,1833.0,0,1833.0,0.549,2037,31,0.292,0.0
+711724083,Cancelado,27,F,0,Não informado,Solteiro,Less than $40K,Blue,16,6,1,3,1835.0,1647,188.0,0.513,1903,44,0.63,0.898
+713422083,Cancelado,30,F,0,Ensino Superior,Solteiro,Less than $40K,Blue,36,5,3,3,1574.0,0,1574.0,0.582,2560,59,0.788,0.0
+712222758,Cancelado,38,F,3,Ensino Superior,Casado,Less than $40K,Blue,36,3,2,3,2300.0,0,2300.0,0.703,2500,47,0.119,0.0
+718148358,Cancelado,50,F,3,Ensino Médio,Casado,Less than $40K,Blue,36,2,3,3,1572.0,0,1572.0,0.74,2447,41,0.577,0.0
+794507133,Cancelado,37,F,2,Doutorado,Solteiro,$40K - $60K,Blue,18,4,1,3,1900.0,0,1900.0,0.776,2880,46,0.353,0.0
+767266758,Cancelado,41,F,2,Ensino Médio,Solteiro,Less than $40K,Blue,34,1,3,4,1661.0,0,1661.0,0.786,2473,49,0.75,0.0
+720739083,Cancelado,36,F,2,Post-Ensino Superior,Casado,Less than $40K,Blue,25,5,2,3,1691.0,0,1691.0,0.865,2716,63,0.703,0.0
+713594883,Cancelado,44,F,2,Sem ensino formal,Solteiro,Não informado,Blue,32,5,3,3,1486.0,849,637.0,0.621,2380,43,0.87,0.571
+714962658,Cancelado,35,M,2,Não informado,Solteiro,Less than $40K,Blue,36,5,3,3,1931.0,0,1931.0,0.862,2482,40,0.6,0.0
+717429258,Cancelado,48,F,3,Doutorado,Solteiro,Less than $40K,Blue,39,3,3,4,1644.0,500,1144.0,0.784,2450,45,0.406,0.304
+709548783,Cancelado,44,M,2,Doutorado,Não informado,$40K - $60K,Blue,36,5,3,4,1438.3,0,1438.3,0.602,2100,54,0.588,0.0
+713336883,Cancelado,61,F,0,Ensino Médio,Solteiro,Less than $40K,Blue,36,4,3,4,1760.0,0,1760.0,0.457,2285,46,0.643,0.0
+809626983,Cancelado,48,F,3,Ensino Médio,Casado,Less than $40K,Blue,43,3,3,3,1670.0,0,1670.0,0.707,2790,37,0.321,0.0
+772728933,Cancelado,50,M,2,Ensino Médio,Casado,$120K +,Blue,40,6,4,3,13709.0,813,12896.0,0.65,2511,40,0.6,0.059
+815320383,Cancelado,46,F,3,Não informado,Não informado,Less than $40K,Blue,41,5,3,2,4710.0,0,4710.0,0.717,2690,43,0.955,0.0
+714475908,Cancelado,43,M,2,Sem ensino formal,Solteiro,$60K - $80K,Blue,35,5,3,2,6348.0,0,6348.0,0.4,1732,39,0.393,0.0
+716790633,Cancelado,43,M,3,Ensino Superior,Casado,$60K - $80K,Blue,36,4,2,3,17239.0,0,17239.0,0.393,1789,38,0.357,0.0
+716127333,Cancelado,45,F,3,Ensino Superior,Casado,Não informado,Blue,36,5,2,3,18432.0,484,17948.0,0.557,2300,45,0.552,0.026
+780032208,Cancelado,44,M,3,Ensino Superior,Casado,$60K - $80K,Blue,34,5,3,3,14201.0,0,14201.0,0.574,2223,47,0.679,0.0
+789052308,Cancelado,40,M,3,Ensino Superior,Não informado,$40K - $60K,Blue,28,6,2,2,4323.0,0,4323.0,0.817,2451,38,0.727,0.0
+714948858,Cancelado,50,F,2,Não informado,Solteiro,Less than $40K,Blue,36,3,2,2,3647.0,2517,1130.0,0.842,2935,58,0.933,0.69
+719685408,Cancelado,40,M,2,Sem ensino formal,Casado,$60K - $80K,Blue,29,3,2,2,6332.0,318,6014.0,0.783,2505,43,0.536,0.05
+710284233,Cancelado,33,M,4,Sem ensino formal,Casado,$80K - $120K,Blue,36,5,3,4,1438.3,0,1438.3,0.98,2439,43,0.72,0.0
+713312208,Cancelado,53,M,1,Ensino Médio,Casado,$40K - $60K,Blue,43,1,2,3,3146.0,0,3146.0,0.414,1868,38,0.31,0.0
+779844408,Cancelado,43,F,1,Post-Ensino Superior,Casado,Less than $40K,Blue,27,4,3,3,1438.3,0,1438.3,0.481,2137,40,0.333,0.0
+801715383,Cancelado,45,M,4,Ensino Superior,Casado,$60K - $80K,Blue,39,6,3,2,12890.0,0,12890.0,0.576,2216,51,0.545,0.0
+714188883,Cancelado,46,F,5,Doutorado,Solteiro,Less than $40K,Blue,37,3,2,2,1787.0,0,1787.0,0.654,2345,36,0.286,0.0
+708536283,Cancelado,35,M,1,Doutorado,Solteiro,$80K - $120K,Blue,27,3,2,2,2904.0,2517,387.0,0.624,2653,46,0.586,0.867
+709307808,Cancelado,59,F,2,Ensino Médio,Casado,$40K - $60K,Blue,36,3,3,3,4375.0,0,4375.0,0.621,2507,53,0.472,0.0
+715701033,Cancelado,43,M,2,Ensino Superior,Casado,$80K - $120K,Blue,33,5,3,3,2111.0,1761,350.0,0.753,2112,46,0.769,0.834
+718826883,Cancelado,50,M,3,Sem ensino formal,Solteiro,$80K - $120K,Blue,36,6,3,2,6925.0,0,6925.0,0.821,2506,36,0.44,0.0
+815504583,Cancelado,48,F,4,Ensino Superior,Solteiro,$40K - $60K,Blue,43,3,2,4,1538.0,0,1538.0,0.684,2275,43,0.483,0.0
+709891608,Cancelado,41,M,2,Ensino Médio,Casado,$120K +,Blue,24,5,2,3,9924.0,0,9924.0,0.517,1949,43,0.483,0.0
+711949683,Cancelado,55,F,2,Ensino Superior Incompleto,Divorciado,$40K - $60K,Blue,36,6,2,3,4410.0,2517,1893.0,0.53,1883,44,0.63,0.571
+787747308,Cancelado,49,F,4,Sem ensino formal,Não informado,Less than $40K,Blue,39,6,3,2,3468.0,2517,951.0,0.746,2494,39,0.345,0.726
+779104608,Cancelado,34,F,3,Ensino Médio,Não informado,Não informado,Blue,15,5,1,3,1438.3,0,1438.3,0.689,2819,48,0.6,0.0
+713804883,Cancelado,46,F,4,Post-Ensino Superior,Solteiro,Less than $40K,Blue,37,3,2,2,1836.0,0,1836.0,0.323,1799,28,0.167,0.0
+753795633,Cancelado,48,F,2,Sem ensino formal,Casado,Less than $40K,Blue,41,5,3,2,2964.0,2517,447.0,0.699,2327,38,0.81,0.849
+817607358,Cancelado,44,F,2,Ensino Médio,Não informado,Não informado,Gold,35,3,3,3,34516.0,0,34516.0,0.767,2227,44,0.63,0.0
+712297683,Cancelado,47,F,3,Ensino Superior Incompleto,Casado,Less than $40K,Blue,35,6,3,2,1781.0,0,1781.0,0.693,2196,35,0.75,0.0
+714684933,Cancelado,40,F,1,Sem ensino formal,Casado,Less than $40K,Blue,28,5,2,3,3680.0,0,3680.0,0.729,2725,41,0.577,0.0
+720742083,Cancelado,48,F,4,Não informado,Casado,Less than $40K,Blue,36,4,3,3,2740.0,2425,315.0,0.816,2431,46,0.394,0.885
+721124658,Cancelado,40,M,3,Sem ensino formal,Solteiro,$80K - $120K,Blue,27,4,2,3,3427.0,0,3427.0,0.5,2625,63,0.5,0.0
+720815208,Cancelado,52,M,0,Ensino Médio,Solteiro,$120K +,Blue,39,5,3,3,34516.0,216,34300.0,0.556,2395,47,0.306,0.006
+720520308,Cancelado,46,F,4,Ensino Superior,Casado,Less than $40K,Blue,28,4,2,3,8318.0,2517,5801.0,0.69,2427,52,0.625,0.303
+798972183,Cancelado,49,F,2,Não informado,Solteiro,$40K - $60K,Blue,43,1,3,2,1643.0,526,1117.0,0.829,2520,38,0.583,0.32
+714250908,Cancelado,53,F,2,Ensino Superior,Casado,Less than $40K,Blue,47,3,4,2,2927.0,2517,410.0,0.419,2231,60,0.875,0.86
+719384433,Cancelado,44,F,3,Ensino Médio,Divorciado,Less than $40K,Blue,28,5,2,3,1877.0,1203,674.0,0.654,2581,57,0.781,0.641
+789880533,Cancelado,46,F,4,Ensino Superior,Solteiro,$40K - $60K,Blue,36,5,3,4,5913.0,1651,4262.0,0.79,2404,39,0.56,0.279
+711221958,Cancelado,43,F,3,Ensino Superior,Solteiro,$40K - $60K,Blue,26,3,2,2,2867.0,0,2867.0,0.703,2646,41,0.464,0.0
+716368008,Cancelado,54,F,1,Ensino Superior,Casado,Não informado,Blue,36,4,2,2,3137.0,959,2178.0,1008.0,2925,41,0.414,0.306
+712092783,Cancelado,47,F,3,Doutorado,Solteiro,Less than $40K,Blue,40,6,2,3,2437.0,0,2437.0,0.664,2027,42,0.448,0.0
+708726708,Cancelado,42,F,3,Ensino Superior,Solteiro,$40K - $60K,Blue,36,6,2,3,1451.0,599,852.0,0.752,2192,35,0.458,0.413
+712767858,Cancelado,42,F,0,Ensino Superior Incompleto,Solteiro,$40K - $60K,Blue,30,5,2,3,1438.3,1223,215.3,0.491,2181,43,0.593,0.85
+712445583,Cancelado,33,F,0,Ensino Superior Incompleto,Solteiro,Não informado,Blue,15,3,1,4,2299.0,0,2299.0,0.663,2323,47,0.469,0.0
+713891133,Cancelado,41,F,2,Não informado,Solteiro,Less than $40K,Blue,36,3,2,2,1438.3,834,604.3,0.407,1890,43,0.387,0.58
+779279883,Cancelado,60,F,2,Ensino Médio,Casado,Less than $40K,Blue,42,3,3,2,1438.3,0,1438.3,0.061,1628,42,0.077,0.0
+712953483,Cancelado,64,F,0,Ensino Superior,Solteiro,Less than $40K,Blue,36,1,3,4,1682.0,0,1682.0,0.75,1811,39,0.5,0.0
+779029458,Cancelado,54,F,1,Post-Ensino Superior,Solteiro,Less than $40K,Blue,35,4,3,3,1724.0,0,1724.0,0.67,2725,47,0.424,0.0
+765459858,Cancelado,47,M,3,Ensino Superior,Divorciado,Less than $40K,Blue,40,4,4,3,6397.0,0,6397.0,0.632,2511,56,0.556,0.0
+714894708,Cancelado,53,M,1,Sem ensino formal,Não informado,$120K +,Blue,45,4,4,2,23958.0,2517,21441.0,0.702,2777,45,0.552,0.105
+720130233,Cancelado,48,M,2,Ensino Médio,Solteiro,$60K - $80K,Blue,36,4,3,1,1641.0,0,1641.0,0.791,2536,45,0.364,0.0
+718279008,Cancelado,44,M,3,Ensino Médio,Solteiro,$60K - $80K,Silver,36,5,2,3,25276.0,0,25276.0,0.849,2282,38,0.583,0.0
+814091058,Cancelado,38,F,1,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,33,6,2,3,3119.0,2517,602.0,0.722,2492,50,0.515,0.807
+710555433,Cancelado,42,F,4,Ensino Superior,Solteiro,Less than $40K,Blue,36,6,2,2,2803.0,0,2803.0,0.623,2216,40,0.6,0.0
+718263108,Cancelado,44,F,3,Não informado,Divorciado,Less than $40K,Blue,32,3,3,2,1693.0,1457,236.0,0.919,2829,42,0.615,0.861
+779931783,Cancelado,52,M,2,Ensino Médio,Solteiro,$120K +,Blue,38,6,3,3,34516.0,0,34516.0,0.639,2213,47,0.382,0.0
+712691883,Cancelado,41,F,2,Ensino Médio,Casado,Less than $40K,Blue,36,3,2,2,2811.0,2404,407.0,0.491,2245,41,0.464,0.855
+712611108,Cancelado,59,F,1,Não informado,Solteiro,Less than $40K,Blue,53,5,6,2,7501.0,2517,4984.0,0.663,2280,49,0.531,0.336
+708316008,Cancelado,59,F,1,Ensino Superior,Solteiro,Não informado,Blue,36,3,2,3,10031.0,0,10031.0,0.238,1792,29,0.074,0.0
+711846183,Cancelado,38,F,3,Ensino Superior,Solteiro,$40K - $60K,Blue,26,3,2,3,2669.0,0,2669.0,0.67,2271,31,0.722,0.0
+720612333,Cancelado,44,F,3,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,28,6,2,2,1951.0,0,1951.0,0.772,2697,45,0.731,0.0
+710525508,Cancelado,48,F,2,Ensino Médio,Casado,Less than $40K,Blue,36,6,3,3,1438.3,455,983.3,0.626,2090,50,0.562,0.316
+757854858,Cancelado,50,M,2,Não informado,Casado,$60K - $80K,Blue,43,4,3,4,3143.0,0,3143.0,0.764,2297,37,0.321,0.0
+714319233,Cancelado,44,M,5,Ensino Superior,Divorciado,$60K - $80K,Blue,36,3,3,6,6538.0,0,6538.0,0.556,2132,33,0.571,0.0
+709232808,Cancelado,44,F,3,Não informado,Divorciado,$40K - $60K,Blue,34,2,3,2,1689.0,0,1689.0,0.202,1588,37,0.276,0.0
+711474333,Cancelado,57,F,2,Sem ensino formal,Solteiro,Less than $40K,Blue,51,3,5,2,1614.0,0,1614.0,0.241,1690,38,0.357,0.0
+714527433,Cancelado,39,M,4,Ensino Superior,Casado,$80K - $120K,Blue,30,5,2,2,17523.0,0,17523.0,0.424,1974,54,0.688,0.0
+714014733,Cancelado,33,M,2,Ensino Superior Incompleto,Solteiro,$80K - $120K,Blue,36,4,3,2,9642.0,1431,8211.0,0.561,2172,33,0.571,0.148
+712733958,Cancelado,46,F,2,Não informado,Solteiro,Less than $40K,Blue,36,6,3,3,1731.0,0,1731.0,0.529,2304,46,1.0,0.0
+716122008,Cancelado,44,F,3,Não informado,Casado,Less than $40K,Blue,35,3,3,2,1855.0,0,1855.0,0.988,2544,27,0.929,0.0
+714960408,Cancelado,44,F,3,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,34,4,3,1,1605.0,890,715.0,0.742,2722,45,0.5,0.555
+772382283,Cancelado,46,F,3,Ensino Superior,Casado,Less than $40K,Blue,36,3,3,3,2302.0,1593,709.0,0.671,2689,49,0.324,0.692
+714266883,Cancelado,54,F,4,Post-Ensino Superior,Não informado,Less than $40K,Blue,44,5,3,3,2440.0,503,1937.0,0.415,2334,51,0.594,0.206
+717219933,Cancelado,47,F,3,Não informado,Solteiro,Less than $40K,Blue,35,4,3,6,2402.0,628,1774.0,0.689,1930,48,0.6,0.261
+719986758,Cancelado,46,F,2,Não informado,Solteiro,$40K - $60K,Blue,33,5,3,6,3001.0,0,3001.0,0.74,2577,39,0.444,0.0
+806140383,Cancelado,59,M,2,Ensino Médio,Solteiro,$80K - $120K,Blue,54,3,2,2,2791.0,2396,395.0,0.889,2658,43,0.344,0.858
+751518633,Cancelado,48,M,5,Post-Ensino Superior,Solteiro,$120K +,Silver,41,5,3,1,34516.0,2517,31999.0,0.553,2260,50,0.786,0.073
+712395408,Cancelado,51,F,3,Ensino Superior,Divorciado,Less than $40K,Blue,41,5,3,3,1495.0,691,804.0,0.705,2552,42,0.556,0.462
+818459733,Cancelado,41,M,3,Doutorado,Solteiro,$120K +,Blue,26,3,2,2,9220.0,0,9220.0,0.733,2276,32,0.6,0.0
+708867408,Cancelado,52,M,2,Ensino Médio,Casado,$60K - $80K,Blue,40,3,4,2,23128.0,1958,21170.0,0.604,2050,35,0.667,0.085
+810271083,Cancelado,47,F,3,Não informado,Solteiro,$40K - $60K,Blue,42,1,5,3,14897.0,0,14897.0,0.489,2164,53,0.606,0.0
+719420883,Cancelado,56,F,4,Ensino Superior,Não informado,Less than $40K,Blue,44,5,3,3,1677.0,0,1677.0,0.835,2477,45,0.324,0.0
+753365883,Cancelado,44,F,3,Não informado,Solteiro,Não informado,Blue,37,3,2,3,1900.0,0,1900.0,0.864,2298,45,0.452,0.0
+717915783,Cancelado,60,M,0,Não informado,Casado,$60K - $80K,Blue,47,5,1,3,4541.0,1037,3504.0,0.825,2829,44,0.467,0.228
+708298233,Cancelado,49,F,3,Ensino Superior,Casado,Less than $40K,Blue,37,4,2,1,6184.0,0,6184.0,0.476,1756,49,0.324,0.0
+712329933,Cancelado,47,F,1,Ensino Médio,Não informado,Less than $40K,Blue,41,6,3,2,3654.0,0,3654.0,0.63,1998,44,0.467,0.0
+795784008,Cancelado,44,F,3,Ensino Superior,Casado,Less than $40K,Blue,38,4,2,3,3889.0,2517,1372.0,0.405,1718,37,0.276,0.647
+720275358,Cancelado,47,M,2,Ensino Superior,Casado,$40K - $60K,Blue,30,4,3,2,1889.0,0,1889.0,0.874,2479,46,0.533,0.0
+710727333,Cancelado,49,F,3,Ensino Médio,Casado,Less than $40K,Blue,36,4,2,2,1763.0,0,1763.0,0.896,2813,43,0.536,0.0
+807136758,Cancelado,58,F,2,Ensino Médio,Casado,Less than $40K,Blue,53,3,0,2,1944.0,0,1944.0,0.613,2412,40,0.481,0.0
+715400733,Cancelado,43,F,3,Sem ensino formal,Casado,$40K - $60K,Blue,36,6,4,3,1438.3,0,1438.3,0.747,2116,38,0.583,0.0
+711389358,Cancelado,42,M,3,Ensino Superior,Casado,$40K - $60K,Blue,23,5,3,2,5791.0,2517,3274.0,0.69,2516,64,0.641,0.435
+711253383,Cancelado,48,F,2,Não informado,Casado,Não informado,Blue,38,6,2,3,4382.0,0,4382.0,0.714,2446,34,0.417,0.0
+794554683,Cancelado,41,F,4,Ensino Superior,Casado,Less than $40K,Blue,26,4,2,2,3159.0,0,3159.0,0.916,2925,46,0.353,0.0
+711323283,Cancelado,57,M,2,Sem ensino formal,Casado,$60K - $80K,Blue,41,3,3,2,2527.0,1030,1497.0,0.714,2767,43,0.387,0.408
+720711483,Cancelado,56,F,1,Ensino Médio,Casado,Não informado,Blue,42,5,2,3,3674.0,2517,1157.0,0.854,2608,45,0.731,0.685
+809440008,Cancelado,39,F,2,Ensino Médio,Solteiro,Não informado,Blue,34,3,3,1,2069.0,550,1519.0,0.783,2716,43,0.433,0.266
+711237633,Cancelado,49,M,0,Ensino Superior,Casado,$60K - $80K,Blue,29,3,3,3,1460.0,0,1460.0,0.738,2329,36,0.5,0.0
+718913358,Cancelado,36,M,2,Ensino Superior,Solteiro,Less than $40K,Blue,36,3,3,3,4225.0,2517,1708.0,0.662,2659,43,0.387,0.596
+718452633,Cancelado,35,F,4,Ensino Superior,Casado,Não informado,Blue,36,4,3,3,1931.0,0,1931.0,0.695,2569,46,0.394,0.0
+769883733,Cancelado,46,M,3,Post-Ensino Superior,Solteiro,$40K - $60K,Blue,40,3,4,2,2344.0,0,2344.0,0.412,2098,31,0.409,0.0
+711122958,Cancelado,41,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,33,5,3,3,1764.0,0,1764.0,0.552,2105,57,0.839,0.0
+708606633,Cancelado,56,F,3,Ensino Superior,Casado,$40K - $60K,Blue,44,6,3,4,1544.0,0,1544.0,0.315,1902,35,0.4,0.0
+713115483,Cancelado,44,F,3,Sem ensino formal,Casado,Less than $40K,Blue,36,6,3,3,1684.0,0,1684.0,0.557,2275,45,0.607,0.0
+713186058,Cancelado,42,F,3,Não informado,Casado,$40K - $60K,Blue,36,4,2,3,1438.3,0,1438.3,0.58,2191,51,0.457,0.0
+789241308,Cancelado,54,F,2,Não informado,Não informado,Less than $40K,Blue,39,4,3,3,1438.3,0,1438.3,0.72,2145,41,0.519,0.0
+778272408,Cancelado,52,M,1,Não informado,Divorciado,$80K - $120K,Blue,42,4,4,2,5763.0,0,5763.0,0.615,2310,48,0.714,0.0
+715328658,Cancelado,41,F,5,Post-Ensino Superior,Casado,Less than $40K,Blue,36,5,3,3,1495.0,0,1495.0,0.686,2622,70,0.628,0.0
+708918558,Cancelado,37,F,2,Ensino Superior,Casado,$40K - $60K,Blue,36,5,3,2,1959.0,662,1297.0,0.888,3046,52,0.793,0.338
+721480158,Cancelado,50,F,2,Não informado,Casado,Less than $40K,Blue,43,3,3,2,1438.3,910,528.3,0.66,2370,44,0.467,0.633
+709100283,Cancelado,36,F,2,Ensino Médio,Solteiro,Não informado,Blue,26,3,2,2,5956.0,2517,3439.0,0.877,2828,46,0.484,0.423
+713466033,Cancelado,39,F,2,Ensino Superior,Divorciado,Less than $40K,Blue,36,5,2,3,2092.0,0,2092.0,0.422,2015,33,0.269,0.0
+709064208,Cancelado,43,F,2,Sem ensino formal,Solteiro,Less than $40K,Blue,32,4,3,6,1628.0,275,1353.0,0.69,2219,49,0.531,0.169
+719630358,Cancelado,50,F,4,Ensino Médio,Casado,Less than $40K,Blue,36,1,3,2,3546.0,0,3546.0,0.791,2616,47,0.469,0.0
+712399308,Cancelado,38,F,3,Ensino Médio,Não informado,Less than $40K,Blue,36,5,3,3,2989.0,2387,602.0,0.437,2143,67,0.558,0.799
+717255333,Cancelado,40,M,3,Ensino Superior,Solteiro,$80K - $120K,Blue,36,1,2,2,6921.0,0,6921.0,0.824,2729,44,0.467,0.0
+708793008,Cancelado,46,M,3,Doutorado,Divorciado,$80K - $120K,Blue,35,5,3,3,9949.0,0,9949.0,0.574,2207,40,0.481,0.0
+718303683,Cancelado,36,F,2,Ensino Superior,Casado,Less than $40K,Blue,23,4,2,2,1666.0,813,853.0,0.813,2622,60,0.818,0.488
+708660408,Cancelado,40,F,1,Ensino Superior Incompleto,Casado,$40K - $60K,Blue,36,4,2,4,1737.0,1689,48.0,0.644,2459,43,0.536,0.972
+711671058,Cancelado,48,F,1,Sem ensino formal,Casado,Não informado,Blue,38,5,2,2,1438.3,0,1438.3,0.574,2171,38,0.462,0.0
+808747233,Cancelado,50,M,2,Doutorado,Casado,$120K +,Silver,45,6,3,3,34516.0,0,34516.0,0.771,2573,55,0.719,0.0
+713084208,Cancelado,43,M,4,Ensino Superior Incompleto,Casado,$40K - $60K,Blue,32,6,3,3,4373.0,0,4373.0,0.623,2397,46,0.484,0.0
+709803258,Cancelado,48,M,2,Não informado,Casado,$80K - $120K,Blue,28,5,2,3,12073.0,0,12073.0,0.541,2400,52,0.793,0.0
+818699208,Cancelado,47,F,4,Post-Ensino Superior,Casado,Não informado,Blue,42,4,4,4,6451.0,0,6451.0,0.706,2400,43,0.433,0.0
+719516208,Cancelado,54,M,2,Ensino Superior Incompleto,Solteiro,$120K +,Blue,36,3,2,3,34516.0,0,34516.0,0.628,2329,47,0.516,0.0
+717026658,Cancelado,43,F,3,Sem ensino formal,Casado,Less than $40K,Blue,32,6,3,3,1897.0,0,1897.0,0.645,2866,47,0.469,0.0
+766021083,Cancelado,55,F,1,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,48,3,5,3,2114.0,546,1568.0,0.619,2578,42,0.75,0.258
+719756133,Cancelado,34,M,4,Sem ensino formal,Solteiro,$60K - $80K,Blue,20,3,2,6,3940.0,1384,2556.0,0.908,3257,53,0.767,0.351
+713261133,Cancelado,38,M,4,Ensino Superior,Não informado,$60K - $80K,Blue,22,5,2,3,8632.0,0,8632.0,0.395,2221,40,0.739,0.0
+768243858,Cancelado,54,M,3,Ensino Médio,Casado,$80K - $120K,Blue,48,3,4,3,3288.0,2517,771.0,0.84,2717,46,0.438,0.766
+709649958,Cancelado,62,M,0,Post-Ensino Superior,Divorciado,$60K - $80K,Silver,46,4,5,6,28229.0,287,27942.0,0.594,2281,45,0.552,0.01
+717072108,Cancelado,50,F,2,Não informado,Solteiro,$40K - $60K,Blue,36,3,3,2,2762.0,0,2762.0,0.684,2571,44,0.419,0.0
+721460283,Cancelado,49,F,3,Post-Ensino Superior,Solteiro,Less than $40K,Blue,35,5,1,2,2214.0,915,1299.0,0.533,2144,51,0.545,0.413
+719577258,Cancelado,43,F,2,Sem ensino formal,Divorciado,Less than $40K,Blue,30,3,3,4,6811.0,0,6811.0,0.677,1937,39,0.56,0.0
+772528158,Cancelado,55,F,3,Não informado,Solteiro,Less than $40K,Blue,45,4,3,4,1741.0,0,1741.0,0.84,2546,42,0.4,0.0
+718707933,Cancelado,54,M,2,Sem ensino formal,Casado,$60K - $80K,Blue,35,4,3,4,2189.0,382,1807.0,0.884,2750,51,0.594,0.175
+771638733,Cancelado,49,M,3,Doutorado,Solteiro,$40K - $60K,Blue,37,5,2,3,4354.0,0,4354.0,0.738,2750,59,0.686,0.0
+713930433,Cancelado,57,M,2,Sem ensino formal,Não informado,$80K - $120K,Blue,36,5,3,3,4316.0,0,4316.0,0.363,1920,53,0.472,0.0
+772162683,Cancelado,34,F,2,Ensino Superior,Casado,Less than $40K,Blue,23,6,2,2,3116.0,0,3116.0,0.698,2768,45,0.667,0.0
+712531008,Cancelado,43,M,3,Não informado,Casado,$120K +,Blue,34,4,3,2,24868.0,794,24074.0,0.649,2510,32,0.231,0.032
+716709858,Cancelado,34,F,1,Sem ensino formal,Não informado,Less than $40K,Blue,25,1,2,3,3074.0,0,3074.0,0.718,2721,54,0.688,0.0
+814765533,Cancelado,44,F,4,Ensino Médio,Solteiro,$40K - $60K,Blue,39,4,3,3,10587.0,2517,8070.0,1052.0,2971,54,0.742,0.238
+826421958,Cancelado,46,F,1,Ensino Médio,Casado,Less than $40K,Blue,42,5,4,1,1438.3,0,1438.3,0.637,1843,44,0.63,0.0
+708158133,Cancelado,45,M,3,Ensino Superior Incompleto,Casado,$80K - $120K,Blue,36,3,2,2,3031.0,2517,514.0,0.409,2188,50,0.389,0.83
+708653958,Cancelado,38,M,3,Ensino Superior Incompleto,Casado,$60K - $80K,Blue,36,5,2,2,6114.0,1461,4653.0,0.772,2608,36,0.385,0.239
+712161858,Cancelado,55,F,5,Não informado,Solteiro,Less than $40K,Blue,36,4,2,3,1438.3,0,1438.3,0.571,2244,54,0.929,0.0
+780143283,Cancelado,43,F,3,Ensino Superior,Casado,$40K - $60K,Blue,32,4,3,3,2701.0,2498,203.0,0.637,2678,37,0.609,0.925
+719881533,Cancelado,46,M,2,Ensino Superior Incompleto,Casado,$40K - $60K,Silver,34,5,3,4,16547.0,0,16547.0,0.242,1561,41,0.367,0.0
+771783333,Cancelado,49,F,1,Sem ensino formal,Divorciado,$40K - $60K,Blue,37,6,2,2,2173.0,0,2173.0,0.652,2379,57,0.781,0.0
+711274458,Cancelado,38,F,3,Ensino Médio,Casado,Less than $40K,Blue,27,4,3,3,1438.3,0,1438.3,0.73,2478,45,0.552,0.0
+714035283,Cancelado,56,F,1,Post-Ensino Superior,Casado,Less than $40K,Blue,36,6,2,2,2802.0,2256,546.0,0.615,2371,46,0.353,0.805
+708376983,Cancelado,58,F,1,Não informado,Solteiro,Não informado,Blue,50,5,2,2,8513.0,799,7714.0,0.451,2119,37,0.542,0.094
+711862533,Cancelado,55,F,1,Sem ensino formal,Casado,Less than $40K,Blue,36,5,3,2,2258.0,2000,258.0,0.611,2500,42,0.68,0.886
+772407333,Cancelado,41,F,3,Não informado,Casado,Less than $40K,Blue,30,5,3,3,1654.0,0,1654.0,0.329,1730,30,0.364,0.0
+720654183,Cancelado,45,M,4,Ensino Superior,Casado,$80K - $120K,Blue,35,2,3,3,23542.0,1307,22235.0,0.462,2152,46,0.438,0.056
+779348358,Cancelado,52,F,1,Sem ensino formal,Solteiro,Less than $40K,Blue,37,5,3,4,1717.0,0,1717.0,1028.0,3004,46,0.586,0.0
+827051808,Cancelado,44,F,0,Ensino Superior Incompleto,Casado,Less than $40K,Blue,40,5,4,2,7499.0,1083,6416.0,0.716,2478,45,0.667,0.144
+710484408,Cancelado,39,M,4,Post-Ensino Superior,Casado,$120K +,Blue,29,6,3,3,8700.0,1742,6958.0,0.454,2306,50,0.613,0.2
+817108083,Cancelado,55,M,3,Não informado,Solteiro,$60K - $80K,Blue,35,3,3,3,14266.0,1341,12925.0,0.309,1625,34,0.36,0.094
+813449508,Cancelado,61,M,0,Ensino Superior,Casado,$60K - $80K,Blue,56,6,2,3,9918.0,850,9068.0,0.688,2485,40,0.29,0.086
+713474733,Cancelado,51,M,2,Ensino Superior,Solteiro,$80K - $120K,Blue,31,5,3,2,1438.3,327,1111.3,0.528,1783,40,0.481,0.227
+790119408,Cancelado,48,F,3,Sem ensino formal,Casado,Less than $40K,Blue,41,5,3,2,4960.0,0,4960.0,0.882,2430,48,0.548,0.0
+708684108,Cancelado,46,F,4,Ensino Superior,Casado,$40K - $60K,Blue,34,5,3,1,4152.0,1446,2706.0,0.826,2218,30,0.304,0.348
+803115258,Cancelado,62,M,0,Ensino Superior Incompleto,Não informado,$40K - $60K,Blue,56,2,6,2,3477.0,0,3477.0,0.436,2113,40,0.739,0.0
+708736608,Cancelado,40,M,3,Ensino Superior,Casado,$120K +,Blue,27,5,3,2,2269.0,0,2269.0,0.572,2108,39,0.56,0.0
+713047608,Cancelado,40,F,2,Ensino Superior Incompleto,Não informado,Less than $40K,Blue,36,6,1,3,2387.0,2013,374.0,0.449,2134,41,0.952,0.843
+711886383,Cancelado,54,F,5,Ensino Médio,Casado,Não informado,Blue,44,5,3,3,5342.0,605,4737.0,0.691,2426,46,0.394,0.113
+713058858,Cancelado,54,F,2,Ensino Superior,Não informado,Less than $40K,Blue,46,5,3,2,1695.0,913,782.0,0.449,2130,48,0.5,0.539
+714789033,Cancelado,54,F,1,Ensino Superior,Casado,Less than $40K,Blue,50,3,3,3,3173.0,2517,656.0,0.619,2763,51,0.821,0.793
+809811858,Cancelado,43,M,5,Ensino Médio,Não informado,$80K - $120K,Blue,38,3,3,2,1504.0,0,1504.0,0.987,2530,43,0.344,0.0
+826709658,Cancelado,45,F,3,Ensino Superior,Divorciado,$40K - $60K,Blue,41,1,3,3,1477.0,0,1477.0,0.768,2214,43,0.654,0.0
+719098308,Cancelado,56,F,2,Ensino Médio,Solteiro,Less than $40K,Blue,42,5,4,2,2423.0,268,2155.0,0.804,2516,59,0.639,0.111
+757194408,Cancelado,43,M,3,Ensino Superior Incompleto,Casado,$60K - $80K,Blue,36,2,3,3,1438.3,0,1438.3,0.539,1707,38,1111.0,0.0
+762020133,Cancelado,37,F,3,Ensino Médio,Casado,Não informado,Blue,30,3,3,3,9874.0,0,9874.0,0.491,2446,47,0.567,0.0
+780720258,Cancelado,45,M,4,Ensino Médio,Divorciado,Less than $40K,Blue,34,4,2,3,3489.0,2517,972.0,0.721,2684,39,0.56,0.721
+788835408,Cancelado,49,F,3,Não informado,Casado,Less than $40K,Blue,33,6,3,3,2910.0,0,2910.0,0.789,2648,41,0.464,0.0
+712327608,Cancelado,54,F,0,Doutorado,Solteiro,Less than $40K,Blue,36,4,3,2,2708.0,0,2708.0,0.673,2321,45,0.552,0.0
+712982808,Cancelado,47,M,2,Doutorado,Divorciado,$80K - $120K,Blue,32,1,3,3,1438.3,0,1438.3,0.454,2388,42,0.5,0.0
+715222533,Cancelado,52,F,3,Ensino Superior,Casado,Less than $40K,Blue,36,5,3,3,2566.0,1079,1487.0,0.554,2340,36,0.5,0.42
+708373083,Cancelado,40,F,4,Não informado,Casado,$40K - $60K,Blue,30,1,3,4,3356.0,2517,839.0,0.583,2032,39,0.147,0.75
+712552608,Cancelado,46,F,3,Ensino Superior,Casado,Less than $40K,Blue,34,3,3,1,1438.3,0,1438.3,0.714,2658,43,0.654,0.0
+794675058,Cancelado,36,M,3,Ensino Superior,Casado,$80K - $120K,Blue,21,5,3,2,5015.0,1963,3052.0,0.881,2491,43,0.87,0.391
+809616108,Cancelado,38,F,2,Ensino Médio,Solteiro,Less than $40K,Blue,33,3,3,3,1568.0,0,1568.0,0.611,2812,59,0.788,0.0
+708108333,Cancelado,47,F,3,Ensino Superior,Casado,Não informado,Blue,36,3,3,1,5590.0,0,5590.0,0.01,1507,32,0.0,0.0
+708972783,Cancelado,48,F,4,Ensino Superior Incompleto,Casado,Less than $40K,Blue,37,3,2,3,1745.0,0,1745.0,0.657,2297,44,0.63,0.0
+767553333,Cancelado,45,M,3,Ensino Superior,Solteiro,$80K - $120K,Blue,39,1,3,3,8383.0,0,8383.0,0.809,2600,44,0.517,0.0
+720062508,Cancelado,38,F,2,Não informado,Casado,$40K - $60K,Blue,28,6,2,2,1628.0,0,1628.0,0.876,2527,41,0.64,0.0
+714013983,Cancelado,37,F,4,Post-Ensino Superior,Casado,Less than $40K,Blue,36,3,3,3,1586.0,0,1586.0,0.497,2109,41,0.414,0.0
+711540108,Cancelado,44,F,4,Doutorado,Não informado,Não informado,Blue,33,5,3,6,1438.3,0,1438.3,0.676,2316,48,0.5,0.0
+713583408,Cancelado,51,F,4,Ensino Superior,Solteiro,$40K - $60K,Blue,37,2,3,2,4708.0,920,3788.0,0.544,2179,50,1273.0,0.195
+713957283,Cancelado,42,F,4,Sem ensino formal,Casado,Less than $40K,Blue,23,3,2,3,3214.0,0,3214.0,0.435,2119,44,0.517,0.0
+815539233,Cancelado,54,M,4,Ensino Médio,Solteiro,$80K - $120K,Silver,49,1,3,4,34516.0,214,34302.0,0.0,1201,22,0.0,0.006
+711399408,Cancelado,34,F,2,Ensino Superior,Divorciado,Não informado,Blue,25,2,3,4,12373.0,0,12373.0,0.71,2462,40,0.429,0.0
+711716133,Cancelado,42,F,3,Ensino Médio,Casado,$40K - $60K,Blue,34,6,3,1,1585.0,1381,204.0,0.706,2360,40,0.379,0.871
+720872433,Cancelado,39,F,1,Sem ensino formal,Solteiro,$40K - $60K,Blue,28,5,3,6,3911.0,0,3911.0,0.897,2867,42,0.556,0.0
+715530258,Cancelado,46,F,2,Post-Ensino Superior,Solteiro,Não informado,Blue,37,1,3,3,4848.0,2517,2331.0,0.651,2353,53,0.828,0.519
+710410158,Cancelado,49,M,2,Ensino Superior,Não informado,$80K - $120K,Blue,38,3,4,3,34516.0,0,34516.0,0.482,1592,35,0.346,0.0
+708976908,Cancelado,40,M,3,Post-Ensino Superior,Solteiro,$80K - $120K,Blue,36,4,4,3,8958.0,0,8958.0,0.483,2131,43,0.387,0.0
+712602708,Cancelado,36,M,3,Não informado,Não informado,$80K - $120K,Blue,36,4,1,2,1815.0,0,1815.0,0.478,2039,34,0.36,0.0
+771422883,Cancelado,57,F,3,Ensino Superior,Casado,Less than $40K,Blue,45,1,4,2,1759.0,186,1573.0,0.756,2705,35,0.522,0.106
+708703308,Cancelado,35,F,1,Não informado,Casado,$40K - $60K,Blue,26,6,4,4,2045.0,1707,338.0,0.577,2183,39,0.696,0.835
+820047858,Cancelado,44,F,4,Ensino Superior,Não informado,Less than $40K,Blue,39,1,4,2,3017.0,1868,1149.0,0.722,2096,50,0.471,0.619
+708186933,Cancelado,33,M,1,Ensino Superior,Solteiro,$60K - $80K,Blue,36,4,3,2,1819.0,725,1094.0,0.737,2254,45,0.406,0.399
+708498033,Cancelado,44,F,3,Não informado,Casado,Less than $40K,Blue,36,3,4,6,2279.0,1837,442.0,0.853,2789,52,0.677,0.806
+815315058,Cancelado,48,F,4,Ensino Médio,Casado,$40K - $60K,Blue,43,4,2,2,1438.3,0,1438.3,0.722,2520,45,0.452,0.0
+713512308,Cancelado,50,F,0,Ensino Superior,Solteiro,Less than $40K,Blue,41,2,3,1,3423.0,0,3423.0,0.505,2229,45,0.406,0.0
+709581483,Cancelado,40,F,4,Doutorado,Casado,Less than $40K,Blue,21,1,2,1,2984.0,2517,467.0,0.574,2373,53,0.359,0.843
+711201108,Cancelado,37,F,3,Ensino Médio,Solteiro,Less than $40K,Blue,29,3,3,3,1653.0,0,1653.0,0.517,2284,35,0.296,0.0
+714887808,Cancelado,43,F,1,Sem ensino formal,Solteiro,Less than $40K,Blue,36,1,3,2,1818.0,0,1818.0,0.758,2279,50,0.724,0.0
+709714008,Cancelado,50,F,1,Não informado,Solteiro,Não informado,Blue,39,6,3,3,9248.0,0,9248.0,0.613,2325,45,0.552,0.0
+714519408,Cancelado,44,F,3,Ensino Superior Incompleto,Casado,Less than $40K,Blue,36,2,3,3,5357.0,2139,3218.0,0.499,1979,48,0.655,0.399
+712740108,Cancelado,43,F,4,Sem ensino formal,Divorciado,Less than $40K,Blue,33,6,3,1,1706.0,0,1706.0,0.601,2371,45,0.5,0.0
+720251358,Cancelado,54,F,2,Ensino Médio,Divorciado,Less than $40K,Blue,36,6,3,1,3591.0,2517,1074.0,0.665,2313,43,0.536,0.701
+828294933,Cancelado,49,F,3,Ensino Médio,Casado,Less than $40K,Blue,45,3,2,3,2951.0,2437,514.0,0.765,2519,36,0.565,0.826
+712307283,Cancelado,54,M,1,Ensino Superior Incompleto,Solteiro,$120K +,Blue,37,6,2,3,9090.0,2517,6573.0,0.661,2239,43,0.72,0.277
+778910883,Cancelado,53,M,2,Não informado,Casado,$80K - $120K,Blue,34,4,3,2,1837.0,875,962.0,0.58,2169,43,0.654,0.476
+779848383,Cancelado,37,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,21,4,2,2,1784.0,577,1207.0,0.542,2348,47,0.516,0.323
+717371583,Cancelado,56,F,2,Sem ensino formal,Solteiro,Less than $40K,Blue,36,1,3,5,1883.0,400,1483.0,0.528,1954,45,0.5,0.212
+712163433,Cancelado,47,M,3,Sem ensino formal,Casado,$40K - $60K,Blue,29,1,2,4,1684.0,644,1040.0,0.723,2164,36,0.714,0.382
+711487533,Cancelado,47,F,3,Não informado,Casado,Less than $40K,Blue,38,3,3,2,1438.3,0,1438.3,0.198,1687,38,0.226,0.0
+715306983,Cancelado,42,M,5,Ensino Médio,Casado,$60K - $80K,Blue,36,1,2,3,1866.0,0,1866.0,0.798,2833,42,0.355,0.0
+789637308,Cancelado,45,F,2,Ensino Superior Incompleto,Divorciado,$40K - $60K,Blue,39,4,3,4,3076.0,0,3076.0,0.734,2580,50,0.429,0.0
+794172033,Cancelado,58,F,1,Post-Ensino Superior,Divorciado,Less than $40K,Blue,52,4,1,3,1817.0,0,1817.0,0.503,2347,45,0.452,0.0
+714520233,Cancelado,59,F,0,Ensino Superior,Casado,Less than $40K,Blue,36,2,3,2,1708.0,0,1708.0,0.443,1992,38,0.357,0.0
+717725433,Cancelado,54,F,2,Ensino Superior,Casado,$40K - $60K,Blue,44,3,4,2,1606.0,0,1606.0,0.763,2258,37,0.609,0.0
+710690733,Cancelado,47,F,3,Ensino Superior,Casado,Less than $40K,Blue,35,4,3,2,1666.0,0,1666.0,0.92,2816,38,0.52,0.0
+779084208,Cancelado,43,F,3,Ensino Médio,Divorciado,Less than $40K,Blue,24,4,2,2,1662.0,613,1049.0,0.868,2326,31,0.55,0.369
+715304958,Cancelado,42,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,27,6,2,2,2053.0,0,2053.0,0.866,3053,50,0.562,0.0
+715950483,Cancelado,39,F,1,Sem ensino formal,Casado,$40K - $60K,Blue,27,3,3,3,2821.0,725,2096.0,0.704,2397,35,0.296,0.257
+711919608,Cancelado,42,F,3,Ensino Superior,Casado,Less than $40K,Blue,36,4,3,2,2031.0,1720,311.0,0.713,2702,32,0.778,0.847
+717624708,Cancelado,59,M,2,Ensino Médio,Divorciado,Less than $40K,Blue,51,6,5,3,1438.3,0,1438.3,0.734,2589,49,0.69,0.0
+789095958,Cancelado,50,M,1,Não informado,Solteiro,$60K - $80K,Blue,38,4,3,3,7603.0,744,6859.0,0.711,2497,42,0.273,0.098
+713736333,Cancelado,41,F,3,Sem ensino formal,Casado,$40K - $60K,Blue,36,1,3,4,3606.0,0,3606.0,0.37,1829,41,0.519,0.0
+714213708,Cancelado,35,F,3,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,25,4,3,2,3611.0,2517,1094.0,0.537,2178,45,0.552,0.697
+720142308,Cancelado,52,F,2,Ensino Superior,Casado,Less than $40K,Blue,36,5,3,4,2160.0,0,2160.0,0.645,2360,56,0.647,0.0
+819688458,Cancelado,44,F,5,Ensino Superior,Não informado,Less than $40K,Blue,39,6,3,2,1545.0,0,1545.0,0.749,2646,39,0.444,0.0
+710785383,Cancelado,49,F,2,Ensino Superior,Casado,Less than $40K,Blue,39,3,3,1,2212.0,0,2212.0,0.942,2394,55,0.897,0.0
+713597658,Cancelado,36,F,3,Sem ensino formal,Solteiro,Less than $40K,Blue,22,3,3,1,2784.0,2378,406.0,0.525,2021,57,0.676,0.854
+713953383,Cancelado,50,M,1,Post-Ensino Superior,Solteiro,$60K - $80K,Blue,36,4,3,2,2317.0,0,2317.0,0.734,2214,41,0.519,0.0
+716510658,Cancelado,50,F,0,Doutorado,Solteiro,Less than $40K,Blue,38,4,3,3,2595.0,2353,242.0,0.924,2526,41,0.577,0.907
+708519108,Cancelado,46,F,1,Ensino Superior,Casado,Não informado,Blue,24,3,3,2,2694.0,1576,1118.0,0.494,2041,57,0.9,0.585
+719740008,Cancelado,51,F,4,Ensino Médio,Casado,Less than $40K,Blue,41,3,3,4,2791.0,940,1851.0,0.813,2584,49,0.441,0.337
+711605208,Cancelado,61,M,0,Sem ensino formal,Casado,$80K - $120K,Blue,43,3,3,5,1438.3,0,1438.3,0.7,1958,47,0.424,0.0
+714408933,Cancelado,44,M,4,Ensino Superior,Solteiro,$80K - $120K,Blue,36,4,2,2,10834.0,0,10834.0,0.522,2249,51,0.594,0.0
+716099958,Cancelado,39,F,5,Não informado,Casado,$40K - $60K,Blue,31,3,3,6,3333.0,1867,1466.0,0.947,3348,50,0.282,0.56
+712795833,Cancelado,34,F,4,Ensino Superior,Casado,Less than $40K,Blue,36,2,2,4,5021.0,2517,2504.0,0.587,2270,40,0.481,0.501
+712593933,Cancelado,40,M,3,Doutorado,Casado,$40K - $60K,Blue,36,3,3,4,2313.0,0,2313.0,0.673,2249,42,0.312,0.0
+714164808,Cancelado,42,F,4,Ensino Superior,Casado,$40K - $60K,Blue,33,4,3,2,2918.0,0,2918.0,0.559,2056,54,0.459,0.0
+710500983,Cancelado,43,M,2,Ensino Superior Incompleto,Solteiro,$80K - $120K,Blue,34,2,4,3,4617.0,1035,3582.0,0.36,1779,35,0.591,0.224
+711904008,Cancelado,40,M,4,Ensino Médio,Casado,$60K - $80K,Blue,36,4,3,5,5869.0,0,5869.0,0.642,2203,41,0.519,0.0
+717666783,Cancelado,56,F,3,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,46,1,3,3,2272.0,1350,922.0,0.762,2354,49,0.96,0.594
+720731808,Cancelado,52,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,38,2,3,4,2437.0,0,2437.0,0.912,3068,53,0.656,0.0
+789907533,Cancelado,49,M,3,Ensino Superior,Casado,$80K - $120K,Blue,40,4,2,3,4576.0,193,4383.0,0.85,3100,54,0.742,0.042
+715919283,Cancelado,39,F,4,Ensino Superior Incompleto,Solteiro,$40K - $60K,Blue,36,3,2,3,1776.0,0,1776.0,0.518,2201,31,0.292,0.0
+714559458,Cancelado,46,M,4,Ensino Superior Incompleto,Casado,$60K - $80K,Blue,36,4,2,1,1681.0,0,1681.0,0.464,1953,48,0.5,0.0
+772150983,Cancelado,48,F,3,Ensino Médio,Não informado,Less than $40K,Blue,37,4,2,1,2363.0,978,1385.0,0.662,2635,40,0.538,0.414
+713920158,Cancelado,41,F,3,Sem ensino formal,Não informado,Não informado,Blue,36,2,3,1,13733.0,0,13733.0,0.325,1591,30,0.875,0.0
+712998033,Cancelado,37,M,3,Ensino Médio,Solteiro,$120K +,Blue,36,3,2,2,7361.0,0,7361.0,0.59,2109,44,0.571,0.0
+712843983,Cancelado,41,F,2,Ensino Superior Incompleto,Divorciado,Less than $40K,Blue,36,3,3,4,1569.0,257,1312.0,0.408,2288,45,0.667,0.164
+714127383,Cancelado,48,F,3,Não informado,Não informado,Não informado,Blue,36,3,3,2,4431.0,2517,1914.0,0.499,2185,48,0.371,0.568
+779380908,Cancelado,51,M,1,Não informado,Casado,$80K - $120K,Blue,39,4,3,4,24462.0,946,23516.0,0.475,1709,37,0.542,0.039
+713011683,Cancelado,37,F,3,Ensino Superior Incompleto,Casado,Não informado,Blue,24,4,2,4,11239.0,0,11239.0,0.32,2055,43,0.162,0.0
+712677633,Cancelado,42,F,0,Sem ensino formal,Divorciado,Não informado,Blue,31,3,3,4,2712.0,0,2712.0,0.724,2307,28,0.474,0.0
+713381433,Cancelado,38,F,1,Ensino Médio,Casado,Less than $40K,Blue,28,3,3,3,4196.0,731,3465.0,0.485,1868,30,0.2,0.174
+716697708,Cancelado,61,F,1,Ensino Médio,Solteiro,Não informado,Blue,52,3,2,4,3293.0,0,3293.0,0.838,3121,56,0.867,0.0
+720507108,Cancelado,42,F,3,Ensino Superior Incompleto,Casado,Less than $40K,Blue,28,3,3,2,1601.0,0,1601.0,0.63,2339,41,0.414,0.0
+716751858,Cancelado,34,F,1,Não informado,Casado,Less than $40K,Blue,36,2,3,3,2401.0,496,1905.0,0.647,2597,40,0.379,0.207
+712829808,Cancelado,39,M,3,Sem ensino formal,Casado,$60K - $80K,Blue,29,4,3,4,2187.0,0,2187.0,0.467,2031,40,0.333,0.0
+779302233,Cancelado,40,F,4,Ensino Superior,Solteiro,Less than $40K,Blue,22,4,2,3,1438.3,0,1438.3,0.695,2502,45,0.452,0.0
+717042333,Cancelado,53,F,2,Ensino Superior Incompleto,Casado,Less than $40K,Blue,44,3,3,3,1473.0,0,1473.0,0.92,2836,48,0.6,0.0
+771061008,Cancelado,40,F,2,Doutorado,Casado,$40K - $60K,Blue,27,4,2,3,2208.0,0,2208.0,0.695,2659,56,0.806,0.0
+720824883,Cancelado,48,F,1,Não informado,Solteiro,Less than $40K,Blue,40,3,1,2,3251.0,2517,734.0,0.739,2483,50,0.471,0.774
+715847058,Cancelado,59,F,2,Sem ensino formal,Divorciado,Less than $40K,Blue,36,3,3,3,1863.0,1853,10.0,0.829,2462,40,0.29,0.995
+712770408,Cancelado,42,F,2,Ensino Superior,Não informado,Less than $40K,Blue,36,6,3,2,3413.0,0,3413.0,0.593,2285,40,0.429,0.0
+710752233,Cancelado,43,F,5,Ensino Médio,Não informado,$40K - $60K,Blue,24,3,2,2,4430.0,2203,2227.0,1046.0,2742,49,0.4,0.497
+715146558,Cancelado,34,F,2,Ensino Superior Incompleto,Casado,Less than $40K,Blue,36,1,3,2,1696.0,0,1696.0,0.782,2325,56,0.556,0.0
+778606308,Cancelado,45,M,3,Sem ensino formal,Divorciado,$80K - $120K,Blue,25,2,2,3,6614.0,1881,4733.0,0.737,3016,51,0.645,0.284
+710438358,Cancelado,42,F,1,Sem ensino formal,Solteiro,Less than $40K,Blue,35,4,3,3,3241.0,0,3241.0,0.442,2152,43,0.303,0.0
+712562433,Cancelado,48,F,2,Não informado,Casado,Less than $40K,Blue,30,3,3,3,4204.0,0,4204.0,0.703,2316,43,0.536,0.0
+713717283,Cancelado,40,F,3,Não informado,Solteiro,$40K - $60K,Blue,29,3,3,3,2473.0,2332,141.0,0.293,1738,32,0.455,0.943
+713822208,Cancelado,42,M,2,Ensino Médio,Solteiro,$60K - $80K,Blue,33,3,3,3,4836.0,493,4343.0,0.417,1870,45,0.406,0.102
+718230933,Cancelado,45,M,4,Ensino Superior,Solteiro,Less than $40K,Blue,36,5,2,3,1438.3,1060,378.3,0.301,1253,29,0.318,0.737
+711637458,Cancelado,44,F,3,Ensino Médio,Solteiro,Less than $40K,Blue,36,2,3,3,2228.0,0,2228.0,0.686,2523,45,0.607,0.0
+708384033,Cancelado,45,F,3,Sem ensino formal,Casado,Less than $40K,Blue,35,3,3,3,2745.0,2463,282.0,0.643,2466,39,0.345,0.897
+713677158,Cancelado,31,F,1,Ensino Superior,Divorciado,Não informado,Blue,22,2,2,3,1623.0,0,1623.0,0.501,2126,45,0.364,0.0
+718090233,Cancelado,56,F,3,Ensino Superior,Solteiro,Não informado,Blue,36,3,3,3,10016.0,1872,8144.0,0.735,2804,37,0.542,0.187
+787529583,Cancelado,41,F,5,Não informado,Casado,$40K - $60K,Blue,30,5,2,3,1588.0,0,1588.0,0.634,2561,61,0.649,0.0
+713772333,Cancelado,45,F,3,Não informado,Divorciado,Less than $40K,Blue,34,4,3,1,3223.0,243,2980.0,0.433,1979,38,0.462,0.075
+714514008,Cancelado,38,F,1,Ensino Superior,Casado,Não informado,Blue,29,3,3,3,8953.0,0,8953.0,0.403,1982,43,0.303,0.0
+711669258,Cancelado,50,F,3,Sem ensino formal,Solteiro,Não informado,Blue,36,2,3,3,3187.0,986,2201.0,0.615,2381,47,0.516,0.309
+720592533,Cancelado,41,M,4,Ensino Superior,Não informado,$80K - $120K,Blue,31,3,3,2,19782.0,868,18914.0,0.808,2535,44,0.467,0.044
+778207083,Cancelado,53,M,4,Sem ensino formal,Solteiro,$80K - $120K,Blue,44,3,3,2,11561.0,2189,9372.0,0.742,2153,39,0.5,0.189
+778781508,Cancelado,44,F,2,Ensino Médio,Casado,Não informado,Blue,32,4,3,3,8477.0,2517,5960.0,0.717,2455,41,0.64,0.297
+712130058,Cancelado,44,F,4,Sem ensino formal,Solteiro,Não informado,Blue,36,3,3,4,8075.0,317,7758.0,0.585,2415,41,0.577,0.039
+794719983,Cancelado,44,F,4,Ensino Médio,Não informado,Less than $40K,Blue,38,2,2,3,2616.0,2505,111.0,0.828,2576,42,0.5,0.958
+778378983,Cancelado,54,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,34,5,2,2,2939.0,2152,787.0,0.555,2476,42,0.355,0.732
+709850508,Cancelado,33,F,2,Ensino Superior,Casado,Less than $40K,Blue,20,3,2,5,3202.0,0,3202.0,1012.0,2917,37,0.682,0.0
+712448658,Cancelado,52,F,1,Ensino Médio,Solteiro,Less than $40K,Blue,36,3,3,2,1795.0,0,1795.0,0.718,2281,55,0.618,0.0
+708276183,Cancelado,52,F,3,Post-Ensino Superior,Casado,Less than $40K,Blue,45,2,4,1,1760.0,0,1760.0,0.046,1554,35,0.029,0.0
+720590058,Cancelado,51,F,1,Ensino Superior,Solteiro,$40K - $60K,Blue,36,3,3,3,8840.0,1794,7046.0,0.848,2839,47,0.808,0.203
+717748608,Cancelado,35,F,4,Ensino Médio,Casado,Less than $40K,Blue,24,3,2,4,1555.0,872,683.0,0.772,2252,51,0.645,0.561
+716694108,Cancelado,42,M,4,Sem ensino formal,Casado,$120K +,Blue,34,2,3,3,5195.0,468,4727.0,0.567,2682,48,0.231,0.09
+719981508,Cancelado,37,M,2,Sem ensino formal,Solteiro,Não informado,Blue,24,2,2,3,1649.0,0,1649.0,0.864,2574,51,0.7,0.0
+716754783,Cancelado,43,M,4,Ensino Médio,Casado,$120K +,Blue,30,3,2,3,17228.0,1331,15897.0,0.519,2229,44,0.375,0.077
+708575058,Cancelado,46,F,3,Sem ensino formal,Divorciado,$40K - $60K,Blue,39,2,3,2,3157.0,965,2192.0,0.928,3300,58,0.568,0.306
+713929533,Cancelado,36,F,3,Ensino Superior Incompleto,Casado,Less than $40K,Blue,36,2,2,2,1707.0,0,1707.0,0.319,2060,52,0.529,0.0
+720766908,Cancelado,40,F,2,Sem ensino formal,Solteiro,Less than $40K,Blue,28,2,2,2,3021.0,0,3021.0,0.694,2814,37,0.321,0.0
+805524708,Cancelado,52,F,3,Ensino Médio,Divorciado,Less than $40K,Blue,47,3,3,1,6629.0,2517,4112.0,0.932,2599,50,0.562,0.38
+716299608,Cancelado,58,F,3,Não informado,Divorciado,Less than $40K,Blue,36,2,2,3,1508.0,0,1508.0,0.458,1990,31,0.192,0.0
+802460433,Cancelado,57,F,3,Ensino Médio,Casado,Não informado,Blue,51,2,5,2,1438.3,0,1438.3,0.733,2607,37,0.609,0.0
+719512983,Cancelado,47,F,4,Ensino Superior,Solteiro,Less than $40K,Blue,39,3,3,6,1438.3,0,1438.3,0.854,2295,51,0.545,0.0
+714923583,Cancelado,38,F,2,Ensino Superior,Não informado,Less than $40K,Blue,36,2,3,2,2369.0,0,2369.0,0.51,1924,48,0.548,0.0
+720719883,Cancelado,54,F,1,Ensino Superior,Solteiro,Não informado,Blue,41,3,3,3,1874.0,0,1874.0,0.806,2535,55,0.618,0.0
+806914158,Cancelado,38,F,4,Ensino Superior,Casado,$40K - $60K,Blue,33,4,3,1,4047.0,0,4047.0,0.648,2134,34,0.478,0.0
+812671758,Cancelado,47,F,5,Doutorado,Casado,Não informado,Blue,42,3,5,3,4345.0,2176,2169.0,0.752,2458,44,0.467,0.501
+793630083,Cancelado,39,M,2,Ensino Médio,Solteiro,$120K +,Blue,33,1,3,4,1726.0,1476,250.0,0.371,1804,34,0.259,0.855
+712900308,Cancelado,44,F,2,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,34,4,3,3,1751.0,0,1751.0,0.506,2078,37,0.423,0.0
+780660183,Cancelado,43,F,4,Ensino Médio,Divorciado,Less than $40K,Blue,32,2,3,2,8203.0,0,8203.0,0.691,2613,46,0.84,0.0
+720761208,Cancelado,59,M,1,Ensino Superior Incompleto,Solteiro,$120K +,Blue,47,2,4,2,4789.0,357,4432.0,0.798,2496,41,0.64,0.075
+788794758,Cancelado,46,M,4,Ensino Superior,Solteiro,$40K - $60K,Blue,28,2,2,4,2979.0,0,2979.0,0.644,2061,38,0.462,0.0
+711150333,Cancelado,40,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,31,5,3,2,2391.0,0,2391.0,0.669,2857,40,0.6,0.0
+715516458,Cancelado,42,F,1,Ensino Médio,Casado,$40K - $60K,Blue,36,5,3,2,2705.0,2430,275.0,0.698,2602,43,0.433,0.898
+808903308,Cancelado,54,F,1,Não informado,Casado,$40K - $60K,Blue,49,4,3,6,2471.0,0,2471.0,0.722,2519,35,0.522,0.0
+713373708,Cancelado,54,F,3,Não informado,Solteiro,Less than $40K,Blue,36,2,3,3,1857.0,0,1857.0,0.488,2464,57,0.839,0.0
+711448983,Cancelado,47,F,2,Ensino Superior,Casado,Less than $40K,Blue,34,2,2,2,2234.0,2024,210.0,0.717,2313,37,0.321,0.906
+712664658,Cancelado,35,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,30,2,2,2,1649.0,0,1649.0,0.683,2549,54,0.588,0.0
+714237033,Cancelado,42,F,4,Sem ensino formal,Casado,Não informado,Blue,36,6,2,3,5557.0,2246,3311.0,0.518,2299,39,0.444,0.404
+713726958,Cancelado,40,F,3,Doutorado,Casado,Less than $40K,Blue,21,5,2,2,1728.0,0,1728.0,0.41,2191,38,0.357,0.0
+711873033,Cancelado,35,F,3,Não informado,Solteiro,Não informado,Blue,29,4,2,3,1438.3,0,1438.3,0.748,2549,56,0.75,0.0
+712715208,Cancelado,52,M,1,Ensino Médio,Solteiro,$80K - $120K,Blue,44,1,3,2,3770.0,0,3770.0,0.544,2387,51,0.5,0.0
+778899708,Cancelado,56,F,2,Não informado,Solteiro,$40K - $60K,Blue,37,2,2,3,2963.0,0,2963.0,0.902,2919,47,0.382,0.0
+771865908,Cancelado,48,F,2,Ensino Superior,Solteiro,Não informado,Blue,37,4,2,3,11750.0,487,11263.0,0.772,2532,48,0.548,0.041
+715162608,Cancelado,48,F,2,Ensino Superior,Solteiro,Less than $40K,Blue,41,4,2,3,2168.0,1323,845.0,0.687,2499,38,0.407,0.61
+709079883,Cancelado,45,F,4,Doutorado,Casado,Less than $40K,Blue,36,5,3,3,1663.0,1012,651.0,0.886,2729,38,0.52,0.609
+721406658,Cancelado,32,F,0,Não informado,Divorciado,Less than $40K,Blue,36,6,3,3,1732.0,0,1732.0,0.683,2479,43,0.536,0.0
+797150733,Cancelado,44,M,3,Não informado,Solteiro,$40K - $60K,Blue,38,5,2,2,1643.0,0,1643.0,0.6,1754,39,0.56,0.0
+714930333,Cancelado,39,M,3,Ensino Superior Incompleto,Casado,$80K - $120K,Blue,30,2,3,3,4618.0,0,4618.0,0.717,2476,49,0.75,0.0
+717489033,Cancelado,27,F,0,Ensino Médio,Solteiro,Less than $40K,Blue,18,6,1,4,1438.3,0,1438.3,0.781,2641,40,0.6,0.0
+714424533,Cancelado,41,F,4,Ensino Superior,Casado,Less than $40K,Blue,36,6,2,2,1655.0,0,1655.0,0.496,2156,37,0.194,0.0
+713748708,Cancelado,46,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,37,1,2,4,1438.3,0,1438.3,0.35,1757,44,0.467,0.0
+816476658,Cancelado,54,F,2,Não informado,Casado,Não informado,Blue,49,2,4,3,1812.0,1798,14.0,0.735,2921,44,0.692,0.992
+711234783,Cancelado,44,F,4,Não informado,Casado,Less than $40K,Blue,28,5,2,3,2020.0,0,2020.0,0.716,2621,45,0.552,0.0
+717409533,Cancelado,36,F,2,Post-Ensino Superior,Solteiro,Less than $40K,Blue,26,1,2,3,1821.0,1486,335.0,0.827,2824,43,0.387,0.816
+787452333,Cancelado,39,F,1,Ensino Médio,Casado,Less than $40K,Blue,25,2,2,1,2024.0,0,2024.0,0.801,2870,36,0.5,0.0
+709520058,Cancelado,53,M,5,Sem ensino formal,Casado,$120K +,Blue,38,4,2,2,19138.0,0,19138.0,0.482,2028,43,0.303,0.0
+820694133,Cancelado,60,F,0,Ensino Médio,Casado,Não informado,Blue,55,4,1,3,5549.0,0,5549.0,0.703,2412,38,0.52,0.0
+711800658,Cancelado,42,F,3,Ensino Médio,Solteiro,Less than $40K,Blue,36,2,3,3,2145.0,0,2145.0,0.577,2465,42,0.355,0.0
+712279683,Cancelado,44,M,3,Ensino Superior,Casado,$60K - $80K,Blue,36,2,3,3,9114.0,0,9114.0,0.654,2740,52,0.625,0.0
+712853358,Cancelado,39,F,3,Ensino Médio,Não informado,Less than $40K,Blue,36,2,3,2,1817.0,0,1817.0,0.583,2216,44,0.833,0.0
+709362033,Cancelado,52,F,1,Ensino Superior,Casado,Less than $40K,Blue,42,1,5,3,1471.0,0,1471.0,0.624,2253,48,0.455,0.0
+719860308,Cancelado,42,F,2,Ensino Superior,Casado,Less than $40K,Blue,36,2,3,3,1438.3,0,1438.3,0.663,2418,48,0.778,0.0
+714443058,Cancelado,43,F,4,Ensino Superior Incompleto,Casado,Less than $40K,Blue,28,5,2,4,1484.0,0,1484.0,0.2,1664,39,0.5,0.0
+716315508,Cancelado,37,F,3,Post-Ensino Superior,Casado,$40K - $60K,Blue,36,2,2,5,3233.0,2517,716.0,0.0,1339,32,0.0,0.779
+720401658,Cancelado,53,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,34,5,3,5,1438.3,1030,408.3,0.609,1985,38,0.407,0.716
+718806783,Cancelado,46,F,3,Sem ensino formal,Casado,Não informado,Blue,36,2,3,1,2872.0,357,2515.0,0.869,2629,41,0.64,0.124
+714484008,Cancelado,49,F,4,Sem ensino formal,Casado,Less than $40K,Blue,31,4,3,2,1567.0,0,1567.0,0.424,2138,41,0.577,0.0
+719176308,Cancelado,43,M,3,Ensino Superior Incompleto,Divorciado,$80K - $120K,Blue,32,6,3,2,7278.0,0,7278.0,0.618,2120,43,0.593,0.0
+714630858,Cancelado,36,F,1,Sem ensino formal,Não informado,Less than $40K,Blue,36,2,3,2,1470.0,458,1012.0,0.543,2383,39,0.444,0.312
+712662783,Cancelado,43,F,2,Ensino Superior Incompleto,Casado,Não informado,Blue,36,1,2,6,3793.0,2517,1276.0,0.512,2577,57,0.629,0.664
+779905008,Cancelado,54,F,4,Ensino Superior,Não informado,$40K - $60K,Blue,38,2,2,1,1779.0,0,1779.0,0.856,2660,41,0.323,0.0
+720961383,Cancelado,47,F,3,Sem ensino formal,Solteiro,Não informado,Blue,36,2,3,4,2952.0,0,2952.0,0.82,2907,60,0.875,0.0
+714202008,Cancelado,53,F,2,Ensino Médio,Casado,Less than $40K,Blue,36,6,3,2,3918.0,2517,1401.0,0.47,2115,42,0.448,0.642
+712704933,Cancelado,49,F,4,Ensino Médio,Não informado,$40K - $60K,Blue,43,4,3,3,4048.0,0,4048.0,0.601,2227,41,0.464,0.0
+715904433,Cancelado,42,F,4,Ensino Superior Incompleto,Casado,$40K - $60K,Blue,34,1,3,2,1695.0,0,1695.0,0.453,2055,46,0.314,0.0
+711691608,Cancelado,46,F,4,Ensino Superior,Solteiro,Less than $40K,Blue,36,2,3,3,2881.0,2450,431.0,0.629,2450,49,0.531,0.85
+708266883,Cancelado,34,F,2,Ensino Superior,Solteiro,Less than $40K,Blue,36,1,2,3,1666.0,0,1666.0,0.713,2312,35,0.25,0.0
+711102858,Cancelado,48,F,2,Doutorado,Solteiro,Não informado,Blue,36,4,2,3,3137.0,860,2277.0,0.304,1618,34,0.097,0.274
+711722808,Cancelado,51,F,4,Ensino Superior,Solteiro,Less than $40K,Blue,44,5,3,3,1483.0,0,1483.0,0.707,2520,40,0.429,0.0
+710292333,Cancelado,44,F,3,Ensino Médio,Casado,Não informado,Blue,36,3,3,4,7772.0,0,7772.0,0.896,2618,52,0.576,0.0
+787339158,Cancelado,56,M,1,Ensino Superior,Casado,$80K - $120K,Blue,50,3,6,3,8688.0,0,8688.0,0.426,2361,41,0.464,0.0
+714848958,Cancelado,47,F,2,Ensino Superior,Solteiro,Less than $40K,Gold,37,6,2,1,15109.0,897,14212.0,0.494,2315,43,0.303,0.059
+713144208,Cancelado,51,F,0,Ensino Médio,Casado,Não informado,Blue,42,1,4,4,9989.0,568,9421.0,0.52,2053,49,0.485,0.057
+771594783,Cancelado,56,F,1,Ensino Superior Incompleto,Casado,Não informado,Blue,44,2,4,4,1438.3,0,1438.3,0.859,2264,37,0.423,0.0
+719305608,Cancelado,57,F,3,Ensino Médio,Solteiro,Less than $40K,Blue,36,4,3,3,2347.0,1900,447.0,0.845,2447,47,0.621,0.81
+720190083,Cancelado,56,F,3,Não informado,Solteiro,Less than $40K,Blue,39,1,3,4,1632.0,0,1632.0,0.621,2509,47,0.424,0.0
+708323208,Cancelado,49,F,3,Sem ensino formal,Casado,Less than $40K,Blue,36,4,2,4,1522.0,0,1522.0,0.482,2241,36,0.8,0.0
+716963283,Cancelado,47,F,3,Ensino Superior,Não informado,Less than $40K,Blue,38,2,2,3,3165.0,2517,648.0,0.748,2751,49,1042.0,0.795
+719449533,Cancelado,49,F,3,Sem ensino formal,Solteiro,$40K - $60K,Blue,38,1,2,3,2655.0,2283,372.0,0.751,2386,49,0.485,0.86
+778819083,Cancelado,41,F,2,Doutorado,Casado,$40K - $60K,Blue,33,1,3,3,1604.0,0,1604.0,0.644,2264,47,0.516,0.0
+714773508,Cancelado,54,F,1,Ensino Superior,Casado,$40K - $60K,Blue,46,6,4,3,1632.0,351,1281.0,0.721,2532,43,0.483,0.215
+711456108,Cancelado,46,F,4,Não informado,Casado,$40K - $60K,Blue,39,5,3,3,1438.3,819,619.3,0.786,2488,44,0.692,0.569
+713027058,Cancelado,46,F,4,Doutorado,Solteiro,Less than $40K,Blue,36,2,2,3,2292.0,0,2292.0,0.568,2595,31,0.409,0.0
+781137783,Cancelado,40,M,3,Ensino Médio,Não informado,Less than $40K,Blue,33,1,3,4,2420.0,191,2229.0,0.818,2478,43,0.433,0.079
+719821908,Cancelado,38,F,2,Ensino Médio,Solteiro,Less than $40K,Blue,16,2,1,2,2703.0,0,2703.0,0.882,2752,43,0.433,0.0
+712378983,Cancelado,54,M,1,Não informado,Solteiro,$80K - $120K,Blue,47,5,6,5,7570.0,965,6605.0,0.709,2599,61,0.848,0.127
+714197133,Cancelado,51,F,3,Ensino Superior Incompleto,Casado,$40K - $60K,Blue,36,2,3,3,4762.0,0,4762.0,0.526,2811,52,0.3,0.0
+716279508,Cancelado,48,M,3,Ensino Superior Incompleto,Casado,$80K - $120K,Blue,41,2,3,3,3430.0,2517,913.0,0.869,2639,46,0.643,0.734
+717502083,Cancelado,41,M,3,Doutorado,Solteiro,$120K +,Blue,28,4,2,3,6314.0,0,6314.0,0.903,2718,44,0.63,0.0
+709745508,Cancelado,58,F,2,Não informado,Divorciado,$40K - $60K,Blue,47,1,4,3,2295.0,0,2295.0,0.376,2140,40,0.429,0.0
+711382458,Cancelado,43,M,5,Ensino Superior,Casado,$60K - $80K,Blue,38,2,3,5,1438.3,0,1438.3,0.713,2389,49,0.361,0.0
+709102458,Cancelado,47,M,2,Ensino Médio,Solteiro,$80K - $120K,Blue,36,4,3,5,4754.0,0,4754.0,0.618,2607,41,0.367,0.0
+807946833,Cancelado,44,F,2,Ensino Superior,Solteiro,Less than $40K,Blue,39,6,3,3,1791.0,0,1791.0,0.735,2771,36,0.5,0.0
+717146208,Cancelado,59,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,51,1,4,4,4257.0,2517,1740.0,0.703,2828,50,1083.0,0.591
+785237958,Cancelado,45,M,5,Ensino Superior Incompleto,Casado,$60K - $80K,Blue,39,2,3,3,3439.0,0,3439.0,0.825,2661,35,0.296,0.0
+719123958,Cancelado,40,M,4,Não informado,Divorciado,$60K - $80K,Blue,27,2,2,3,5051.0,0,5051.0,0.588,2137,45,0.552,0.0
+712660308,Cancelado,44,F,1,Ensino Médio,Solteiro,Less than $40K,Blue,36,2,3,3,1895.0,0,1895.0,0.736,2472,40,0.429,0.0
+823548858,Cancelado,53,F,4,Ensino Superior,Casado,Não informado,Blue,49,5,5,4,10533.0,330,10203.0,0.823,2585,48,0.714,0.031
+712144158,Cancelado,53,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,48,6,6,3,2370.0,1166,1204.0,0.562,2164,45,0.607,0.492
+824560758,Cancelado,35,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,31,1,3,4,1678.0,0,1678.0,0.676,2475,61,0.694,0.0
+757710783,Cancelado,36,F,1,Ensino Superior,Casado,Less than $40K,Blue,29,4,2,3,1493.0,0,1493.0,0.721,2516,63,0.575,0.0
+710481333,Cancelado,50,F,4,Ensino Médio,Casado,Less than $40K,Blue,36,5,3,5,2690.0,1614,1076.0,0.513,2272,57,0.541,0.6
+711683358,Cancelado,46,F,3,Ensino Médio,Não informado,Less than $40K,Blue,41,2,3,4,3313.0,0,3313.0,0.561,2135,44,0.419,0.0
+779859558,Cancelado,54,F,3,Ensino Médio,Casado,Less than $40K,Blue,38,2,2,4,2452.0,1012,1440.0,0.46,2398,29,0.318,0.413
+780670083,Cancelado,39,F,2,Não informado,Não informado,$40K - $60K,Blue,28,1,2,3,4363.0,0,4363.0,0.714,2596,48,0.846,0.0
+712790358,Cancelado,39,F,3,Sem ensino formal,Casado,Não informado,Blue,30,6,3,4,3023.0,1348,1675.0,0.358,2219,44,0.63,0.446
+713931258,Cancelado,56,F,3,Ensino Superior,Casado,Less than $40K,Blue,45,2,3,4,1438.3,0,1438.3,0.315,1988,42,0.355,0.0
+708190158,Cancelado,38,F,3,Ensino Médio,Solteiro,Less than $40K,Blue,26,2,3,0,2920.0,2426,494.0,0.983,2750,41,0.367,0.831
+784895358,Cancelado,49,F,1,Ensino Superior,Casado,Less than $40K,Blue,43,5,3,3,1938.0,0,1938.0,0.612,2870,49,0.75,0.0
+772271508,Cancelado,46,F,3,Sem ensino formal,Solteiro,Não informado,Blue,35,2,3,3,1706.0,0,1706.0,0.726,2320,42,0.448,0.0
+711412533,Cancelado,40,F,3,Ensino Médio,Solteiro,Less than $40K,Blue,35,6,3,5,5492.0,1573,3919.0,0.636,2416,45,0.667,0.286
+778191933,Cancelado,45,M,3,Sem ensino formal,Solteiro,$120K +,Blue,35,2,3,5,7135.0,2517,4618.0,0.631,2305,42,0.448,0.353
+718152333,Cancelado,41,F,3,Doutorado,Solteiro,Não informado,Blue,36,2,3,6,2246.0,0,2246.0,0.725,3607,51,0.821,0.0
+785285883,Cancelado,49,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,43,6,3,4,1675.0,0,1675.0,0.76,2622,53,0.71,0.0
+711298458,Cancelado,39,F,3,Não informado,Casado,Less than $40K,Blue,26,5,2,5,2190.0,0,2190.0,0.691,2338,40,0.6,0.0
+715773783,Cancelado,44,F,2,Ensino Superior,Solteiro,$40K - $60K,Blue,35,2,3,4,4196.0,561,3635.0,0.741,2558,38,0.652,0.134
+712747758,Cancelado,50,F,4,Sem ensino formal,Solteiro,Less than $40K,Blue,36,2,2,3,2477.0,0,2477.0,0.445,2037,43,0.387,0.0
+750995508,Cancelado,41,M,3,Não informado,Solteiro,$60K - $80K,Blue,32,1,3,3,4697.0,1046,3651.0,0.313,1679,29,0.318,0.223
+718437033,Cancelado,46,M,2,Sem ensino formal,Não informado,$60K - $80K,Blue,30,4,3,2,1438.3,681,757.3,0.731,2527,38,0.583,0.473
+709222008,Cancelado,41,M,3,Não informado,Solteiro,$80K - $120K,Blue,32,1,3,4,4742.0,2221,2521.0,0.464,2422,41,0.464,0.468
+718742808,Cancelado,55,F,1,Ensino Médio,Casado,$40K - $60K,Blue,46,2,4,3,4629.0,710,3919.0,0.788,2877,49,0.581,0.153
+721426383,Cancelado,36,F,3,Não informado,Solteiro,Less than $40K,Blue,36,4,3,0,1558.0,261,1297.0,0.775,2424,40,0.6,0.168
+721041483,Cancelado,45,M,4,Doutorado,Casado,$60K - $80K,Blue,37,1,2,2,13093.0,2517,10576.0,0.426,2032,39,0.444,0.192
+708416433,Cancelado,41,F,1,Ensino Médio,Solteiro,Less than $40K,Blue,36,4,3,2,2372.0,0,2372.0,0.597,2499,41,0.464,0.0
+779183958,Cancelado,45,F,2,Ensino Superior,Solteiro,Less than $40K,Blue,33,1,3,4,1492.0,0,1492.0,0.502,2469,38,0.267,0.0
+711666708,Cancelado,52,F,2,Ensino Médio,Casado,Não informado,Blue,39,1,3,4,2233.0,1790,443.0,0.798,2888,50,0.562,0.802
+819634233,Cancelado,46,F,2,Ensino Superior,Não informado,Less than $40K,Blue,40,5,2,2,6568.0,0,6568.0,0.101,1507,33,0.222,0.0
+719868183,Cancelado,42,F,3,Ensino Médio,Casado,$40K - $60K,Blue,30,5,3,2,1456.0,0,1456.0,0.694,2843,42,0.5,0.0
+767404083,Cancelado,52,M,2,Ensino Superior,Solteiro,$60K - $80K,Blue,45,2,3,3,3460.0,0,3460.0,0.466,2355,47,0.621,0.0
+772127508,Cancelado,31,F,1,Sem ensino formal,Casado,Less than $40K,Blue,20,6,2,2,1438.3,0,1438.3,0.706,2614,49,0.531,0.0
+796083783,Cancelado,55,F,2,Ensino Superior Incompleto,Solteiro,Não informado,Blue,49,1,0,6,1438.3,0,1438.3,0.608,2278,57,0.727,0.0
+778441533,Cancelado,45,F,4,Ensino Médio,Solteiro,Não informado,Blue,26,6,2,2,4549.0,1631,2918.0,0.779,2240,34,0.478,0.359
+712683633,Cancelado,32,F,0,Não informado,Casado,Less than $40K,Blue,36,5,3,3,1438.3,0,1438.3,0.569,2464,37,0.321,0.0
+708885558,Cancelado,56,F,1,Ensino Médio,Solteiro,Less than $40K,Blue,48,1,5,2,3556.0,0,3556.0,0.596,2220,45,0.731,0.0
+719150658,Cancelado,51,F,2,Ensino Superior,Casado,Não informado,Blue,34,2,3,2,7551.0,0,7551.0,0.894,2977,46,0.394,0.0
+716354883,Cancelado,59,F,0,Ensino Superior,Não informado,Não informado,Blue,49,2,3,2,9076.0,0,9076.0,0.899,3048,53,0.656,0.0
+720150858,Cancelado,34,M,2,Ensino Médio,Casado,$80K - $120K,Blue,25,6,2,0,1439.0,0,1439.0,0.89,2932,44,0.913,0.0
+711092658,Cancelado,39,F,3,Ensino Superior,Casado,Não informado,Blue,26,2,2,3,4376.0,855,3521.0,0.839,2862,52,0.733,0.195
+779247483,Cancelado,46,F,1,Sem ensino formal,Não informado,Não informado,Blue,28,5,2,6,2069.0,0,2069.0,0.656,2754,55,0.667,0.0
+772306383,Cancelado,57,F,3,Não informado,Não informado,Less than $40K,Blue,43,5,3,2,1462.0,0,1462.0,0.602,2299,42,0.312,0.0
+719759733,Cancelado,59,F,0,Não informado,Solteiro,$40K - $60K,Blue,52,2,4,3,1852.0,0,1852.0,0.902,2851,49,0.75,0.0
+822170733,Cancelado,45,F,4,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,41,6,3,2,3785.0,2517,1268.0,0.574,2401,54,0.742,0.665
+719299533,Cancelado,55,F,1,Não informado,Não informado,Less than $40K,Blue,36,2,3,2,3626.0,795,2831.0,0.896,2954,42,0.556,0.219
+716688183,Cancelado,51,F,1,Ensino Médio,Casado,Less than $40K,Blue,43,4,3,3,1665.0,1521,144.0,0.874,2878,45,0.452,0.914
+741517458,Cancelado,49,F,4,Ensino Superior,Casado,Less than $40K,Blue,42,2,4,3,2575.0,2517,58.0,0.31,1874,40,0.739,0.977
+772286658,Cancelado,63,M,1,Ensino Superior,Solteiro,$60K - $80K,Blue,52,6,4,3,14324.0,2507,11817.0,0.433,2083,56,0.647,0.175
+771045708,Cancelado,41,F,5,Ensino Superior,Casado,Less than $40K,Blue,28,2,3,3,1504.0,970,534.0,0.864,2801,51,1217.0,0.645
+720460083,Cancelado,45,F,4,Não informado,Solteiro,Não informado,Gold,27,1,2,3,34516.0,0,34516.0,0.331,2198,42,0.355,0.0
+717874533,Cancelado,46,M,2,Ensino Médio,Solteiro,$40K - $60K,Blue,36,5,2,2,6362.0,0,6362.0,0.596,1968,51,0.759,0.0
+712136058,Cancelado,54,F,2,Ensino Superior Incompleto,Solteiro,Não informado,Blue,36,1,3,3,8827.0,0,8827.0,0.782,2643,50,0.515,0.0
+714276408,Cancelado,52,F,3,Sem ensino formal,Solteiro,$40K - $60K,Blue,36,2,3,3,1915.0,1445,470.0,0.374,2264,39,0.56,0.755
+713555133,Cancelado,56,F,3,Ensino Médio,Não informado,Less than $40K,Blue,44,4,3,2,1667.0,595,1072.0,0.63,2424,40,0.481,0.357
+711232608,Cancelado,47,F,5,Ensino Médio,Solteiro,Less than $40K,Blue,36,2,3,2,1636.0,0,1636.0,0.694,2235,35,0.591,0.0
+719590458,Cancelado,44,F,4,Ensino Superior,Casado,Less than $40K,Blue,36,6,3,3,1905.0,0,1905.0,0.845,3120,46,0.586,0.0
+807379833,Cancelado,48,M,3,Ensino Superior,Divorciado,$40K - $60K,Blue,43,2,3,3,9104.0,145,8959.0,0.765,2563,34,0.417,0.016
+778860783,Cancelado,57,M,2,Não informado,Divorciado,$120K +,Blue,38,1,2,4,24379.0,1116,23263.0,0.62,2836,41,0.281,0.046
+780008358,Cancelado,59,M,0,Sem ensino formal,Não informado,$60K - $80K,Blue,48,2,6,2,13172.0,0,13172.0,0.876,2598,47,0.621,0.0
+721274208,Cancelado,41,F,2,Ensino Médio,Solteiro,Less than $40K,Blue,36,4,3,3,2201.0,2104,97.0,0.648,2408,38,0.583,0.956
+714076683,Cancelado,29,F,0,Ensino Superior Incompleto,Casado,Less than $40K,Blue,19,2,1,2,3261.0,2517,744.0,0.636,2461,54,0.742,0.772
+812218908,Cancelado,46,F,2,Não informado,Casado,Less than $40K,Blue,36,2,3,2,4065.0,2517,1548.0,0.957,2899,51,0.821,0.619
+787482033,Cancelado,60,M,1,Ensino Médio,Divorciado,$80K - $120K,Blue,48,1,5,3,28930.0,0,28930.0,0.645,2251,27,0.227,0.0
+813810333,Cancelado,50,M,3,Post-Ensino Superior,Casado,$60K - $80K,Blue,45,6,4,3,2049.0,0,2049.0,0.974,2703,54,1.0,0.0
+802668333,Cancelado,49,M,2,Ensino Superior,Solteiro,$80K - $120K,Blue,43,2,3,3,2384.0,1919,465.0,0.5,3512,50,0.471,0.805
+710061783,Cancelado,49,M,1,Ensino Superior,Casado,$40K - $60K,Blue,40,6,1,4,14973.0,0,14973.0,0.895,4517,59,0.439,0.0
+789312033,Cancelado,48,F,4,Post-Ensino Superior,Solteiro,Less than $40K,Blue,38,3,3,3,3874.0,460,3414.0,1023.0,4921,51,0.645,0.119
+713425383,Cancelado,59,F,1,Ensino Médio,Solteiro,Less than $40K,Blue,46,2,3,2,7484.0,1939,5545.0,0.994,4923,56,0.333,0.259
+770842833,Cancelado,49,F,3,Ensino Médio,Casado,Não informado,Silver,36,2,3,3,34516.0,1273,33243.0,0.977,4777,51,0.457,0.037
+809464608,Cancelado,47,F,3,Ensino Médio,Casado,Não informado,Silver,31,3,3,2,34516.0,2517,31999.0,0.618,2691,42,0.5,0.073
+712925808,Cancelado,51,F,1,Não informado,Casado,$40K - $60K,Blue,36,2,3,2,2710.0,0,2710.0,0.999,4724,60,0.395,0.0
+708419733,Cancelado,47,M,3,Ensino Superior Incompleto,Solteiro,$60K - $80K,Blue,39,5,3,2,22599.0,0,22599.0,1039.0,4739,55,0.486,0.0
+801380808,Cancelado,44,M,2,Doutorado,Casado,$80K - $120K,Blue,38,1,2,1,25894.0,2517,23377.0,1046.0,4847,49,0.815,0.097
+716329383,Cancelado,46,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,36,4,2,3,3138.0,986,2152.0,1002.0,4724,56,0.806,0.314
+715327683,Cancelado,45,F,4,Post-Ensino Superior,Solteiro,Less than $40K,Blue,36,1,3,3,4477.0,2517,1960.0,1022.0,4996,55,0.486,0.562
+718958583,Cancelado,44,M,4,Post-Ensino Superior,Solteiro,$80K - $120K,Blue,36,5,3,2,2367.0,1606,761.0,0.956,4506,59,0.639,0.678
+778863258,Cancelado,46,F,4,Não informado,Casado,Não informado,Blue,27,1,2,3,6030.0,0,6030.0,1031.0,4983,62,0.442,0.0
+712075083,Cancelado,50,M,4,Ensino Médio,Solteiro,$120K +,Blue,41,4,3,3,6982.0,0,6982.0,1018.0,4830,50,0.724,0.0
+720903258,Cancelado,48,M,3,Não informado,Não informado,$60K - $80K,Blue,28,2,2,1,9405.0,0,9405.0,1033.0,4801,47,0.382,0.0
+811700058,Cancelado,41,M,2,Ensino Superior,Solteiro,$60K - $80K,Gold,36,2,3,3,34516.0,687,33829.0,1015.0,4822,57,0.295,0.02
+720164358,Cancelado,53,F,4,Ensino Superior,Solteiro,$40K - $60K,Blue,43,1,3,2,6058.0,0,6058.0,0.997,4754,60,0.463,0.0
+711325308,Cancelado,46,M,3,Não informado,Solteiro,$80K - $120K,Blue,34,4,3,3,9959.0,0,9959.0,1049.0,4859,64,0.524,0.0
+709893858,Cancelado,43,M,3,Post-Ensino Superior,Casado,$40K - $60K,Blue,36,6,2,2,9422.0,2108,7314.0,0.891,4633,58,0.611,0.224
+711854808,Cancelado,41,M,3,Ensino Médio,Casado,$120K +,Blue,32,2,2,1,34516.0,0,34516.0,0.965,4734,57,0.541,0.0
+720891633,Cancelado,53,F,2,Ensino Médio,Solteiro,Less than $40K,Blue,46,6,1,2,3199.0,0,3199.0,1047.0,4805,59,0.639,0.0
+769152783,Cancelado,60,F,2,Ensino Médio,Solteiro,Less than $40K,Blue,54,1,6,2,8141.0,1811,6330.0,1043.0,5043,53,0.432,0.222
+779315508,Cancelado,43,M,4,Post-Ensino Superior,Solteiro,$40K - $60K,Blue,25,1,2,2,9043.0,1974,7069.0,1027.0,4638,48,0.655,0.218
+789560433,Cancelado,49,M,3,Post-Ensino Superior,Solteiro,$60K - $80K,Blue,42,2,4,2,14895.0,0,14895.0,1043.0,5147,53,0.559,0.0
+771097683,Cancelado,43,M,2,Ensino Médio,Solteiro,$120K +,Blue,30,1,2,2,10896.0,2517,8379.0,1028.0,4935,58,0.487,0.231
+711736083,Cancelado,47,F,4,Ensino Superior Incompleto,Divorciado,Não informado,Blue,36,4,3,3,6769.0,274,6495.0,0.998,4885,54,0.35,0.04
+718304583,Cancelado,43,M,2,Não informado,Casado,$60K - $80K,Gold,33,1,3,2,34516.0,1085,33431.0,1047.0,4805,54,0.588,0.031
+780450708,Cancelado,58,M,1,Ensino Superior Incompleto,Solteiro,$120K +,Silver,45,1,3,2,34516.0,0,34516.0,0.964,4864,48,0.548,0.0
+714342033,Cancelado,52,M,1,Ensino Médio,Casado,$120K +,Blue,34,2,3,1,34516.0,0,34516.0,1038.0,4863,56,0.474,0.0
+788943333,Cancelado,51,M,3,Post-Ensino Superior,Casado,$80K - $120K,Silver,37,6,2,2,34516.0,989,33527.0,1021.0,4810,55,0.341,0.029
+714077583,Cancelado,43,M,3,Post-Ensino Superior,Casado,$40K - $60K,Platinum,31,2,3,4,23981.0,593,23388.0,0.987,4758,65,0.512,0.025
+720939933,Cancelado,46,F,4,Não informado,Solteiro,Less than $40K,Blue,33,5,3,5,2879.0,0,2879.0,1031.0,4684,56,0.556,0.0
+716212383,Cancelado,38,M,1,Ensino Médio,Solteiro,$120K +,Blue,30,5,3,3,10874.0,2415,8459.0,0.933,4619,59,0.372,0.222
+757667133,Cancelado,54,M,2,Ensino Superior Incompleto,Solteiro,$80K - $120K,Blue,47,2,2,2,13769.0,0,13769.0,1058.0,4738,53,0.395,0.0
+794571108,Cancelado,39,M,2,Ensino Superior,Divorciado,$40K - $60K,Silver,23,5,2,3,17894.0,304,17590.0,0.965,4691,63,0.465,0.017
+714938733,Cancelado,48,M,1,Post-Ensino Superior,Solteiro,$80K - $120K,Blue,38,4,2,2,13174.0,0,13174.0,0.955,4890,49,0.485,0.0
+716199408,Cancelado,52,F,2,Ensino Superior,Solteiro,Não informado,Blue,41,2,3,3,3608.0,2517,1091.0,1057.0,4907,53,0.559,0.698
+790051758,Cancelado,50,M,2,Ensino Superior,Solteiro,$120K +,Blue,42,2,1,2,31782.0,0,31782.0,1056.0,4800,53,0.395,0.0
+807393558,Cancelado,51,M,4,Não informado,Solteiro,$120K +,Silver,46,2,3,3,34516.0,1279,33237.0,1.02,4615,49,0.581,0.037
+711167808,Cancelado,40,M,4,Não informado,Solteiro,$60K - $80K,Blue,30,4,3,6,18975.0,0,18975.0,1028.0,4803,65,0.548,0.0
+717579258,Cancelado,36,M,1,Não informado,Não informado,$40K - $60K,Blue,36,2,3,3,6893.0,1462,5431.0,1031.0,4782,50,0.351,0.212
+716609433,Cancelado,55,M,2,Ensino Médio,Divorciado,$120K +,Blue,46,5,3,2,16828.0,2517,14311.0,1059.0,4939,63,0.465,0.15
+720962208,Cancelado,42,M,2,Post-Ensino Superior,Casado,$60K - $80K,Blue,27,2,2,2,2476.0,2250,226.0,0.969,4659,48,0.6,0.909
+793608258,Cancelado,54,F,3,Ensino Superior,Solteiro,Less than $40K,Silver,48,1,5,2,13432.0,0,13432.0,0.918,4909,50,0.316,0.0
+771411408,Cancelado,50,M,1,Post-Ensino Superior,Não informado,$80K - $120K,Blue,38,2,3,4,2673.0,0,2673.0,1043.0,4929,54,0.459,0.0
+720006333,Cancelado,48,M,2,Ensino Superior Incompleto,Divorciado,$80K - $120K,Blue,40,4,3,3,4479.0,0,4479.0,0.89,4520,63,0.37,0.0
+791730183,Cancelado,38,F,2,Ensino Superior Incompleto,Não informado,Less than $40K,Blue,32,2,2,6,7385.0,1817,5568.0,1029.0,5070,50,0.389,0.246
+712582983,Cancelado,47,F,3,Ensino Superior,Casado,Less than $40K,Silver,36,4,3,1,14057.0,1381,12676.0,1039.0,4729,54,0.742,0.098
+713003358,Cancelado,40,M,3,Ensino Superior,Solteiro,$80K - $120K,Blue,30,2,2,2,29338.0,159,29179.0,1017.0,4983,40,0.379,0.005
+718259433,Cancelado,45,F,3,Ensino Médio,Casado,Não informado,Blue,40,1,4,2,8383.0,0,8383.0,1036.0,5460,63,0.853,0.0
+720655833,Cancelado,48,F,4,Ensino Médio,Casado,Less than $40K,Blue,30,2,3,2,2913.0,0,2913.0,1058.0,4955,56,0.806,0.0
+711742758,Cancelado,43,F,5,Ensino Superior Incompleto,Solteiro,$40K - $60K,Blue,32,2,3,1,11508.0,0,11508.0,1005.0,5242,74,0.574,0.0
+712157958,Cancelado,44,M,3,Ensino Médio,Casado,$80K - $120K,Blue,36,1,3,2,10908.0,0,10908.0,0.983,4883,42,0.5,0.0
+711332883,Cancelado,62,M,1,Ensino Médio,Solteiro,$60K - $80K,Blue,46,2,3,3,7547.0,2477,5070.0,1021.0,5294,73,0.698,0.328
+717696333,Cancelado,44,M,4,Não informado,Casado,$120K +,Blue,36,4,3,3,34516.0,0,34516.0,1043.0,5425,60,0.875,0.0
+718353633,Cancelado,50,M,1,Post-Ensino Superior,Não informado,$80K - $120K,Gold,36,2,3,2,34516.0,0,34516.0,1032.0,5547,75,0.744,0.0
+789412458,Cancelado,44,M,2,Post-Ensino Superior,Casado,$60K - $80K,Blue,34,6,3,4,23026.0,2517,20509.0,1032.0,4909,52,0.625,0.109
+711249858,Cancelado,49,M,4,Não informado,Casado,$80K - $120K,Blue,38,2,3,2,29890.0,0,29890.0,0.64,3315,47,0.382,0.0
+719071158,Cancelado,54,F,0,Ensino Superior,Solteiro,Não informado,Platinum,38,2,2,2,34516.0,0,34516.0,0.695,3901,54,0.421,0.0
+719714658,Cancelado,61,M,0,Post-Ensino Superior,Solteiro,$60K - $80K,Blue,43,5,3,2,12218.0,0,12218.0,1005.0,5272,62,0.59,0.0
+716858433,Cancelado,43,F,4,Ensino Superior,Solteiro,Less than $40K,Blue,32,4,3,1,3015.0,0,3015.0,1058.0,5372,75,0.596,0.0
+714052158,Cancelado,49,M,2,Ensino Médio,Casado,$120K +,Blue,39,2,3,2,11714.0,949,10765.0,1036.0,5366,68,0.659,0.081
+720178158,Cancelado,46,F,4,Ensino Médio,Não informado,Less than $40K,Blue,37,5,3,3,7552.0,0,7552.0,1047.0,5537,63,0.853,0.0
+710958933,Cancelado,43,M,3,Ensino Superior,Solteiro,$40K - $60K,Blue,35,5,3,2,6080.0,787,5293.0,0.975,4866,56,0.647,0.129
+720698883,Cancelado,51,M,1,Ensino Médio,Solteiro,$80K - $120K,Blue,38,2,3,3,28605.0,0,28605.0,1054.0,5524,67,0.718,0.0
+780384483,Cancelado,49,M,4,Não informado,Não informado,$80K - $120K,Blue,39,2,2,2,2886.0,925,1961.0,0.946,5481,58,0.758,0.321
+714190983,Cancelado,51,F,2,Ensino Superior,Solteiro,Não informado,Platinum,32,2,3,3,34516.0,531,33985.0,0.98,5418,65,0.711,0.015
+742865883,Cancelado,46,F,3,Não informado,Solteiro,$40K - $60K,Blue,39,4,3,3,9110.0,2517,6593.0,1052.0,5290,69,0.816,0.276
+755212608,Cancelado,50,M,2,Não informado,Casado,$40K - $60K,Blue,43,4,3,3,13067.0,0,13067.0,1061.0,5468,71,0.775,0.0
+716486508,Cancelado,45,F,3,Ensino Médio,Casado,$40K - $60K,Blue,37,6,2,2,3399.0,0,3399.0,0.991,5529,78,0.66,0.0
+798553158,Cancelado,62,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,56,1,2,1,3109.0,0,3109.0,1054.0,5470,72,0.674,0.0
+711613308,Cancelado,58,M,2,Não informado,Solteiro,$60K - $80K,Blue,48,2,1,2,2236.0,710,1526.0,0.434,2562,38,0.462,0.318
+718558758,Cancelado,34,M,1,Não informado,Solteiro,$80K - $120K,Blue,22,1,2,2,3711.0,1413,2298.0,0.175,3922,51,0.645,0.381
+718504233,Cancelado,43,F,4,Sem ensino formal,Casado,Less than $40K,Blue,30,2,2,3,2082.0,1794,288.0,0.735,3423,48,0.92,0.862
+813804783,Cancelado,41,F,1,Ensino Médio,Solteiro,$40K - $60K,Blue,36,4,3,3,2667.0,0,2667.0,0.494,4399,54,0.862,0.0
+715649358,Cancelado,39,M,2,Ensino Superior Incompleto,Casado,$60K - $80K,Blue,26,1,2,2,3879.0,0,3879.0,0.928,7786,81,0.929,0.0
+718732833,Cancelado,56,F,1,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,48,4,2,2,2783.0,1763,1020.0,0.344,3967,42,0.4,0.633
+803216433,Cancelado,43,F,5,Ensino Superior,Casado,Less than $40K,Silver,33,6,3,2,14806.0,2517,12289.0,0.558,4804,57,0.462,0.17
+820666083,Cancelado,41,M,2,Ensino Superior,Solteiro,$120K +,Blue,37,5,3,4,27742.0,2517,25225.0,0.835,8646,85,0.977,0.091
+712044558,Cancelado,51,F,1,Sem ensino formal,Solteiro,Less than $40K,Silver,41,6,2,3,14563.0,1309,13254.0,0.708,6408,70,0.944,0.09
+713131158,Cancelado,58,M,2,Sem ensino formal,Solteiro,$80K - $120K,Blue,46,1,3,1,10286.0,0,10286.0,0.908,8199,59,0.903,0.0
+718113633,Cancelado,41,M,3,Sem ensino formal,Casado,$120K +,Blue,36,1,2,3,34516.0,0,34516.0,0.377,5603,56,0.244,0.0
+708229308,Cancelado,49,F,2,Não informado,Casado,Less than $40K,Blue,41,5,2,2,3243.0,0,3243.0,0.685,6059,71,0.821,0.0
+710064033,Cancelado,45,M,3,Sem ensino formal,Casado,$40K - $60K,Blue,28,2,2,5,4572.0,0,4572.0,0.48,3555,42,0.4,0.0
+709319658,Cancelado,48,F,4,Ensino Superior,Solteiro,Less than $40K,Platinum,37,5,3,4,15987.0,0,15987.0,0.827,7681,71,0.69,0.0
+709764483,Cancelado,61,M,1,Ensino Superior,Não informado,$60K - $80K,Blue,53,1,1,2,6157.0,581,5576.0,0.583,4041,65,0.548,0.094
+812247033,Cancelado,51,F,3,Sem ensino formal,Casado,Less than $40K,Blue,46,5,5,2,3536.0,0,3536.0,0.542,3281,39,0.393,0.0
+717580458,Cancelado,43,M,4,Sem ensino formal,Divorciado,$80K - $120K,Blue,36,2,3,2,19333.0,0,19333.0,0.969,7847,63,0.75,0.0
+715610733,Cancelado,60,M,1,Sem ensino formal,Casado,$40K - $60K,Blue,47,6,1,5,3735.0,1175,2560.0,1036.0,8193,66,0.65,0.315
+710161083,Cancelado,62,F,0,Sem ensino formal,Solteiro,Less than $40K,Blue,36,6,3,3,5780.0,0,5780.0,0.394,6613,40,0.429,0.0
+715799808,Cancelado,52,M,0,Ensino Médio,Solteiro,$60K - $80K,Blue,39,4,3,2,3764.0,0,3764.0,0.776,6574,69,0.865,0.0
+711838008,Cancelado,37,M,3,Ensino Superior,Casado,$60K - $80K,Blue,28,2,3,2,6407.0,478,5929.0,1022.0,9322,77,0.833,0.075
+711826983,Cancelado,47,F,3,Não informado,Casado,$40K - $60K,Blue,36,4,3,6,5822.0,0,5822.0,0.655,3240,38,0.652,0.0
+708369633,Cancelado,34,F,3,Ensino Superior,Casado,Less than $40K,Gold,36,6,3,2,15487.0,1847,13640.0,0.943,7031,67,0.811,0.119
+714959358,Cancelado,50,M,3,Ensino Médio,Casado,$80K - $120K,Silver,36,5,3,3,34516.0,2292,32224.0,0.876,8045,71,0.868,0.066
+719593608,Cancelado,56,M,1,Sem ensino formal,Casado,$80K - $120K,Blue,36,6,2,1,33870.0,0,33870.0,0.872,7661,61,0.525,0.0
+715830558,Cancelado,50,M,2,Sem ensino formal,Não informado,$120K +,Blue,38,6,2,1,34516.0,397,34119.0,0.914,7454,81,0.841,0.012
+714941358,Cancelado,53,F,4,Ensino Superior,Casado,Less than $40K,Blue,36,2,3,6,4005.0,0,4005.0,0.896,7022,75,0.667,0.0
+716088783,Cancelado,60,M,0,Ensino Superior Incompleto,Casado,$80K - $120K,Blue,50,1,4,2,29239.0,0,29239.0,1057.0,8169,65,0.585,0.0
+718458858,Cancelado,41,M,4,Ensino Superior,Solteiro,$80K - $120K,Silver,29,2,3,6,34516.0,0,34516.0,0.434,3526,53,0.828,0.0
+715630983,Cancelado,31,F,0,Ensino Superior,Solteiro,Less than $40K,Blue,21,4,2,3,4598.0,0,4598.0,0.439,6317,77,0.833,0.0
+712768983,Cancelado,51,M,4,Ensino Superior,Solteiro,$80K - $120K,Silver,42,6,4,2,34516.0,230,34286.0,1004.0,8629,65,0.548,0.007
+716881683,Cancelado,45,M,5,Sem ensino formal,Casado,$80K - $120K,Blue,34,2,3,3,3435.0,2517,918.0,0.332,5567,51,0.545,0.733
+717529233,Cancelado,40,F,3,Ensino Superior,Solteiro,Less than $40K,Blue,30,4,3,2,3319.0,0,3319.0,0.262,4840,44,0.375,0.0
+711794358,Cancelado,61,M,0,Ensino Superior Incompleto,Solteiro,$80K - $120K,Blue,50,2,4,3,21398.0,0,21398.0,0.695,3119,53,0.767,0.0
+719683158,Cancelado,56,F,2,Não informado,Casado,Less than $40K,Blue,48,2,4,2,4746.0,0,4746.0,0.862,7154,66,1062.0,0.0
+716260833,Cancelado,56,F,5,Não informado,Solteiro,Less than $40K,Blue,36,6,3,5,4668.0,2517,2151.0,1062.0,8331,63,0.853,0.539
+719694408,Cancelado,30,F,1,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,36,4,3,6,4541.0,0,4541.0,0.976,7996,80,0.778,0.0
+718045008,Cancelado,31,M,0,Post-Ensino Superior,Casado,Less than $40K,Blue,21,1,2,2,3768.0,0,3768.0,0.799,6639,71,1152.0,0.0
+811076883,Cancelado,45,M,3,Ensino Superior,Casado,$40K - $60K,Blue,40,1,4,3,7979.0,0,7979.0,0.465,5056,63,0.853,0.0
+716863458,Cancelado,44,M,2,Sem ensino formal,Solteiro,$80K - $120K,Silver,36,2,3,3,34516.0,569,33947.0,0.919,8570,68,0.789,0.016
+766821033,Cancelado,61,M,0,Não informado,Solteiro,$120K +,Blue,46,6,3,3,4650.0,1162,3488.0,0.82,7976,74,1056.0,0.25
+714615258,Cancelado,32,M,1,Ensino Médio,Solteiro,$40K - $60K,Blue,36,6,3,2,4819.0,2134,2685.0,0.834,9330,64,0.882,0.443
+710455608,Cancelado,40,M,3,Ensino Médio,Solteiro,$80K - $120K,Blue,36,2,3,2,4620.0,0,4620.0,0.654,6644,61,0.694,0.0
+713514633,Cancelado,59,M,2,Ensino Superior,Solteiro,$60K - $80K,Blue,50,2,4,2,6224.0,0,6224.0,0.801,8291,69,1029.0,0.0
+717571683,Cancelado,47,F,4,Sem ensino formal,Casado,$40K - $60K,Gold,34,2,3,3,23981.0,0,23981.0,0.196,4536,61,0.605,0.0
+712021233,Cancelado,33,M,3,Ensino Superior,Casado,$60K - $80K,Blue,15,5,1,3,23399.0,0,23399.0,1051.0,9356,74,0.85,0.0
+712916958,Cancelado,55,F,2,Ensino Superior,Casado,Não informado,Blue,36,5,3,2,12494.0,0,12494.0,0.576,7026,69,0.917,0.0
+716124408,Cancelado,32,M,2,Ensino Superior,Solteiro,$120K +,Gold,22,2,2,3,34516.0,1692,32824.0,0.983,7486,64,0.73,0.049
+800758233,Cancelado,30,M,0,Ensino Superior Incompleto,Solteiro,$60K - $80K,Blue,24,6,2,2,4109.0,0,4109.0,0.949,8642,77,0.481,0.0
+821241708,Cancelado,47,M,4,Não informado,Não informado,$80K - $120K,Blue,42,1,4,1,7953.0,0,7953.0,1031.0,8670,74,0.574,0.0
+716987358,Cancelado,29,M,0,Post-Ensino Superior,Divorciado,$60K - $80K,Blue,15,2,1,3,8022.0,0,8022.0,0.381,5660,59,0.735,0.0
+709259958,Cancelado,53,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,44,1,3,2,5541.0,2517,3024.0,0.879,9195,73,0.825,0.454
+709213458,Cancelado,42,M,3,Ensino Médio,Casado,$80K - $120K,Blue,36,1,3,2,22993.0,0,22993.0,1004.0,7867,75,0.786,0.0
+718252533,Cancelado,30,F,0,Ensino Superior,Divorciado,Less than $40K,Blue,18,5,1,1,4203.0,996,3207.0,0.705,7292,68,0.7,0.237
+717898758,Cancelado,55,F,2,Ensino Superior,Casado,Less than $40K,Silver,45,6,3,3,12207.0,0,12207.0,0.319,5838,74,1056.0,0.0
+770220558,Cancelado,57,M,3,Não informado,Solteiro,$60K - $80K,Blue,51,1,6,1,5859.0,0,5859.0,0.914,8004,82,0.708,0.0
+708662583,Cancelado,41,M,3,Não informado,Casado,$60K - $80K,Silver,29,1,3,4,27945.0,0,27945.0,0.902,8345,70,1059.0,0.0
+708152358,Cancelado,54,M,1,Post-Ensino Superior,Não informado,$80K - $120K,Blue,36,1,3,2,18512.0,1664,16848.0,0.889,8019,57,0.583,0.09
+709075533,Cancelado,41,M,5,Sem ensino formal,Solteiro,$80K - $120K,Blue,32,4,3,3,12094.0,0,12094.0,0.995,8607,90,0.957,0.0
+714361083,Cancelado,40,F,2,Ensino Superior Incompleto,Solteiro,Less than $40K,Blue,36,4,2,3,5989.0,0,5989.0,0.311,5843,60,0.176,0.0
+714608583,Cancelado,45,M,5,Ensino Médio,Divorciado,$120K +,Blue,36,2,3,2,5287.0,0,5287.0,0.841,8392,69,0.683,0.0
+709928358,Cancelado,40,M,3,Ensino Superior,Solteiro,$80K - $120K,Blue,20,1,2,2,32554.0,0,32554.0,0.872,8528,87,1122.0,0.0
+712265508,Cancelado,32,M,0,Post-Ensino Superior,Solteiro,$40K - $60K,Blue,14,1,1,3,4015.0,0,4015.0,1045.0,8363,65,0.806,0.0
+715051608,Cancelado,34,M,2,Ensino Médio,Solteiro,$60K - $80K,Blue,36,2,3,2,9719.0,2517,7202.0,0.906,9183,51,0.7,0.259
+717439983,Cancelado,48,M,2,Ensino Superior,Casado,$80K - $120K,Blue,28,1,3,3,14774.0,2517,12257.0,0.979,8293,63,0.703,0.17
+714391683,Cancelado,39,M,4,Não informado,Casado,$60K - $80K,Gold,36,4,3,2,34516.0,2517,31999.0,0.841,8248,66,0.65,0.073
+708841233,Cancelado,41,M,2,Ensino Superior Incompleto,Casado,$80K - $120K,Blue,33,2,3,3,14682.0,2517,12165.0,1041.0,8193,72,0.846,0.171
+713632983,Cancelado,43,M,4,Ensino Médio,Casado,$80K - $120K,Blue,35,2,3,2,10588.0,503,10085.0,0.918,7886,70,0.75,0.048
+719612583,Cancelado,52,F,4,Sem ensino formal,Divorciado,Não informado,Blue,42,4,4,1,12091.0,0,12091.0,0.898,8127,74,0.805,0.0
+718333983,Cancelado,57,M,4,Não informado,Divorciado,$120K +,Blue,36,2,2,3,13694.0,2219,11475.0,1078.0,9040,63,0.8,0.162
+717518733,Cancelado,56,F,2,Ensino Médio,Casado,Less than $40K,Blue,46,4,3,3,9463.0,764,8699.0,0.994,7106,61,0.906,0.081
+708805908,Cancelado,30,M,2,Ensino Superior,Casado,Less than $40K,Silver,18,1,1,3,10017.0,726,9291.0,0.924,9299,68,0.619,0.072
+710155158,Cancelado,37,M,2,Sem ensino formal,Não informado,$80K - $120K,Blue,18,1,1,2,31832.0,518,31314.0,0.972,10201,59,0.788,0.016
+720353808,Cancelado,34,M,3,Ensino Médio,Não informado,$80K - $120K,Silver,21,1,2,3,34516.0,0,34516.0,0.794,9177,50,1083.0,0.0
+717047583,Cancelado,47,F,3,Doutorado,Casado,Less than $40K,Blue,35,2,3,2,4779.0,2517,2262.0,0.929,8912,63,0.658,0.527
+712895733,Cancelado,40,M,4,Sem ensino formal,Solteiro,$80K - $120K,Blue,36,6,3,2,34516.0,572,33944.0,1.05,8659,81,1077.0,0.017
+719629308,Cancelado,55,F,2,Não informado,Solteiro,Não informado,Silver,37,2,2,3,34516.0,1783,32733.0,0.821,8472,80,0.739,0.052
+754443033,Cancelado,50,M,1,Ensino Superior,Solteiro,$80K - $120K,Silver,43,6,3,3,34516.0,432,34084.0,0.807,9045,72,1.0,0.013
+720748608,Cancelado,44,M,3,Ensino Superior,Divorciado,$40K - $60K,Blue,32,1,2,2,3575.0,0,3575.0,0.843,7672,66,0.737,0.0
+709823733,Cancelado,44,F,2,Ensino Superior,Não informado,$40K - $60K,Blue,34,2,3,3,5508.0,0,5508.0,0.89,7507,78,0.733,0.0
+720512433,Cancelado,56,M,1,Sem ensino formal,Solteiro,$60K - $80K,Blue,36,6,4,3,15219.0,2281,12938.0,0.832,7625,78,0.95,0.15
+710162133,Cancelado,41,M,4,Ensino Superior,Casado,$80K - $120K,Blue,36,1,3,6,4725.0,1253,3472.0,1008.0,9134,77,0.974,0.265
+710878308,Cancelado,50,F,4,Ensino Superior,Solteiro,Less than $40K,Blue,37,1,2,3,3699.0,913,2786.0,0.866,7297,71,0.69,0.247
+713390433,Cancelado,44,M,3,Ensino Superior,Não informado,$60K - $80K,Gold,29,2,3,2,34516.0,2517,31999.0,0.579,6782,67,0.763,0.073
+712010358,Cancelado,49,M,4,Ensino Superior,Solteiro,$80K - $120K,Blue,36,2,3,2,3999.0,0,3999.0,0.938,7567,76,0.652,0.0
+711432258,Cancelado,55,M,3,Ensino Superior,Solteiro,$60K - $80K,Blue,46,2,4,2,4178.0,0,4178.0,0.882,7914,54,0.862,0.0
+714294183,Cancelado,54,M,1,Ensino Superior,Divorciado,$80K - $120K,Blue,44,1,3,3,9580.0,132,9448.0,0.32,5385,51,0.308,0.014
+708354858,Cancelado,51,M,2,Não informado,Solteiro,$120K +,Blue,42,2,4,2,14938.0,0,14938.0,0.758,8192,80,0.778,0.0
+708301683,Cancelado,40,M,2,Sem ensino formal,Casado,$80K - $120K,Blue,30,6,2,3,20798.0,1059,19739.0,1049.0,8038,90,0.837,0.051
+712113558,Cancelado,45,M,2,Ensino Superior,Casado,$80K - $120K,Blue,36,4,3,3,24844.0,1273,23571.0,0.437,6549,75,0.974,0.051
+720597108,Cancelado,48,F,3,Post-Ensino Superior,Divorciado,Less than $40K,Blue,36,5,3,1,9943.0,2138,7805.0,0.949,8325,54,1.0,0.215
+719767683,Cancelado,46,M,0,Ensino Superior Incompleto,Solteiro,$80K - $120K,Blue,39,2,3,3,16983.0,0,16983.0,1061.0,8526,79,0.837,0.0
+715321008,Cancelado,39,M,2,Não informado,Casado,$120K +,Blue,36,6,3,3,34516.0,2517,31999.0,1052.0,7866,63,0.75,0.073
+780042633,Cancelado,37,F,2,Não informado,Casado,Não informado,Silver,21,2,2,2,31718.0,0,31718.0,0.91,7432,64,0.641,0.0
+713269533,Cancelado,42,M,2,Ensino Superior Incompleto,Solteiro,$80K - $120K,Blue,36,1,3,1,9959.0,2517,7442.0,0.884,8847,85,0.771,0.253
+789684258,Cancelado,57,M,2,Post-Ensino Superior,Solteiro,$80K - $120K,Silver,43,2,3,3,34516.0,1847,32669.0,0.557,7842,61,0.794,0.054
+761079783,Cancelado,40,M,3,Ensino Superior,Casado,$60K - $80K,Blue,33,5,3,6,5500.0,442,5058.0,0.609,7720,67,0.558,0.08
+787518258,Cancelado,49,M,3,Sem ensino formal,Casado,$120K +,Blue,38,2,3,3,8549.0,0,8549.0,1023.0,9192,77,0.791,0.0
+717631908,Cancelado,56,M,2,Não informado,Casado,Less than $40K,Blue,44,5,3,1,4390.0,0,4390.0,1005.0,8454,69,0.769,0.0
+769396158,Cancelado,55,M,1,Ensino Superior Incompleto,Solteiro,$80K - $120K,Blue,43,2,2,3,24884.0,0,24884.0,0.072,5107,53,0.293,0.0
+716717733,Cancelado,55,F,3,Sem ensino formal,Solteiro,Less than $40K,Blue,47,2,5,4,4841.0,859,3982.0,1003.0,8918,87,0.977,0.177
+709383933,Cancelado,31,M,2,Não informado,Não informado,$80K - $120K,Blue,18,2,1,3,4246.0,2517,1729.0,0.951,8102,66,0.886,0.593
+715113933,Cancelado,54,M,1,Não informado,Solteiro,$80K - $120K,Blue,36,2,3,2,11077.0,573,10504.0,0.973,8165,87,0.776,0.052
+715714458,Cancelado,48,M,5,Ensino Superior,Solteiro,$40K - $60K,Blue,38,2,3,3,4446.0,0,4446.0,0.963,8753,76,0.949,0.0
+715076358,Cancelado,57,M,1,Post-Ensino Superior,Não informado,$80K - $120K,Blue,36,4,3,3,23714.0,0,23714.0,0.981,8463,62,0.824,0.0
+769667583,Cancelado,34,M,3,Post-Ensino Superior,Solteiro,$40K - $60K,Blue,28,2,3,2,3744.0,0,3744.0,0.796,8202,69,0.769,0.0
+715645908,Cancelado,59,M,0,Ensino Médio,Solteiro,$80K - $120K,Gold,48,5,2,6,34516.0,0,34516.0,0.969,8480,71,0.821,0.0
+778643733,Cancelado,48,F,1,Sem ensino formal,Solteiro,$40K - $60K,Gold,28,3,2,1,23981.0,1454,22527.0,0.925,9140,64,0.684,0.061
+710980383,Cancelado,53,M,3,Ensino Médio,Solteiro,$80K - $120K,Silver,33,2,2,3,34516.0,0,34516.0,0.534,6361,74,1114.0,0.0
+709971708,Cancelado,51,F,1,Ensino Médio,Solteiro,Não informado,Blue,41,3,3,2,9701.0,0,9701.0,1024.0,9404,62,0.824,0.0
+710153583,Cancelado,30,F,0,Sem ensino formal,Casado,Less than $40K,Blue,13,3,1,3,6075.0,0,6075.0,0.923,9242,63,0.909,0.0
+720565458,Cancelado,43,M,2,Post-Ensino Superior,Solteiro,$60K - $80K,Blue,36,2,3,3,17306.0,0,17306.0,0.4,6205,65,0.806,0.0
+715496058,Cancelado,41,F,4,Sem ensino formal,Solteiro,Less than $40K,Gold,36,3,3,3,15987.0,0,15987.0,0.598,7832,73,0.78,0.0
+716238483,Cancelado,59,M,0,Ensino Superior Incompleto,Casado,$80K - $120K,Blue,50,3,2,3,12918.0,2352,10566.0,1008.0,9138,76,0.9,0.182
+718297683,Cancelado,59,F,1,Ensino Médio,Solteiro,Less than $40K,Blue,50,1,0,3,4085.0,0,4085.0,0.787,7597,71,0.69,0.0
+719118708,Cancelado,49,F,3,Não informado,Solteiro,Less than $40K,Blue,37,2,2,2,5855.0,0,5855.0,0.962,9202,80,0.86,0.0
+779333883,Cancelado,51,F,3,Sem ensino formal,Casado,Less than $40K,Blue,33,3,3,3,7428.0,0,7428.0,0.873,8078,62,0.722,0.0
+826245858,Cancelado,50,M,2,Ensino Superior,Solteiro,$80K - $120K,Silver,40,3,4,6,34516.0,0,34516.0,0.801,7661,79,1079.0,0.0
+789817833,Cancelado,44,F,5,Post-Ensino Superior,Não informado,Less than $40K,Blue,33,3,3,2,9073.0,2466,6607.0,0.446,6793,60,1069.0,0.272
+717060858,Cancelado,31,M,0,Ensino Superior,Casado,Less than $40K,Blue,36,3,2,3,6911.0,2517,4394.0,0.934,8123,71,0.732,0.364
+757291008,Cancelado,46,M,4,Não informado,Casado,$80K - $120K,Blue,39,3,3,2,34516.0,289,34227.0,0.95,8964,76,1054.0,0.008
+708963258,Cancelado,46,M,3,Ensino Superior Incompleto,Casado,$60K - $80K,Blue,39,3,3,2,13344.0,1907,11437.0,0.832,8534,86,0.83,0.143
+711746133,Cancelado,50,M,1,Não informado,Solteiro,$120K +,Blue,37,4,3,2,32563.0,0,32563.0,1013.0,9220,81,0.884,0.0
+708496833,Cancelado,60,M,1,Ensino Médio,Solteiro,Less than $40K,Blue,50,4,4,5,4613.0,0,4613.0,0.978,8970,78,1294.0,0.0
+710895708,Cancelado,35,F,0,Doutorado,Casado,Less than $40K,Blue,27,2,3,2,3876.0,0,3876.0,0.848,7712,73,0.825,0.0
+719859033,Cancelado,32,M,3,Ensino Superior,Casado,$40K - $60K,Blue,20,2,2,2,3264.0,0,3264.0,0.549,6439,63,0.75,0.0
+710155983,Cancelado,52,M,1,Não informado,Solteiro,$40K - $60K,Blue,36,3,3,4,4826.0,0,4826.0,0.954,8585,62,1.0,0.0
+779571708,Cancelado,43,M,5,Ensino Superior,Casado,$60K - $80K,Blue,25,1,2,3,4259.0,0,4259.0,0.934,7993,71,0.651,0.0
+713318733,Cancelado,32,M,0,Ensino Superior Incompleto,Solteiro,$60K - $80K,Blue,24,3,2,3,4097.0,0,4097.0,0.836,8376,64,0.684,0.0
+709611183,Cancelado,41,F,3,Ensino Médio,Casado,Less than $40K,Blue,31,3,3,3,3952.0,0,3952.0,1002.0,8241,82,0.952,0.0
+712441308,Cancelado,41,F,4,Não informado,Solteiro,Não informado,Blue,25,2,2,3,29295.0,0,29295.0,1411.0,9865,65,0.711,0.0
+711684408,Cancelado,50,F,0,Ensino Superior,Casado,Less than $40K,Blue,38,2,3,1,4935.0,1574,3361.0,1.01,8527,84,0.5,0.319
+715825458,Cancelado,47,M,2,Ensino Superior,Casado,$80K - $120K,Blue,36,3,3,2,12933.0,2239,10694.0,0.445,6564,56,0.514,0.173
+711161133,Cancelado,36,F,2,Não informado,Solteiro,Less than $40K,Blue,36,2,3,3,6071.0,0,6071.0,0.912,9338,59,0.903,0.0
+713242383,Cancelado,39,M,2,Sem ensino formal,Casado,$120K +,Silver,19,2,1,2,34516.0,796,33720.0,0.841,7721,75,0.667,0.023
+717457008,Cancelado,43,M,3,Sem ensino formal,Solteiro,$40K - $60K,Blue,36,3,3,3,9267.0,0,9267.0,0.866,7991,90,1093.0,0.0
+712841883,Cancelado,50,M,3,Ensino Superior Incompleto,Solteiro,$80K - $120K,Silver,36,3,3,2,34516.0,2517,31999.0,0.735,7155,66,0.65,0.073
+719582058,Cancelado,41,M,3,Doutorado,Solteiro,$80K - $120K,Blue,29,2,2,3,24001.0,1629,22372.0,0.965,9102,75,0.974,0.068
+711096633,Cancelado,37,F,2,Sem ensino formal,Não informado,Less than $40K,Silver,29,5,2,6,12203.0,0,12203.0,0.9,8600,94,0.843,0.0
+708197358,Cancelado,57,M,2,Sem ensino formal,Não informado,$80K - $120K,Blue,48,4,1,3,30543.0,264,30279.0,0.882,7784,63,0.703,0.009
+757247808,Cancelado,42,F,3,Ensino Superior,Casado,Less than $40K,Blue,35,2,4,3,5230.0,2517,2713.0,0.937,9495,61,0.605,0.481
+710170758,Cancelado,32,M,0,Post-Ensino Superior,Casado,$60K - $80K,Blue,25,6,2,2,4469.0,2331,2138.0,1006.0,8314,67,0.763,0.522
+780511683,Cancelado,47,M,3,Ensino Superior,Solteiro,$40K - $60K,Blue,34,4,3,3,4413.0,232,4181.0,0.799,7869,76,0.767,0.053
+719847108,Cancelado,52,M,1,Não informado,Casado,$40K - $60K,Blue,36,4,3,3,8455.0,2517,5938.0,0.809,8124,73,1028.0,0.298
+708385533,Cancelado,49,F,1,Ensino Superior,Casado,Less than $40K,Silver,36,2,3,3,11059.0,0,11059.0,0.99,9524,80,0.905,0.0
+719379858,Cancelado,39,M,1,Ensino Superior,Casado,$80K - $120K,Blue,36,2,2,3,24239.0,0,24239.0,0.94,8549,73,0.78,0.0
+709657533,Cancelado,44,M,3,Ensino Médio,Não informado,$120K +,Blue,36,2,3,2,7793.0,2270,5523.0,0.945,8260,54,0.5,0.291
+712487883,Cancelado,54,M,5,Ensino Médio,Casado,$80K - $120K,Blue,48,2,1,3,7464.0,0,7464.0,0.865,9071,74,1.0,0.0
+753220383,Cancelado,29,M,0,Ensino Superior,Solteiro,$120K +,Blue,22,2,2,3,11722.0,0,11722.0,0.778,8302,78,0.902,0.0
+708340758,Cancelado,41,M,4,Ensino Médio,Casado,Less than $40K,Blue,32,2,3,3,7769.0,0,7769.0,0.943,8109,74,0.762,0.0
+718376583,Cancelado,52,M,2,Ensino Superior,Divorciado,$80K - $120K,Silver,44,4,3,2,34516.0,751,33765.0,0.357,5806,40,0.429,0.022
+720827133,Cancelado,43,F,3,Doutorado,Solteiro,Less than $40K,Blue,30,1,2,2,6261.0,463,5798.0,0.889,8132,64,0.6,0.074
+708948483,Cancelado,54,M,3,Ensino Superior,Casado,$80K - $120K,Silver,36,2,3,1,34516.0,761,33755.0,0.838,8444,68,0.744,0.022
+716721483,Cancelado,59,M,0,Sem ensino formal,Solteiro,$40K - $60K,Blue,52,1,2,2,14458.0,2017,12441.0,0.99,8696,72,0.895,0.14
+710527533,Cancelado,45,M,5,Ensino Superior Incompleto,Solteiro,$40K - $60K,Blue,36,4,3,3,4982.0,0,4982.0,0.886,8586,58,1.0,0.0
+709996833,Cancelado,31,M,1,Post-Ensino Superior,Solteiro,Less than $40K,Silver,36,6,3,5,12359.0,0,12359.0,0.843,7528,70,0.628,0.0
+714022833,Cancelado,42,F,2,Ensino Superior,Solteiro,$40K - $60K,Silver,32,4,3,3,17909.0,0,17909.0,0.225,5977,58,0.487,0.0
+710178558,Cancelado,46,M,2,Ensino Médio,Casado,$60K - $80K,Gold,38,5,3,6,34516.0,2517,31999.0,0.956,9314,89,0.978,0.073
+768712383,Cancelado,51,M,5,Ensino Superior,Divorciado,$120K +,Blue,45,6,3,6,34516.0,0,34516.0,0.757,8173,91,1022.0,0.0
+711156858,Cancelado,48,F,5,Ensino Médio,Solteiro,Less than $40K,Blue,40,1,4,3,8297.0,2517,5780.0,0.899,9819,74,0.682,0.303
+710306358,Cancelado,38,M,1,Não informado,Casado,$40K - $60K,Blue,18,1,1,2,9664.0,1983,7681.0,0.873,7995,56,0.806,0.205
+779055033,Cancelado,43,F,3,Sem ensino formal,Não informado,Less than $40K,Blue,24,1,2,2,8256.0,2416,5840.0,0.696,8104,64,0.73,0.293
+714145233,Cancelado,34,M,0,Ensino Superior,Divorciado,$80K - $120K,Silver,24,1,2,3,34516.0,400,34116.0,0.202,5112,49,0.256,0.012
+719547033,Cancelado,40,M,4,Não informado,Casado,$80K - $120K,Blue,31,1,3,6,23502.0,0,23502.0,0.839,7957,60,0.875,0.0
+789432033,Cancelado,32,F,1,Ensino Superior,Casado,Less than $40K,Blue,23,1,2,3,4065.0,230,3835.0,0.779,7844,64,0.73,0.057
+708319908,Cancelado,37,M,3,Ensino Superior,Solteiro,$80K - $120K,Blue,17,1,1,2,4116.0,1473,2643.0,1023.0,8667,70,0.892,0.358
+714082308,Cancelado,39,M,3,Ensino Médio,Solteiro,$80K - $120K,Blue,13,2,1,3,8656.0,0,8656.0,0.893,8056,89,0.935,0.0
+714820158,Cancelado,29,M,0,Ensino Médio,Solteiro,$40K - $60K,Blue,36,6,3,1,5988.0,660,5328.0,1041.0,10211,68,1.0,0.11
+713347608,Cancelado,54,F,2,Post-Ensino Superior,Solteiro,Less than $40K,Blue,43,2,3,2,4917.0,0,4917.0,0.972,9442,69,0.917,0.0
+718080558,Cancelado,41,F,4,Ensino Médio,Solteiro,Less than $40K,Blue,36,6,3,3,4720.0,0,4720.0,0.978,8798,67,0.675,0.0
+713880633,Cancelado,53,M,2,Não informado,Solteiro,$60K - $80K,Blue,43,2,2,3,5905.0,0,5905.0,0.797,8883,83,0.729,0.0
+758753283,Cancelado,52,M,3,Doutorado,Casado,$120K +,Blue,45,1,3,3,34516.0,550,33966.0,0.674,7341,71,0.732,0.016
+773172483,Cancelado,30,M,0,Ensino Superior,Casado,$40K - $60K,Blue,23,6,2,4,4063.0,0,4063.0,0.776,7463,70,0.707,0.0
+710639658,Cancelado,29,M,1,Ensino Médio,Solteiro,$60K - $80K,Blue,17,6,1,3,17744.0,829,16915.0,0.851,9658,78,0.773,0.047
+712941483,Cancelado,51,F,4,Post-Ensino Superior,Casado,$40K - $60K,Silver,43,1,3,3,3735.0,0,3735.0,0.762,6826,61,0.848,0.0
+714757083,Cancelado,44,M,4,Sem ensino formal,Casado,$60K - $80K,Silver,37,1,2,2,29076.0,0,29076.0,0.77,8765,84,1211.0,0.0
+714136233,Cancelado,53,M,4,Ensino Superior,Casado,$120K +,Blue,38,5,2,3,34516.0,0,34516.0,0.854,8417,72,0.714,0.0
+778888083,Cancelado,45,F,2,Ensino Superior,Casado,$40K - $60K,Blue,26,6,2,4,4307.0,0,4307.0,0.743,8697,62,0.59,0.0
+718665033,Cancelado,44,M,5,Doutorado,Solteiro,$60K - $80K,Silver,36,2,3,4,34140.0,0,34140.0,0.877,8177,76,0.52,0.0
+771561183,Cancelado,42,F,4,Ensino Superior,Solteiro,$40K - $60K,Blue,30,6,3,3,13753.0,2517,11236.0,0.652,7464,66,0.692,0.183
+712036383,Cancelado,49,M,4,Ensino Médio,Solteiro,$60K - $80K,Blue,30,6,3,3,18418.0,0,18418.0,0.918,9980,68,0.744,0.0
+715671183,Cancelado,43,M,3,Sem ensino formal,Casado,$80K - $120K,Blue,31,6,3,4,6824.0,2517,4307.0,0.972,9045,67,0.595,0.369
+822084333,Cancelado,51,M,3,Ensino Médio,Casado,$80K - $120K,Blue,47,2,4,3,4041.0,0,4041.0,0.67,8219,84,0.909,0.0
+708821733,Cancelado,43,F,3,Não informado,Solteiro,$40K - $60K,Silver,36,2,3,4,19713.0,531,19182.0,0.792,8301,70,0.591,0.027
+710751033,Cancelado,31,F,1,Ensino Superior,Solteiro,Less than $40K,Blue,13,1,1,3,4829.0,0,4829.0,0.836,8286,65,0.857,0.0
+710679933,Cancelado,59,M,1,Ensino Superior,Solteiro,$80K - $120K,Blue,54,2,5,4,15633.0,0,15633.0,0.984,8660,58,0.758,0.0
+717174558,Cancelado,57,F,1,Sem ensino formal,Solteiro,Less than $40K,Blue,46,2,3,3,9129.0,0,9129.0,0.733,7733,81,0.884,0.0
+714543633,Cancelado,45,F,3,Não informado,Solteiro,Less than $40K,Blue,36,1,2,5,7500.0,0,7500.0,0.576,8024,78,0.696,0.0
+713668158,Cancelado,31,F,1,Sem ensino formal,Solteiro,Não informado,Blue,36,2,3,3,21067.0,0,21067.0,0.995,9212,71,0.821,0.0
+709249083,Cancelado,40,M,2,Não informado,Solteiro,$60K - $80K,Blue,20,4,2,4,4283.0,0,4283.0,0.878,8672,64,1207.0,0.0
+713399583,Cancelado,49,M,2,Não informado,Casado,$80K - $120K,Blue,39,2,3,4,29865.0,2097,27768.0,0.902,8636,74,0.947,0.07
+709608708,Cancelado,29,M,1,Ensino Superior,Casado,$60K - $80K,Blue,17,5,1,4,6500.0,2517,3983.0,0.915,9451,79,0.646,0.387
+709977933,Cancelado,52,M,5,Sem ensino formal,Casado,$80K - $120K,Blue,44,2,3,4,9959.0,199,9760.0,1003.0,8517,60,0.5,0.02
+710590683,Cancelado,33,M,2,Não informado,Casado,$120K +,Blue,36,3,3,5,16127.0,0,16127.0,0.769,7729,82,1.0,0.0
+710081208,Cancelado,52,M,2,Ensino Superior Incompleto,Solteiro,$120K +,Blue,32,4,3,1,4935.0,0,4935.0,0.713,7886,64,0.882,0.0
+711460458,Cancelado,44,M,1,Sem ensino formal,Casado,$40K - $60K,Blue,34,5,2,3,10973.0,0,10973.0,0.792,10583,75,0.786,0.0
+710047533,Cancelado,51,M,3,Ensino Superior,Solteiro,$80K - $120K,Gold,36,4,3,3,34516.0,2201,32315.0,0.978,8614,63,0.75,0.064
+716708583,Cancelado,54,M,4,Ensino Superior,Casado,$120K +,Blue,36,2,3,5,7684.0,0,7684.0,0.61,7667,68,0.789,0.0
+712766208,Cancelado,45,M,5,Sem ensino formal,Solteiro,$120K +,Silver,36,4,2,1,34516.0,0,34516.0,0.732,8603,84,0.615,0.0
+715150983,Cancelado,44,F,3,Não informado,Solteiro,Não informado,Blue,34,2,3,3,26021.0,0,26021.0,1.04,8898,60,0.538,0.0
+714879483,Cancelado,39,M,4,Ensino Superior,Casado,$80K - $120K,Blue,31,1,3,3,3929.0,542,3387.0,0.811,7773,64,0.73,0.138
+714919308,Cancelado,32,F,0,Ensino Superior,Solteiro,Less than $40K,Blue,36,5,3,3,8135.0,0,8135.0,0.841,8620,67,0.971,0.0
+717774333,Cancelado,48,M,3,Ensino Médio,Casado,$60K - $80K,Blue,36,1,2,5,8431.0,0,8431.0,0.222,5189,57,0.357,0.0
+759584958,Cancelado,51,F,1,Ensino Superior,Casado,Não informado,Silver,44,4,2,4,33004.0,2418,30586.0,0.923,10156,72,0.946,0.073
+709660233,Cancelado,52,M,3,Não informado,Solteiro,$80K - $120K,Blue,44,1,2,4,3526.0,2429,1097.0,0.712,7775,63,0.909,0.689
+712627083,Cancelado,38,M,4,Sem ensino formal,Casado,$80K - $120K,Blue,25,5,2,4,5768.0,0,5768.0,0.924,9867,78,0.902,0.0
+711433908,Cancelado,41,F,3,Sem ensino formal,Casado,Less than $40K,Blue,30,1,2,3,9491.0,0,9491.0,1056.0,9061,51,1684.0,0.0
+712509108,Cancelado,46,F,3,Doutorado,Solteiro,Less than $40K,Gold,36,1,3,5,15164.0,532,14632.0,0.858,8356,68,0.478,0.035
+711745233,Cancelado,30,F,0,Ensino Médio,Solteiro,Não informado,Blue,22,1,2,4,13894.0,0,13894.0,0.845,9351,69,0.533,0.0
+710721858,Cancelado,46,F,3,Não informado,Casado,$40K - $60K,Blue,37,2,3,4,5542.0,0,5542.0,0.808,8246,59,0.639,0.0
+712457208,Cancelado,58,M,1,Ensino Superior,Solteiro,$80K - $120K,Blue,36,6,3,4,22718.0,0,22718.0,0.747,8100,77,0.833,0.0
+713934633,Cancelado,40,F,4,Sem ensino formal,Divorciado,Less than $40K,Blue,35,2,3,3,4423.0,2517,1906.0,0.84,8935,87,0.933,0.569
+714945708,Cancelado,33,M,4,Ensino Superior Incompleto,Solteiro,$40K - $60K,Silver,20,2,1,3,15977.0,0,15977.0,0.702,7745,64,0.684,0.0
+714524583,Cancelado,56,M,3,Sem ensino formal,Casado,$80K - $120K,Blue,46,1,3,3,23240.0,1534,21706.0,0.971,9441,82,0.907,0.066
+714199008,Cancelado,50,M,2,Não informado,Casado,$120K +,Blue,36,6,2,2,16081.0,492,15589.0,0.204,6100,61,0.564,0.031
+719326758,Cancelado,52,F,0,Doutorado,Casado,Less than $40K,Blue,36,4,3,2,4353.0,1489,2864.0,0.945,9226,85,1073.0,0.342
+718840833,Cancelado,49,M,3,Ensino Médio,Solteiro,$40K - $60K,Blue,36,1,3,4,4601.0,0,4601.0,0.962,9610,76,0.689,0.0
+709566408,Cancelado,40,F,2,Ensino Superior,Solteiro,Less than $40K,Blue,30,5,3,6,4458.0,0,4458.0,0.935,9640,70,0.707,0.0
+715020933,Cancelado,44,F,4,Ensino Médio,Não informado,Não informado,Blue,34,4,3,4,15944.0,0,15944.0,0.919,9360,67,0.763,0.0
+711149133,Cancelado,30,F,1,Ensino Superior,Casado,Não informado,Blue,18,4,1,4,4377.0,2517,1860.0,0.941,8759,74,0.609,0.575
+716832858,Cancelado,46,M,3,Ensino Superior,Casado,$60K - $80K,Blue,34,1,2,4,4930.0,159,4771.0,0.592,7412,60,0.579,0.032
+715154058,Cancelado,49,F,0,Não informado,Casado,Less than $40K,Blue,39,1,3,3,4982.0,2517,2465.0,0.903,9274,65,0.857,0.505
+789497283,Cancelado,50,M,2,Ensino Médio,Solteiro,$120K +,Blue,42,1,3,2,34162.0,1723,32439.0,0.429,7572,56,0.697,0.05
+714544908,Cancelado,56,M,4,Ensino Superior,Divorciado,$60K - $80K,Blue,36,6,3,3,6224.0,0,6224.0,0.92,8979,68,0.581,0.0
+714677583,Cancelado,50,F,3,Doutorado,Solteiro,Não informado,Blue,36,4,3,3,5173.0,0,5173.0,0.912,8757,68,0.789,0.0
+715493733,Cancelado,53,M,2,Ensino Superior,Casado,$40K - $60K,Blue,36,2,3,4,5735.0,0,5735.0,1009.0,9088,64,0.684,0.0
+827440458,Cancelado,48,M,4,Ensino Superior Incompleto,Casado,$80K - $120K,Blue,44,2,3,3,9524.0,1449,8075.0,0.559,7527,58,0.657,0.152
+720128658,Cancelado,49,M,1,Sem ensino formal,Solteiro,$120K +,Blue,30,5,3,3,5181.0,0,5181.0,0.83,8943,68,1.0,0.0
+770038983,Cancelado,37,M,4,Ensino Médio,Solteiro,$60K - $80K,Silver,31,1,3,3,28831.0,2517,26314.0,0.77,8688,69,0.769,0.087
+714684108,Cancelado,31,M,1,Post-Ensino Superior,Solteiro,$40K - $60K,Blue,24,4,2,4,4169.0,534,3635.0,0.836,8565,70,0.795,0.128
+779134458,Cancelado,33,F,1,Doutorado,Solteiro,Less than $40K,Blue,15,1,1,3,3709.0,1180,2529.0,0.645,8130,74,0.897,0.318
+710066133,Cancelado,30,M,0,Ensino Superior,Solteiro,Less than $40K,Silver,36,4,3,3,12833.0,0,12833.0,0.853,9619,75,0.786,0.0
+718614183,Cancelado,43,F,4,Ensino Médio,Não informado,Less than $40K,Silver,31,6,2,2,13651.0,0,13651.0,1046.0,9772,71,0.775,0.0
+709865883,Cancelado,38,M,2,Ensino Médio,Divorciado,$60K - $80K,Silver,25,1,2,3,26794.0,821,25973.0,0.848,8788,58,0.933,0.031
+717390408,Cancelado,49,F,4,Sem ensino formal,Casado,$40K - $60K,Blue,36,5,2,3,4167.0,0,4167.0,0.581,7590,87,0.776,0.0
+713281833,Cancelado,37,M,3,Não informado,Solteiro,$40K - $60K,Blue,29,6,2,3,13589.0,2517,11072.0,0.941,9456,79,1026.0,0.185
+720328983,Cancelado,52,F,5,Não informado,Casado,Less than $40K,Blue,36,4,3,3,9611.0,0,9611.0,0.84,7636,64,0.829,0.0
+713437008,Cancelado,40,F,3,Ensino Superior,Casado,Não informado,Blue,25,1,2,3,6888.0,1878,5010.0,1059.0,9038,64,0.829,0.273
+716644008,Cancelado,55,M,3,Ensino Superior,Solteiro,$120K +,Silver,36,4,3,4,34516.0,0,34516.0,1007.0,9931,70,0.75,0.0
+717185658,Cancelado,51,M,1,Ensino Médio,Casado,$80K - $120K,Blue,36,4,3,4,22754.0,0,22754.0,0.799,8531,77,0.791,0.0
+709646433,Cancelado,59,F,1,Ensino Médio,Casado,Less than $40K,Blue,50,1,4,3,5043.0,743,4300.0,0.805,10170,66,0.784,0.147
+713924283,Cancelado,61,M,0,Ensino Superior,Solteiro,$60K - $80K,Blue,54,2,1,4,11859.0,1644,10215.0,0.866,8930,79,0.837,0.139
+714471183,Cancelado,47,M,4,Ensino Superior,Divorciado,$80K - $120K,Blue,39,4,3,4,17504.0,476,17028.0,0.892,10468,66,0.737,0.027
+708564858,Cancelado,33,M,2,Ensino Superior Incompleto,Casado,$120K +,Gold,20,2,1,4,34516.0,0,34516.0,1004.0,9338,73,0.622,0.0
+713733633,Cancelado,27,M,0,Ensino Médio,Divorciado,$60K - $80K,Blue,36,2,3,2,13303.0,2517,10786.0,0.929,10219,85,0.809,0.189
+713755458,Cancelado,50,M,1,Não informado,Não informado,$80K - $120K,Blue,36,6,3,4,9959.0,952,9007.0,0.825,10310,63,1.1,0.096
+716893683,Cancelado,55,F,3,Sem ensino formal,Solteiro,Não informado,Blue,47,4,3,3,14657.0,2517,12140.0,0.166,6009,53,0.514,0.172
+710638233,Cancelado,41,M,2,Não informado,Divorciado,$40K - $60K,Blue,25,4,2,3,4277.0,2186,2091.0,0.804,8764,69,0.683,0.511
+716506083,Cancelado,44,F,1,Ensino Médio,Casado,Less than $40K,Blue,36,5,3,4,5409.0,0,5409.0,0.819,10291,60,0.818,0.0
+717406983,Cancelado,30,M,2,Ensino Superior,Não informado,$40K - $60K,Blue,36,4,3,3,5281.0,0,5281.0,0.535,8395,62,0.722,0.0
+714337233,Cancelado,43,F,2,Ensino Superior,Casado,Less than $40K,Silver,25,6,2,4,10388.0,1961,8427.0,0.703,10294,61,0.649,0.189
