@@ -114,3 +114,26 @@ for col in immunization_cols:
 # Conclusão
 st.header('Conclusão')
 st.write('Após todas essas análises, espero ter respondido aos vários "porquês" de diferentes calamidades e suas origens!')
+st.write("""
+### Impacto dos principais fatores na expectativa de vida:
+
+- **Escolaridade (Schooling):**  
+  Uma maior quantidade de anos de estudo está fortemente associada a uma maior expectativa de vida. Isso acontece porque a educação melhora o acesso a informações sobre saúde, higiene e prevenção de doenças.
+
+- **Gastos com Saúde (Total expenditure):**  
+  Países que investem mais em saúde tendem a ter populações com maior expectativa de vida, pois o acesso a serviços médicos de qualidade e prevenção é ampliado.
+
+- **Mortalidade Infantil (infant deaths) e Mortalidade Adulta (Adult Mortality):**  
+  Taxas altas dessas mortalidades impactam negativamente a expectativa de vida, indicando problemas graves de saúde pública.
+
+- **Hábitos de Vida (BMI, Álcool, thinness, composição de renda):**  
+  Índices relacionados ao estado nutricional e consumo de álcool refletem diretamente na saúde da população e, consequentemente, na expectativa de vida.
+
+- **População:**  
+  A densidade populacional pode afetar a expectativa de vida, por influência no acesso a recursos, saneamento e condições de vida.
+
+- **Cobertura de Imunização (Polio, Diphtheria):**  
+  Maior cobertura vacinal reduz o impacto de doenças evitáveis, aumentando a expectativa de vida.
+
+Em resumo, a expectativa de vida é influenciada por fatores complexos e interligados — educação, investimentos em saúde, condições socioeconômicas e hábitos de vida saudáveis. Políticas públicas focadas nesses aspectos são essenciais para melhorar a qualidade de vida e longevidade das populações.
+""")
