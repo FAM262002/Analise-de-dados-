@@ -111,6 +111,15 @@ for col in immunization_cols:
     else:
         st.warning(f"Coluna ausente: {col}")
 
+st.header('Mapa de Calor da Correlação entre Variáveis')
+
+corr = df.corr(numeric_only=True)
+fig, ax = plt.subplots(figsize=(12,10))
+sns.heatmap(corr, annot=True, fmt=".2f", cmap='coolwarm', cbar=True, ax=ax)
+plt.xticks(rotation=45, ha='right')
+plt.yticks(rotation=0)
+st.pyplot(fig)
+
 # Conclusão
 st.header('Conclusão')
 st.write('Após todas essas análises, espero ter respondido aos vários "porquês" de diferentes calamidades e suas origens!')
