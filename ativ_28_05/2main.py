@@ -6,10 +6,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import io
 
-# Function to load and clean data
 st.cache_data
 def load_data(filepath):
-    df = pd.read_csv(filepath)
+    df = pd.read_csv('Life_Expectancy_Data.csv',sep = ',' , encoding='utf-8')
     df.columns = df.columns.str.strip()  # Remove espaços extras nos nomes das colunas
     return df
 
