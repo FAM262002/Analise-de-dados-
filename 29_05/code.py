@@ -163,11 +163,7 @@ st.metric("📦 Livros Disponíveis Agora", qtd_livros_disponiveis)
 
 # Livros por categoria
 
-st.subheader("🧾 Quantidade Disponivel")
-df_select = pd.read_sql_query("SELECT titulo, categoria_id FROM livros", conn)
-st.dataframe(df_select)
-
-st.subheader("📊 Livros Emprestados:")
+st.subheader("🧾 Livros Emprestados:")
 df_select = pd.read_sql_query('''
     SELECT l.titulo, e.data_emprestimo, e.devolvido
     FROM emprestimos e
@@ -176,7 +172,6 @@ df_select = pd.read_sql_query('''
 st.dataframe(df_select)
 
 st.markdown("### 🔵 Encerrar Empréstimo e Calcular Multa")
-
 # Buscar empréstimos em aberto (não devolvidos)
 df_emprestimos_abertos = pd.read_sql_query('''
     SELECT e.id, l.titulo, e.data_emprestimo
@@ -215,6 +210,28 @@ else:
 
 
 conn.commit()
+
+df_disponibilidade = pd.read_sql_query('''
+    SELECT 
+        l.id,
+        l.titulo,
+        l.quantidade AS total_exemplares,
+        COALESCE(e.emprestimos_ativos, 0) AS emprestimos_ativos,
+        (l.quantidade - COALESCE(e.emprestimos_ativos, 0)) AS disponiveis
+    FROM livros l
+    LEFT JOIN (
+        SELECT livro_id, COUNT(*) AS emprestimos_ativos
+        FROM emprestimos
+        WHERE devolvido = 0
+        GROUP BY livro_id
+    ) e ON l.id = e.livro_id
+''', conn)
+
+# Exiba no Streamlit
+st.subheader("Quantidade Disponível")
+st.dataframe(df_disponibilidade)
+
+
 
 #st.subheader("📊 Livros por Categoria")
 #categoria_count = query_df('''
