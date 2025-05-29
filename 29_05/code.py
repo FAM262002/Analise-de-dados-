@@ -1,7 +1,8 @@
 import sqlite3 as sql
 import pandas as pd
 import streamlit as st
-from datetime import datetime
+from datetime import datetime, timedelta
+
 
 conn = sql.connect("livros.db", check_same_thread=False)
 cursor = conn.cursor()
@@ -123,17 +124,42 @@ df_filtro = pd.read_sql_query("SELECT * FROM livros WHERE ano > ?", conn, params
 st.dataframe(df_filtro)
 
 # Estatísticas
-st.subheader("📈 Estatísticas")
-qtd_livros = cursor.execute('SELECT SUM(quantidade) FROM livros').fetchone()[0]
-if qtd_livros is None:
-    qtd_livros = 0
+st.subheader("📈 Estatísticas Atualizadas")
 
-qtd_emprestimos = cursor.execute('SELECT COUNT(*) FROM emprestimos').fetchone()[0]
-qtd_devolvidos = cursor.execute('SELECT COUNT(*) FROM emprestimos WHERE devolvido = 1').fetchone()[0]
+# Total de exemplares cadastrados (somatório das quantidades)
+qtd_total_exemplares = cursor.execute('SELECT SUM(quantidade) FROM livros').fetchone()[0] or 0
 
-st.metric("Total de Livros (exemplares)", qtd_livros)
-st.metric("Total de Empréstimos", qtd_emprestimos)
-st.metric("Total Devolvidos", qtd_devolvidos)
+# Total de empréstimos ativos (não devolvidos)
+qtd_emprestimos_ativos = cursor.execute('SELECT COUNT(*) FROM emprestimos WHERE devolvido = 0').fetchone()[0]
+
+# Total de empréstimos devolvidos
+qtd_emprestimos_devolvidos = cursor.execute('SELECT COUNT(*) FROM emprestimos WHERE devolvido = 1').fetchone()[0]
+
+# Total de empréstimos feitos
+qtd_total_emprestimos = qtd_emprestimos_ativos + qtd_emprestimos_devolvidos
+
+# Livros disponíveis (apenas cálculo geral — estoque real)
+qtd_livros_disponiveis = qtd_total_exemplares - qtd_emprestimos_ativos
+if qtd_livros_disponiveis < 0:
+    qtd_livros_disponiveis = 0
+
+# Exibição
+st.metric("📚 Total de Exemplares", qtd_total_exemplares)
+st.metric("📤 Empréstimos Ativos", qtd_emprestimos_ativos)
+st.metric("✅ Devolvidos", qtd_emprestimos_devolvidos)
+st.metric("📦 Livros Disponíveis Agora", qtd_livros_disponiveis)
+
+#st.subheader("📈 Estatísticas")
+#qtd_livros = cursor.execute('SELECT SUM(quantidade) FROM livros').fetchone()[0]
+#if qtd_livros is None:
+    #qtd_livros = 0
+
+#qtd_emprestimos = cursor.execute('SELECT COUNT(*) FROM emprestimos').fetchone()[0]
+#qtd_devolvidos = cursor.execute('SELECT COUNT(*) FROM emprestimos WHERE devolvido = 1').fetchone()[0]
+
+#st.metric("Total de Livros (exemplares)", qtd_livros)
+#st.metric("Total de Empréstimos", qtd_emprestimos)
+#st.metric("Total Devolvidos", qtd_devolvidos)
 
 # Livros por categoria
 
@@ -148,6 +174,44 @@ df_select = pd.read_sql_query('''
     JOIN livros l ON e.livro_id = l.id
 ''', conn)
 st.dataframe(df_select)
+
+st.markdown("### 🔵 Encerrar Empréstimo e Calcular Multa")
+
+# Buscar empréstimos em aberto (não devolvidos)
+df_emprestimos_abertos = pd.read_sql_query('''
+    SELECT e.id, l.titulo, e.data_emprestimo
+    FROM emprestimos e
+    JOIN livros l ON e.livro_id = l.id
+    WHERE e.devolvido = 0
+''', conn)
+
+if not df_emprestimos_abertos.empty:
+    selected_row = st.selectbox(
+        "Selecione um empréstimo para encerrar:",
+        df_emprestimos_abertos.itertuples(index=False),
+        format_func=lambda row: f"{row.titulo} (em {row.data_emprestimo})"
+    )
+
+    if st.button("Encerrar Empréstimo"):
+        data_emprestimo = datetime.strptime(selected_row.data_emprestimo, "%Y-%m-%d")
+        data_hoje = datetime.today()
+        prazo_limite = data_emprestimo + timedelta(days=7)
+        dias_atraso = (data_hoje - prazo_limite).days
+
+        multa = 0.0
+        if dias_atraso > 0:
+            multa = dias_atraso * 0.15
+
+        cursor.execute('UPDATE emprestimos SET devolvido = 1 WHERE id = ?', (selected_row.id,))
+        conn.commit()
+
+        st.success("📚 Empréstimo encerrado com sucesso!")
+        if multa > 0:
+            st.error(f"⚠️ Atraso de {dias_atraso} dias. Multa: R$ {multa:.2f}")
+        else:
+            st.info("✅ Devolução dentro do prazo. Sem multa.")
+else:
+    st.info("Nenhum empréstimo em aberto.")
 
 
 conn.commit()
