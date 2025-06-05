@@ -1,6 +1,7 @@
 import streamlit as st
 import backend as bk
 import matplotlib.pyplot as plt
+import re  # <- IMPORTANTE para ordenar nomes com números corretamente
 
 st.set_page_config(page_title='Dashboard de Vendas', layout='wide')
 
@@ -15,7 +16,14 @@ st.dataframe(df.head())
 data_ini = st.sidebar.date_input("Data inicial", df['data_venda'].min().date())
 data_fim = st.sidebar.date_input("Data final", df['data_venda'].max().date())
 forma_pagamento = st.sidebar.selectbox("Forma de Pagamento", ['Todos'] + sorted(df['forma_pagamento'].unique()))
-clientes = ['Todos'] + sorted(df['cliente'].unique())
+
+# Ordenação natural para nomes tipo "cliente 1", "cliente 2", ..., "cliente 10"
+def extrair_numero(nome):
+    match = re.search(r'\d+', nome)
+    return int(match.group()) if match else 0
+
+clientes_lista = sorted(df['cliente'].unique(), key=extrair_numero)
+clientes = ['Todos'] + clientes_lista
 clientes_selecionados = st.sidebar.multiselect("Cliente(s)", clientes, default='Todos')
 
 # Aplicar filtros
@@ -46,7 +54,6 @@ with col1:
 
 # Top produtos
 top = bk.top_produtos(df_filtrado)
-
 fig2, ax2 = plt.subplots(figsize=(6,3))
 ax2.bar(top['produto'], top['quantidade'], color='#FF9933')
 ax2.set_ylabel('Quantidade Vendida')
@@ -58,16 +65,10 @@ with col2:
 
 # Lucro por categoria
 st.subheader("📈 Evolução do Lucro por Categoria")
-
-# Agrupa por mês e categoria
 df_lucro_cat = df_filtrado.copy()
 df_lucro_cat['ano_mes'] = df_lucro_cat['data_venda'].dt.to_period('M')
 lucro_categoria_mes = df_lucro_cat.groupby(['ano_mes', 'categoria'])['valor_total'].sum().reset_index()
-
-# Converte 'ano_mes' para string para melhor plotagem
 lucro_categoria_mes['ano_mes'] = lucro_categoria_mes['ano_mes'].astype(str)
-
-# Pivot para ter categorias nas colunas
 pivot_lucro = lucro_categoria_mes.pivot(index='ano_mes', columns='categoria', values='valor_total').fillna(0)
 
 fig, ax = plt.subplots(figsize=(8, 4))
@@ -78,5 +79,4 @@ ax.set_ylabel("Lucro (R$)")
 ax.legend(title='Categoria')
 plt.xticks(rotation=45)
 plt.tight_layout()
-
 st.pyplot(fig)
