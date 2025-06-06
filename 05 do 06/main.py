@@ -8,10 +8,6 @@ st.set_page_config(page_title='Dashboard de Vendas', layout='wide')
 # Carregar dados usando backend
 df = bk.carregar_dados()
 
-# Mostrar primeiras linhas da tabela para confirmar o carregamento
-st.title("Dashboard de Vendas - Dados")
-st.dataframe(df.head())
-
 # Filtros básicos
 data_ini = st.sidebar.date_input("Data inicial", df['data_venda'].min().date())
 data_fim = st.sidebar.date_input("Data final", df['data_venda'].max().date())
@@ -71,8 +67,19 @@ lucro_categoria_mes = df_lucro_cat.groupby(['ano_mes', 'categoria'])['valor_tota
 lucro_categoria_mes['ano_mes'] = lucro_categoria_mes['ano_mes'].astype(str)
 pivot_lucro = lucro_categoria_mes.pivot(index='ano_mes', columns='categoria', values='valor_total').fillna(0)
 
+# Cores personalizadas por categoria
+cores_personalizadas = {
+    'Açaí': '#00F539',
+    'Sobremesa': '#0021F5',
+    'Bebida': '#F5BC00',
+    'Sorvete': '#F50015'
+}
 fig, ax = plt.subplots(figsize=(8, 4))
-pivot_lucro.plot(ax=ax, marker='o')
+pivot_lucro.plot(
+    ax=ax,
+    marker='o',
+    color=[cores_personalizadas.get(categoria, '#333333') for categoria in pivot_lucro.columns]
+)
 ax.set_title("Evolução do Lucro por Categoria")
 ax.set_xlabel("Mês")
 ax.set_ylabel("Lucro (R$)")
@@ -80,3 +87,10 @@ ax.legend(title='Categoria')
 plt.xticks(rotation=45)
 plt.tight_layout()
 st.pyplot(fig)
+
+# Mostrar primeiras linhas da tabela para confirmar o carregamento
+st.title("Dashboard de Top Vendas")
+
+resumo = bk.top5_clientes_resumo(bk.df_filtrado)
+
+st.dataframe(resumo)

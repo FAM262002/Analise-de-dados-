@@ -1,8 +1,53 @@
 import pandas as pd
 
+df = pd.read_csv('dados_vendas_acai.csv', parse_dates=['data_venda'])
+df_filtrado = df
+
 def carregar_dados():
-    df = pd.read_csv('dados_vendas_acai.csv', parse_dates=['data_venda'])
+    df = pd.read_csv("dados_vendas_acai.csv", parse_dates=['data_venda'])
     return df
+
+def top5_clientes_resumo(df):
+    # 1. Top 5 clientes pelo valor total gasto
+    total_gasto = df.groupby('cliente')['valor_total'].sum()
+    top5_clientes = total_gasto.sort_values(ascending=False).head(5).index.tolist()
+    
+    df_top5 = df[df['cliente'].isin(top5_clientes)]
+    
+    # 2. Valor total gasto por cliente (para exibir)
+    valor_gasto = df_top5.groupby('cliente')['valor_total'].sum()
+    
+    # 3. Forma de pagamento mais usada por cliente (contagem)
+    forma_mais_usada = (
+        df_top5.groupby(['cliente', 'forma_pagamento'])
+        .size()
+        .reset_index(name='contagem')
+        .sort_values(['cliente', 'contagem'], ascending=[True, False])
+        .drop_duplicates(subset=['cliente'], keep='first')
+        .set_index('cliente')['forma_pagamento']
+    )
+    
+    # 4. Produto mais consumido (quantidade) por cliente
+    produto_mais_consumido = (
+        df_top5.groupby(['cliente', 'produto'])['quantidade']
+        .sum()
+        .reset_index()
+        .sort_values(['cliente', 'quantidade'], ascending=[True, False])
+        .drop_duplicates(subset=['cliente'], keep='first')
+        .set_index('cliente')['produto']
+    )
+    
+    # Monta o dataframe final
+    resumo = pd.DataFrame({
+        'Valor Total Gasto': valor_gasto,
+        'Forma de Pagamento Mais Usada': forma_mais_usada,
+        'Produto Mais Consumido': produto_mais_consumido
+    })
+    
+    # Opcional: ordena por valor gasto decrescente
+    resumo = resumo.sort_values('Valor Total Gasto', ascending=False)
+    
+    return resumo
 
 def aplicar_filtros(df, data_ini, data_fim, forma_pagamento, clientes):
     df_filtrado = df[
